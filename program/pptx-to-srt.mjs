@@ -11,7 +11,8 @@ function parseArgs() {
   const config = {
     inputFile: null,
     outputBase: 'subtitles',
-    defaultDuration: 3000, // ms (changed from 4000 to 3000)
+    defaultDuration: 3000, // ms - interval between subtitles
+    displayDuration: 3000, // ms - how long each subtitle is shown
     startOffset: 0,
     minDuration: 500, // ms
     lang1: 'ro',
@@ -379,11 +380,12 @@ async function main() {
       console.log(`\nSlide ${i + 1}:`);
       console.log(`  ${config.lang1}: ${slideData.lang1 || '(empty)'}`);
       console.log(`  ${config.lang2}: ${slideData.lang2 || '(empty)'}`);
-      console.log(`  Duration: ${slideData.duration}ms`);
+      console.log(`  Interval: ${slideData.duration}ms`);
+      console.log(`  Display: ${config.displayDuration}ms`);
     }
     
     const start = currentTime;
-    const end = currentTime + slideData.duration;
+    const end = currentTime + config.displayDuration; // Fixed display duration
     
     if (slideData.lang1) {
       lang1Subtitles.push({ start, end, text: slideData.lang1 });
@@ -401,7 +403,7 @@ async function main() {
       });
     }
     
-    currentTime = end;
+    currentTime += slideData.duration; // Move to next subtitle based on interval
   }
   
   console.log(`\nProcessed ${slideIdArray.length} slides`);
