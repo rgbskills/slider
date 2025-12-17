@@ -1,5604 +1,5197 @@
 1
-00:02:48,806 --> 00:02:51,806
-This play is called “Our Town.”
+00:02:58,978 --> 00:03:01,978
+In it you will see Dr. Gibbs,
+Mrs. Gibbs, George Gibbs, Rebecca Gibbs,
 
 2
-00:02:58,978 --> 00:03:01,978
-In it you will see Dr. Gibbs, Mrs. Gibbs, George Gibbs, Rebecca Gibbs,
+00:03:19,322 --> 00:03:22,322
+Constable Warren, Howie Newsome,
+Joe Crowell, Si Crowell, Simon Stinson, Mrs. Soames.
 
 3
-00:03:19,322 --> 00:03:22,322
-Constable Warren, Howie Newsome, Joe Crowell, Si Crowell, Simon Stinson, Mrs. Soames.
+00:03:29,494 --> 00:03:32,494
+The name of our town is Grover’s Corners,
+New Hampshire
 
 4
-00:03:29,494 --> 00:03:32,494
-The name of our town is Grover’s Corners, New Hampshire
+00:03:49,839 --> 00:03:52,839
+The first act shows a day in our town.
+The date is May 7, 1901,
 
 5
-00:03:34,581 --> 00:03:37,581
-just over the line from Massachusetts; latitude 42 degrees,
+00:04:00,011 --> 00:04:03,011
+Sky is showing some streaks of light
+over in the East there,
 
 6
-00:03:39,667 --> 00:03:42,667
-40 minutes, longitude 70 degrees, 37 minutes.
+00:04:05,097 --> 00:04:08,097
+the mornin’ star gets brighter
+just before it has to go.
 
 7
-00:03:49,839 --> 00:03:52,839
-The first act shows a day in our town. The date is May 7, 1901, just before dawn.
+00:04:20,356 --> 00:04:23,356
+Over there on the left is the railroad tracks.
+The Congregational Church is over there;
 
 8
-00:04:00,011 --> 00:04:03,011
-Sky is showing some streaks of light over in the East there,
-
-9
-00:04:05,097 --> 00:04:08,097
-the mornin’ star gets brighter just before it has to go.
-
-10
-00:04:15,269 --> 00:04:18,269
-Well, now I’ll show you how our town lies. Here’s Main Street.
-
-11
-00:04:20,356 --> 00:04:23,356
-Over there on the left is the railroad tracks. The Congregational Church is over there;
-
-12
 00:04:25,442 --> 00:04:28,442
 the Presbyterian’s across the street.
 
-13
+9
 00:04:30,528 --> 00:04:33,528
-Methodist and Unitarian are over there. Baptist is—by the river.
+Methodist and Unitarian are over there.
+Baptist is—by the river.
+
+10
+00:04:35,614 --> 00:04:38,614
+Across the tracks is—
+the Catholic Church,
+
+11
+00:04:40,700 --> 00:04:43,700
+Next to the Post Office is the
+Town Hall; jail is in the basement.
+
+12
+00:04:45,786 --> 00:04:48,786
+Washington once made a speech
+
+13
+00:04:55,958 --> 00:04:58,958
+This is the Main Street.
 
 14
-00:04:35,614 --> 00:04:38,614
-Across the tracks is— the Catholic Church,
-
-15
-00:04:40,700 --> 00:04:43,700
-Next to the Post Office is the Town Hall; jail is in the basement.
-
-16
-00:04:45,786 --> 00:04:48,786
-Washington once made a speech from those steps.
-
-17
-00:04:55,958 --> 00:04:58,958
-This is the Main Street. Along Main Street there’s a row of stores.
-
-18
 00:05:01,044 --> 00:05:04,044
 Here are the poles that the horses are tied to.
 
-19
+15
 00:05:06,131 --> 00:05:09,131
-First automobile’s goin’ to come along in about five years—
+First automobile’s goin’ to come
+along in about five years—
+
+16
+00:05:11,217 --> 00:05:14,217
+belonged to Banker Cartwright,
+our richest citizen.
+
+17
+00:05:16,303 --> 00:05:19,303
+Lives in the big white house
+on the hill.
+
+18
+00:05:26,475 --> 00:05:29,475
+Here’s the grocery store
+and Mr. Morgan’s drugstore.
+
+19
+00:05:31,561 --> 00:05:34,561
+Everyone in town goes
+to those stores.
 
 20
-00:05:11,217 --> 00:05:14,217
-belonged to Banker Cartwright, our richest citizen.
-
-21
-00:05:16,303 --> 00:05:19,303
-Lives in the big white house on the hill.
-
-22
-00:05:26,475 --> 00:05:29,475
-Here’s the grocery store and Mr. Morgan’s drugstore.
-
-23
-00:05:31,561 --> 00:05:34,561
-Everyone in town goes to those stores.
-
-24
 00:05:41,733 --> 00:05:44,733
 This is Doctor Gibbs’ house.
 
-25
+21
 00:05:46,819 --> 00:05:49,819
 This is the back door.
 
-26
+22
 00:05:51,906 --> 00:05:54,906
-Here’s a couple of trellises for those who need scenery.
+Here’s a couple of trellises
+for those who need scenery.
 
-27
+23
 00:05:56,992 --> 00:05:59,992
-This is Mrs. Gibbs’ garden— Corn… chickpeas... beans... peas... heliotrop
+This is Mrs. Gibbs’ garden— Corn…
+chickpeas... beans... peas... heliotrop
 
-28
+24
 00:06:02,078 --> 00:06:05,078
 and lots of weeds.
 
-29
+25
 00:06:07,164 --> 00:06:10,164
-Back then we got newspapers twice a week—
+Back then we got newspapers
+twice a week—
 
-30
+26
 00:06:12,250 --> 00:06:15,250
-the Grover’s Corners Sentinel— this is Editor Webb’s house .
+the Grover’s Corners Sentinel—
+this is Editor Webb’s house
 
-31
-00:06:17,336 --> 00:06:20,336
-And Mrs. Webb’s Garden. Just like Mrs. Gibbs’s :
-
-32
+27
 00:06:22,422 --> 00:06:25,422
-Corn… chickpeas... beans... peas... but with sunflowers—
+Corn…
 
-33
-00:06:32,594 --> 00:06:35,594
-Right here ...
-
-34
+28
 00:06:37,681 --> 00:06:40,681
 is a big walnut tree.
 
-35
+29
 00:06:47,853 --> 00:06:50,853
 Nice town, right?
 
-36
+30
 00:06:52,939 --> 00:06:55,939
-Nobody very remarkable ever come out of it.
+Nobody very remarkable
+ever come out of it.
+
+31
+00:06:58,025 --> 00:07:01,025
+The earliest dates on
+the tombstones in the cemetery
+
+32
+00:07:03,111 --> 00:07:06,111
+say 1670–1680. They’re Grovers
+and Cartwrights
+
+33
+00:07:08,197 --> 00:07:11,197
+and Gibbses and Herseys—-
+same names from here now.
+
+34
+00:07:13,283 --> 00:07:16,283
+Like I said: it’s early morning.
+The only lights on are in a cottage
+
+35
+00:07:18,369 --> 00:07:21,369
+over by the tracks where
+a Polish mother’s had twins.
+
+36
+00:07:28,542 --> 00:07:31,542
+And in the Joe Crowell house,
+where Joe Junior’s gettin’ ready
 
 37
-00:06:58,025 --> 00:07:01,025
-The earliest dates on the tombstones in the cemetery
-
-38
-00:07:03,111 --> 00:07:06,111
-say 1670–1680. They’re Grovers and Cartwrights
-
-39
-00:07:08,197 --> 00:07:11,197
-and Gibbses and Herseys—- same names from here now.
-
-40
-00:07:13,283 --> 00:07:16,283
-Like I said: it’s early morning. The only lights on are in a cottage
-
-41
-00:07:18,369 --> 00:07:21,369
-over by the tracks where a Polish mother’s had twins.
-
-42
-00:07:28,542 --> 00:07:31,542
-And in the Joe Crowell house, where Joe Junior’s gettin’ ready
-
-43
 00:07:33,628 --> 00:07:36,628
 to deliver the paper.
 
-44
+38
 00:07:38,714 --> 00:07:41,714
-And in the depot, where Shorty Hawkins is gettin’ ready
+And in the depot, where Shorty Hawkins
+is gettin’ ready
 
-45
-00:07:43,800 --> 00:07:46,800
-to flag the 5.45 train for Boston. Aya—there she is.
-
-46
-00:07:48,886 --> 00:07:51,886
-A ll around, they’ve been lights on for some time, what with milkin’ and so on.
-
-47
+39
 00:07:53,972 --> 00:07:56,972
-But town folks sleep late. So—another day’s begun.
+But town folks sleep late.
+So—another day’s begun.
 
-48
-00:07:59,058 --> 00:08:02,058
-Here comes Doc tor Gibbs down the Main Street , returning from that baby case.
-
-49
-00:08:04,144 --> 00:08:07,144
-And here’s Mrs. Gibbs coming down to begin breakfast.
-
-50
-00:08:14,317 --> 00:08:17,317
-Doc tor Gibbs died in 1930. New hospital’s named after him.
-
-51
+40
 00:08:19,403 --> 00:08:22,403
-Mrs. Gibbs died of pneumonia visiting her daughter Rebecca,
+Mrs. Gibbs died of pneumonia
+visiting her daughter Rebecca,
 
-52
+41
 00:08:24,489 --> 00:08:27,489
-who married an insurance man in Canton, Ohio,
+who married an insurance man
+in Canton, Ohio,
 
-53
-00:08:29,575 --> 00:08:32,575
-and died there of pneumonia, but her body was brought back here.
-
-54
+42
 00:08:34,661 --> 00:08:37,661
 She’s buried in that cemetery—
 
-55
-00:08:39,747 --> 00:08:42,747
-she was Julia Hersey before she married Dr. Gibbs
-
-56
+43
 00:08:44,833 --> 00:08:47,833
 in the Congregational Church.
 
-57
+44
 00:08:49,919 --> 00:08:52,919
-In our town we like to know the facts about everybody.
+In our town we like to know
+the facts about everybody.
 
-58
+45
 00:09:00,092 --> 00:09:03,092
-There’s Mrs. Webb starting breakfast too.
+There’s Mrs. Webb
 
-59
+46
 00:09:10,264 --> 00:09:13,264
-And here comes Joe Crowell deliverin' the paper.
+And here comes Joe Crowell
+deliverin' the paper.
 
-60
-00:09:20,436 --> 00:09:23,436
-– Good m ornin g , D r. Gobbs! – Good m ornin g , Joe!
-
-61
-00:09:25,522 --> 00:09:28,522
-– Want your paper now? – Yes, I’ll take it.
-
-62
+47
 00:09:35,694 --> 00:09:38,694
 Anybody been sick?
 
-63
+48
 00:09:40,781 --> 00:09:43,781
-No. Some twins born in Polish Town —
+No. Some twins born
+in Polish Town —
 
-64
+49
 00:09:45,867 --> 00:09:48,867
-I see your teacher Miss Foster is getting married.
+I see your teacher Miss Foster
+is getting married.
 
-65
+50
 00:09:50,953 --> 00:09:53,953
 Yes, sir, to a man in Concord.
 
-66
+51
 00:09:56,039 --> 00:09:59,039
-Well, how do you boys feel about that?
+Well, how do you boys
+feel about that?
 
-67
+52
 00:10:01,125 --> 00:10:04,125
-Well, it’s not my business— but I think
+Well, it’s not my business—
 
-68
-00:10:06,211 --> 00:10:09,211
-if a person starts out to be a teacher she should stay one.
-
-69
+53
 00:10:11,297 --> 00:10:14,297
 How’s your knee, Joe?
 
-70
-00:10:16,383 --> 00:10:19,383
-Fine, Doc tor . Only like you said, it tells me
-
-71
+54
 00:10:21,469 --> 00:10:24,469
 when it’s going to rain.
 
-72
-00:10:26,556 --> 00:10:29,556
-– Is it telling you rain today? – No.
-
-73
-00:10:31,642 --> 00:10:34,642
-– Sure? – Yes , sir.
-
-74
-00:10:36,728 --> 00:10:39,728
-– Knee ever make a mistake? – No sir.
-
-75
+55
 00:10:41,814 --> 00:10:44,814
-I want to tell you something about that boy. Joe was smart—
+I want to tell you something about that boy.
+Joe was smart—
 
-76
+56
 00:10:46,900 --> 00:10:49,900
 graduated top of his class.
 
-77
+57
 00:10:51,986 --> 00:10:54,986
-He got a scholarship to Boston Tech—M.I.T.
+He got a scholarship to Boston
+Tech—M.I.T.
 
-78
+58
 00:10:57,072 --> 00:11:00,072
 Graduated top of his class from there too.
 
-79
+59
 00:11:02,158 --> 00:11:05,158
-It was in all the Boston papers at the time.
+It was in all the Boston papers
+at the time.
 
-80
+60
 00:11:07,244 --> 00:11:10,244
-Joe was going to be an engineering, but the war started
+Joe was going to be an engineering,
+but the war started
 
-81
+61
 00:11:12,331 --> 00:11:15,331
 and he died in France.
 
-82
+62
 00:11:17,417 --> 00:11:20,417
-All that education for nothing. What business he had fighting the Germans
+All that education for nothing.
+What business he had fighting the Germans
 
-83
+63
 00:11:22,503 --> 00:11:25,503
-we don’t know now, but it seemed perfectly clear at the time.
+we don’t know now, but it seemed
+perfectly clear at the time.
 
-84
+64
 00:11:32,675 --> 00:11:35,675
-Here comes Howie Newsome delivering milk.
+Here comes Howie Newsome
+delivering milk.
 
-85
+65
 00:11:37,761 --> 00:11:40,761
-Giddy up, Bessie. What’s the matter with you?
+Giddy up, Bessie.
+What’s the matter with you?
 
-86
-00:11:47,933 --> 00:11:50,933
-– Bună dimineața , Doc tor ! – Bună dimineața , Howie!
-
-87
-00:11:53,019 --> 00:11:56,019
-– Somebody sick? – Pair of twins over to Mrs. Goruslawski’s.
-
-88
-00:11:58,106 --> 00:12:01,106
-Twins, eh? This town’s gettin’ bigger every year.
-
-89
+66
 00:12:03,192 --> 00:12:06,192
 Going to rain, Howie?
 
-90
+67
 00:12:08,278 --> 00:12:11,278
-No. Fine day, with sunshine, no joke. Come on, Bessie.
+No. Fine day,
+with sunshine,
 
-91
+68
 00:12:13,364 --> 00:12:16,364
-Hello, Bessie! How old is she?
+Hello, Bessie!
+How old is she?
 
-92
-00:12:18,450 --> 00:12:21,450
-Almost seventeen. Bessie’s been confused since the Lockharts
-
-93
+69
 00:12:23,536 --> 00:12:26,536
-cancelled their milk delivery. She wants to head that way
+cancelled their milk delivery.
+She wants to head that way
 
-94
+70
 00:12:28,622 --> 00:12:31,622
-and yells at me the whole time.
+and yells at me
+the whole time.
 
-95
-00:12:38,794 --> 00:12:41,794
-– Good morning, Mis’ Gibbs. – Good morning, Howie!
-
-96
+71
 00:12:43,881 --> 00:12:46,881
-Doc tor ’s comin’ down the street.
+Doc
 
-97
+72
 00:12:48,967 --> 00:12:51,967
-Is he? Seems like you’re late today.
+Is he? Seems like
+you’re late today.
 
-98
+73
 00:12:54,053 --> 00:12:57,053
-Aya. Something went wrong with the cart this morning. I don’t know what happened.
+Aya. Something went wrong with the cart this morning.
 
-99
+74
 00:13:04,225 --> 00:13:07,225
 Children, time to get up!
 
-100
+75
 00:13:09,311 --> 00:13:12,311
 Come on, Bessie!
 
-101
+76
 00:13:19,483 --> 00:13:22,483
 Everything ok, Frank?
 
-102
+77
 00:13:24,569 --> 00:13:27,569
 Yes. Easy as kittens.
 
-103
+78
 00:13:29,656 --> 00:13:32,656
-Bacon will be ready soon. Come drink your coffee.
+Bacon will be ready soon.
+Come drink your coffee.
 
-104
+79
 00:13:39,828 --> 00:13:42,828
-Can you get some more sleep this morning?
+Can you get some more sleep
+this morning?
 
-105
+80
 00:13:44,914 --> 00:13:47,914
-Mrs. Wentworth’s cornin’ at eleven with a stomach issue.
+Mrs. Wentworth’s cornin’ at
+eleven with a stomach issue.
 
-106
+81
 00:13:50,000 --> 00:13:53,000
-I know what’s her problem. Her stomach is not the same as it was.
+I know what’s her problem.
+Her stomach is not the same as it was.
 
-107
+82
 00:13:55,086 --> 00:13:58,086
-You won’t get more than three hours sleep. Frank Gibbs, I don't know
+You won’t get more than three hours sleep.
+Frank Gibbs, I don't know
 
-108
+83
 00:14:00,172 --> 00:14:03,172
-what’s goin’ to become of you. I  wish you could rest more.
+what’s goin’ to become of you.
+I  wish you could rest more.
 
-109
+84
 00:14:05,258 --> 00:14:08,258
 It would do you good.
 
-110
+85
 00:14:10,344 --> 00:14:13,344
-Emily! Wake up! Wally! Seven o’clock!
+Emily!
 
-111
+86
 00:14:15,431 --> 00:14:18,431
-You’ve got to speak to George. Somethin’s come over him lately. He’s no help.
+You’ve got to speak to George.
 
-112
+87
 00:14:25,603 --> 00:14:28,603
-I can’t even get him to cut me wood.
+I can’t even get him
+to cut me wood.
 
-113
+88
 00:14:30,689 --> 00:14:33,689
 Is he sassy to you?
 
-114
+89
 00:14:35,775 --> 00:14:38,775
-No, just whines! All he thinks about is baseball—
+No, just whines!
+All he thinks about is baseball—
 
-115
+90
 00:14:45,947 --> 00:14:48,947
-George! Rebecca! You’ll be late for school.
+George! Rebecca!
+You’ll be late for school.
 
-116
+91
 00:14:51,033 --> 00:14:54,033
 George! George, look sharp!
 
-117
-00:14:56,119 --> 00:14:59,119
-– Yes, Pa! – Don’t you hear your mother?
-
-118
-00:15:01,206 --> 00:15:04,206
-Walleee! Wash yourself good or I’ll do it myself.
-
-119
+92
 00:15:06,292 --> 00:15:09,292
 I’m going to lie down.
 
-120
+93
 00:15:11,378 --> 00:15:14,378
-Wash yourself good or I’ll do it myself.
+Wash yourself good
+or I’ll do it myself.
 
-121
+94
 00:15:16,464 --> 00:15:19,464
 Ma! What dress shall I wear?
 
-122
-00:15:21,550 --> 00:15:24,550
-Be quiet ! Your father’s been out all night and needs his sleep.
-
-123
+95
 00:15:26,636 --> 00:15:29,636
 I washed and ironed your blue dress.
 
-124
-00:15:31,722 --> 00:15:34,722
-– Oh, Ma, I hate that dress. – Oh, hush.
-
-125
-00:15:36,808 --> 00:15:39,808
-Every day I go to school dressed like— like a sick turkey.
-
-126
-00:15:41,894 --> 00:15:44,894
-Y ou always look lovely.
-
-127
+96
 00:15:46,981 --> 00:15:49,981
 Mama, George’s throwin’ soap at me!
 
-128
-00:15:52,067 --> 00:15:55,067
-I'll be right up to slap you both .
-
-129
+97
 00:15:57,153 --> 00:16:00,153
-We got a factory in our town, too. Hear it?
+We got a factory in our town, too.
 
-130
+98
 00:16:02,239 --> 00:16:05,239
-Makes blankets. Cartwrights own it, made  a fortune.
+Makes blankets. Cartwrights own it,
+made  a fortune.
 
-131
+99
 00:16:12,411 --> 00:16:15,411
 Children! Now slow down.
 
-132
+100
 00:16:22,583 --> 00:16:25,583
-Breakfast is just as important as lunch or dinner. I won’t have you gobblin’ like wolves.
+Breakfast is just as important as lunch or dinner.
+I won’t have you gobblin’ like wolves.
 
-133
-00:16:27,669 --> 00:16:30,669
-You will not grow, if you eat like that... That ’s for sure. Wally, put away your book!
-
-134
+101
 00:16:32,755 --> 00:16:35,755
-Oh, Ma! By ten o’clock I got to know about Canada.
+Oh, Ma! By ten o’clock I got to know
+about Canada.
 
-135
+102
 00:16:37,842 --> 00:16:40,842
-You know the rules — no books at table.
+You know the rules —
+no books at table.
 
-136
+103
 00:16:42,928 --> 00:16:45,928
-I’d rather have my children healthy than bright.
+I’d rather have my children
 
-137
+104
 00:16:48,014 --> 00:16:51,014
-I’m both, Mama, you know I am.
+I’m both, Mama,
+you know I am.
 
-138
+105
 00:16:53,100 --> 00:16:56,100
-I’m the brightest girl in school my age. I have a very good memory.
+I’m the brightest girl in school my age.
+I have a very good memory.
 
-139
+106
 00:16:58,186 --> 00:17:01,186
 Eat your breakfast.
 
-140
+107
 00:17:08,358 --> 00:17:11,358
-I’ll speak to your father. Twenty-five cents a week’s enough
+I’ll speak to your father.
+Twenty-five cents a week’s enough
 
-141
+108
 00:17:13,444 --> 00:17:16,444
 for a boy of your age.
 
-142
+109
 00:17:18,530 --> 00:17:21,530
 I don’t know how you spend it all.
 
-143
+110
 00:17:23,617 --> 00:17:26,617
-Aw, Ma,—I gotta lotta things to buy.
+Aw, Ma,—I gotta lotta
+things to buy.
 
-144
+111
 00:17:28,703 --> 00:17:31,703
-Strawberry phosphates— that’s what you spend it on.
+Strawberry phosphates—
+that’s what you spend it on.
 
-145
+112
 00:17:33,789 --> 00:17:36,789
-I don’t see why Rebecca gets much money. She has more  than a dollar.
+I don’t see why Rebecca gets much
+money. She has more  than a dollar.
 
-146
+113
 00:17:38,875 --> 00:17:41,875
 I’ve been saving up.
 
-147
+114
 00:17:43,961 --> 00:17:46,961
-Well, I think it’s good to spend some every now an’ then.
+Well, I think it’s good to spend
+some every now an’ then.
 
-148
+115
 00:17:49,047 --> 00:17:52,047
-Mama, you know what I love most in the world? Money.
+Mama, you know what I love most
+in the world? Money.
 
-149
-00:17:54,133 --> 00:17:57,133
-Eat your breakfast.
-
-150
+116
 00:17:59,219 --> 00:18:02,219
 There's the bell. I gotta go.
 
-151
+117
 00:18:04,305 --> 00:18:07,305
-Don’t run. Wally, pull up your pants.
+Don’t run.
+Wally, pull up your pants.
 
-152
+118
 00:18:09,392 --> 00:18:12,392
-Rebecca, t ell Miss Foster I send her my best. Can you remember that?
+Rebecca,
 
-153
+119
 00:18:14,478 --> 00:18:17,478
 Yes, Ma.
 
-154
+120
 00:18:24,650 --> 00:18:27,650
-You look nice, Rebecca. Pick up your feet!
+You look nice, Rebecca.
+Pick up your feet!
 
-155
+121
 00:18:34,822 --> 00:18:37,822
-Here, here— No, you go away,— Here— What's the matter with you?
+Here, here— No, you go away,— Here—
+What's the matter with you?
 
-156
+122
 00:18:39,908 --> 00:18:42,908
-All you do is fight— You don’t belong to me. Where'd you come from?
+All you do is fight— You don’t belong
+to me. Where'd you come from?
 
-157
+123
 00:18:50,080 --> 00:18:53,080
-Good morning, Myrtle. How’s your cold?
+Good morning, Myrtle.
+How’s your cold?
 
-158
+124
 00:18:55,167 --> 00:18:58,167
-Well, I still have a tickle in my throat. Told Charles I didn’t know
+Well, I still have a tickle in my throat.
+Told Charles I didn’t know
 
-159
+125
 00:19:00,253 --> 00:19:03,253
 if I’d go to choir rehearsal tonight.
 
-160
+126
 00:19:05,339 --> 00:19:08,339
-Have you tried singing at a higher pitch ?
+Have you tried singing
 
-161
+127
 00:19:10,425 --> 00:19:13,425
-Yes, but I can’t stay on key. While I’m restin' I thought
+Yes, but I can’t stay on key.
+While I’m restin' I thought
 
-162
+128
 00:19:15,511 --> 00:19:18,511
 I’d string some beans.
 
-163
+129
 00:19:20,597 --> 00:19:23,597
-Let me help. Beans have been good this year.
+Let me help.
+Beans have been good this year.
 
-164
+130
 00:19:25,683 --> 00:19:28,683
-Aya, I want to have forty quarts if it kills me. Children say they hate ’em
+Aya, I want to have forty quarts if it
+kills me. Children say they hate ’em
 
-165
+131
 00:19:30,769 --> 00:19:33,769
-but they’ll eat them all winter.
+but they’ll eat them
+all winter.
 
-166
+132
 00:19:35,855 --> 00:19:38,855
-Look, Myrtle, I have to tell you something. If I don’t tell somebody I’ll burst.
+Look,
+Myrtle, I have to tell you something.
 
-167
+133
 00:19:40,942 --> 00:19:43,942
 Why Julia Gibbs!
 
-168
+134
 00:19:46,028 --> 00:19:49,028
-Tell me, Myrtle, is one of those
+Tell me, Myrtle,
+is one of those
 
-169
+135
 00:19:51,114 --> 00:19:54,114
-second-hand furniture men come to see you?
+second-hand furniture men
+come to see you?
 
-170
+136
 00:19:56,200 --> 00:19:59,200
-No !
+No
 
-171
+137
 00:20:01,286 --> 00:20:04,286
-Well, he visited me. First I thought he was
+Well, he visited me.
+First I thought he was
 
-172
+138
 00:20:06,372 --> 00:20:09,372
-one of Doctor Gibbs’ patients. He came inside
+one of Doctor Gibbs’ patients.
+He came inside
 
-173
+139
 00:20:11,458 --> 00:20:14,458
-and offered me 350 dollars for Grandmother Wentworth's highboy.
+and offered me 350 dollars
+for Grandmother Wentworth's highboy.
 
-174
+140
 00:20:16,544 --> 00:20:19,544
 Why, Julia Gibbs!
 
-175
+141
 00:20:21,630 --> 00:20:24,630
-Yes, yes. On that old thing. It was so big I didn’t know where to put it.
+Yes, yes. On that old thing.
+It was so big
 
-176
+142
 00:20:26,717 --> 00:20:29,717
-I almost give it to my cousin, Hester Wilcox
+I almost give it to my cousin,
+Hester Wilcox
 
-177
-00:20:31,803 --> 00:20:34,803
-– Well, you’re going to take it, aren’t you? – I don't know.
-
-178
+143
 00:20:36,889 --> 00:20:39,889
-You don’t know!—three hundred and fifty dollars? What’s come over you?
+You don’t know!—three hundred and
+fifty dollars? What’s come over you?
 
-179
+144
 00:20:41,975 --> 00:20:44,975
-If I could get my husband to use the money for a trip,
+If I could get my husband
 
-180
+145
 00:20:47,061 --> 00:20:50,061
 I’d sell it like that.
 
-181
+146
 00:20:52,147 --> 00:20:55,147
-You know, Myrtil, I’ve always wanted to see Paris, France.
+You know, Myrtil,
+I’ve always wanted to see
 
-182
+147
 00:20:57,233 --> 00:21:00,233
-I’ve been promising myself for years that if we ever had the chance-—
+I’ve been promising myself for years
+that if we ever had the chance-—
 
-183
+148
 00:21:02,319 --> 00:21:05,319
 How’s Doctor feel about it?
 
-184
+149
 00:21:07,405 --> 00:21:10,405
-Well, I said if I got an inheritance—
+Well, I said if I got
+an inheritance—
 
-185
+150
 00:21:12,492 --> 00:21:15,492
-that’s the way I put it— I’d make him take me.
+that’s the way I put it—
+I’d make him take me.
 
-186
+151
 00:21:17,578 --> 00:21:20,578
 M-m-m— What did he say?
 
-187
+152
 00:21:22,664 --> 00:21:25,664
-You know how he is. I haven’t heard a serious word out of him, since I’ve known him.
+You know how he is. I haven’t heard a serious
+word out of him, since I’ve known him.
 
-188
+153
 00:21:27,750 --> 00:21:30,750
-No, he said, it might make him discontented
+No, he said, it might
+make him discontented
 
-189
+154
 00:21:32,836 --> 00:21:35,836
-with Grover’s Corners to go to Europe;
+with Grover’s Corners
+to go to Europe;
 
-190
+155
 00:21:37,922 --> 00:21:40,922
-Every two years he makes a trip to the battlefields of the Civil War
+Every two years he makes a trip
+to the battlefields of the Civil War
 
-191
+156
 00:21:43,008 --> 00:21:46,008
 and that’s enough he says.
 
-192
-00:21:48,094 --> 00:21:51,094
-Well, Mr. Webb just admires the way Doctor Gibbs knows everything about the Civil War.
-
-193
+157
 00:21:53,180 --> 00:21:56,180
-Mr. Webb’s ready to give up Napoleon and move over to the Civil War – hopeless – ,
+Mr. Webb’s ready to give up Napoleon
+and move over to the Civil War
 
-194
+158
 00:21:58,267 --> 00:22:01,267
-only Doctor Gibbs being one of the greatest experts in the country makes him despair.
+only Doctor Gibbs being one of the greatest
+experts in the country makes him despair.
 
-195
+159
 00:22:03,353 --> 00:22:06,353
-It’s a fact, my husband is never so happy as when he’s at Gettysburg.
+It’s a fact,
+my husband
 
-196
+160
 00:22:08,439 --> 00:22:11,439
-The times I’ve walked over those hills, Myrtle, stopping at every bush,
+The times I’ve walked over those hills,
+Myrtle, stopping at every bush,
 
-197
+161
 00:22:13,525 --> 00:22:16,525
 like we was going to buy it.
 
-198
+162
 00:22:23,697 --> 00:22:26,697
-Well, if that second-hand man’s serious Julia, you sell it.
+Well, if that second-hand man’s
+serious Julia, you sell it.
 
-199
+163
 00:22:28,783 --> 00:22:31,783
 And then you’ll get to see Paris.
 
-200
+164
 00:22:33,869 --> 00:22:36,869
 Just keep droppin’ hints —
 
-201
-00:22:38,955 --> 00:22:41,955
-that’s how I got to see the Atlantic Ocean.
-
-202
+165
 00:22:44,042 --> 00:22:47,042
-Oh, I’m sorry I mentioned it. Only it seems to me that once in your life,
+Oh, I’m sorry I mentioned it.
+Only it seems to me that once in your life,
 
-203
+166
 00:22:49,128 --> 00:22:52,128
-you ought to see a country where they don’t talk in English
+you ought to see a country where
+they don’t talk in English
 
-204
+167
 00:22:54,214 --> 00:22:57,214
 and don’t even want to.
 
-205
+168
 00:22:59,300 --> 00:23:02,300
 Thank you very much, ladies.
 
-206
-00:23:04,386 --> 00:23:07,386
-Thank you. Now we’ll skip a few hours.
-
-207
+169
 00:23:09,472 --> 00:23:12,472
-But first we want a little more information about our town— a scientific account.
+But first we want a little more information
+about our town— a scientific account.
 
-208
+170
 00:23:14,558 --> 00:23:17,558
-So I’ve asked Professor Willard of our State University to discuss
+So I’ve asked Professor Willard of our
+State University to discuss
 
-209
+171
 00:23:19,644 --> 00:23:22,644
-our past history here. Professor Willard?
+our past history here.
+Professor Willard?
 
-210
+172
 00:23:29,817 --> 00:23:32,817
-May I introduce Professor Willard ...
+May I introduce Professor Willard
 
-211
+173
 00:23:39,989 --> 00:23:42,989
-Just a few brief notes, — unfortunately our time is limited.
+Just a few brief notes, —
+unfortunately our time is limited.
 
-212
+174
 00:23:45,075 --> 00:23:48,075
-Grover’s Corners—mmm— let me see— Grover's Corners lies
+Grover’s Corners—mmm— let me see—
+Grover's Corners lies
 
-213
+175
 00:23:50,161 --> 00:23:53,161
-on the old pleiocene granite of the Appalachian range .
+on the old pleiocene granite
+of the Appalachian range
 
-214
+176
 00:23:55,247 --> 00:23:58,247
-on some of the oldest land in the world—
+on some of the oldest land
+in the world—
 
-215
+177
 00:24:00,333 --> 00:24:03,333
-we’re proud of that. Of course there are more recent outcroppings,—sandstone showing
+we’re proud of that. Of course there are more recent
+outcroppings,—sandstone showing
 
-216
+178
 00:24:05,419 --> 00:24:08,419
-through a shelf of Devonian basalt, and some vestiges of Mezozoic shale,
+through a shelf of Devonian basalt,
+and some vestiges of Mezozoic shale,
 
-217
+179
 00:24:10,505 --> 00:24:13,505
-but these are comparatively new— perhaps two or three hundred million years.
+but these are comparatively new—
+perhaps two or three hundred million years.
 
-218
+180
 00:24:20,678 --> 00:24:23,678
-Some interesting fossils have been found—
+Some interesting fossils
+have been found—
 
-219
+181
 00:24:25,764 --> 00:24:28,764
-two miles north of the Peckham Farm— in Silas Peckham’s cow-pasture.
+two miles north of the Peckham Farm—
+in Silas Peckham’s cow-pasture.
 
-220
+182
 00:24:30,850 --> 00:24:33,850
-These may be seen in the museum at the University at any reasonable time.
+These may be seen in the museum at
+the University at any reasonable time.
 
-221
+183
 00:24:35,936 --> 00:24:38,936
-Shall I read some of Professor Gruber’s notes
+Shall I read some of
+Professor Gruber’s notes
 
-222
+184
 00:24:41,022 --> 00:24:44,022
-on the meteorological situation— mean precipitation, et cetera?
+on the meteorological situation—
+mean precipitation, et cetera?
 
-223
+185
 00:24:46,108 --> 00:24:49,108
-Afraid we won’t have time for that, Professor.
+Afraid we won’t have time for that,
+Professor.
 
-224
+186
 00:24:51,194 --> 00:24:54,194
-We might have a few words on the history of man here.
+We might have a few words
+on the history of man here.
 
-225
-00:24:56,280 --> 00:24:59,280
-– Oh, anthropological data— – Er—yes.
-
-226
+187
 00:25:01,367 --> 00:25:04,367
-Early Amerindian stock, Cotahatchee tribes—
+Early Amerindian stock,
+Cotahatchee tribes—
 
-227
+188
 00:25:06,453 --> 00:25:09,453
-no evidence before the 10th Century —
+no evidence before
+the 10th Century —
 
-228
+189
 00:25:11,539 --> 00:25:14,539
-now entirely disappeared— Oh, possible traces in three families—
+now entirely disappeared—
+Oh, possible traces in three families—
 
-229
+190
 00:25:16,625 --> 00:25:19,625
-migration in early part of the 17th Century
+migration in early part
+of the 17th Century
 
-230
+191
 00:25:21,711 --> 00:25:24,711
-of English brachiocephalic blue-eyed stock—
+of English brachiocephalic
+blue-eyed stock—
 
-231
+192
 00:25:26,797 --> 00:25:29,797
-Since then, some Slav and Mediterranean—
+Since then, some Slav
+and Mediterranean—
 
-232
+193
 00:25:31,883 --> 00:25:34,883
 And the population?
 
-233
-00:25:36,969 --> 00:25:39,969
-– Within the town limits: 2,640. – The twins are born , p rofessor.
-
-234
+194
 00:25:42,055 --> 00:25:45,055
-Oh yes. The population at the moment is 2,642.
+Oh yes. The population
+at the moment is 2,642.
 
-235
+195
 00:25:47,142 --> 00:25:50,142
 The Postal District brings in 507 more—
 
-236
+196
 00:25:52,228 --> 00:25:55,228
 making a total of 3,149.
 
-237
+197
 00:25:57,314 --> 00:26:00,314
-Mortality, birth rates—constant. By McPherson’s gauge: 6.032.
+Mortality, birth rates—constant.
+By McPherson’s gauge: 6.032.
 
-238
+198
 00:26:02,400 --> 00:26:05,400
-Thank you very much, Professor Willard.
+Thank you very much,
+Professor Willard.
 
-239
+199
 00:26:07,486 --> 00:26:10,486
 We are all truly obliged to you.
 
-240
-00:26:12,572 --> 00:26:15,572
-– When were the twins born? – Today, a t dawn.
-
-241
+200
 00:26:17,658 --> 00:26:20,658
-Now the political and social report: Editor Webb .
+Now the political and social report:
 
-242
+201
 00:26:27,830 --> 00:26:30,830
 Oh, Mr. Webb?
 
-243
+202
 00:26:38,003 --> 00:26:41,003
-He’ll be here soon— He just cut his hand eatin’ an apple.
+He’ll be here soon—
+He just cut his hand eatin’ an apple.
 
-244
-00:26:43,089 --> 00:26:46,089
-Thank you, Mrs. Webb.
-
-245
-00:26:48,175 --> 00:26:51,175
-Mr. Webb is Publisher and Editor of The Grover’s Corners Sentinel, our local paper.
-
-246
-00:26:58,347 --> 00:27:01,347
-Charles, ever ybody’s waiting for you!
-
-247
-00:27:03,433 --> 00:27:06,433
-Well, we’re run by a Board of Selectmen.
-
-248
+203
 00:27:08,519 --> 00:27:11,519
 All males vote at the age of 21.
 
-249
+204
 00:27:13,605 --> 00:27:16,605
 Women vote indirect.
 
-250
+205
 00:27:18,692 --> 00:27:21,692
-We’re lower middle-class: sprinklin’ of professional men—
+We’re lower middle-class:
+sprinklin’ of professional men—
 
-251
+206
 00:27:23,778 --> 00:27:26,778
-and 10% illiterate laborers: unskilled, illiterate workers.
+and
+10% illiterate laborers: unskilled,
 
-252
+207
 00:27:28,864 --> 00:27:31,864
-Politically, 86% Republicans;
+Politically,
+86% Republicans;
 
-253
+208
 00:27:33,950 --> 00:27:36,950
-6% Democrats; 4% Socialists; Rest, indifferent.
+6% Democrats; 4% Socialists;
+Rest, indifferent.
 
-254
+209
 00:27:39,036 --> 00:27:42,036
-Religiously, 85% Protestants; 12% Catholics;
+Religiously, 85% Protestants;
+12% Catholics;
 
-255
+210
 00:27:44,122 --> 00:27:47,122
 Rest, indifferent.
 
-256
+211
 00:27:49,208 --> 00:27:52,208
-Have you any comments, Mr. Webb?
+Have you any comments,
+Mr. Webb?
 
-257
+212
 00:27:54,294 --> 00:27:57,294
-What do you think of our little town, Grovers Corner’s, Mr Webb?
+What do you think of our little town,
+Grovers Corner’s, Mr Webb?
 
-258
+213
 00:27:59,380 --> 00:28:02,380
-Well, if you ask me, I can tell you that it ’s a very ordinary town.
+Well, if you ask me, I can tell you
+that it
 
-259
+214
 00:28:04,467 --> 00:28:07,467
-Little better behaved than most.
+Little better behaved
+than most.
 
-260
+215
 00:28:09,553 --> 00:28:12,553
-Probably a lot duller. But our young people here seem to like it well enough .
+Probably a lot duller. But our young people here
+seem to like it well enough
 
-261
+216
 00:28:14,639 --> 00:28:17,639
-90% of ’em settle down right here to live—
+90% of ’em settle down right here
+to live—
 
-262
+217
 00:28:19,725 --> 00:28:22,725
 even when they’ve-been away to college.
 
-263
-00:28:24,811 --> 00:28:27,811
-We have a few questions from the audience. Row 3, seat 4.
-
-264
+218
 00:28:29,897 --> 00:28:32,897
 Is there much drinking in Grover’s Corners?
 
-265
+219
 00:28:34,983 --> 00:28:37,983
-Well, ma’am, I wouldn’t know what you’d call much.
+Well, ma’am, I wouldn’t know
+what you’d call much.
 
-266
+220
 00:28:40,069 --> 00:28:43,069
-Saturday nights the farmhands meet down in Ellery Greenough’s stable.
+Saturday nights the farmhands meet
+down in Ellery Greenough’s stable.
 
-267
+221
 00:28:45,155 --> 00:28:48,155
-We’ve got one or two town drunks. But they always repent whenever
+We’ve got one or two town drunks.
+But they always repent whenever
 
-268
+222
 00:28:50,242 --> 00:28:53,242
 a travelling preacher comes to town.
 
-269
+223
 00:28:55,328 --> 00:28:58,328
-No, I’d say liquor ain’t a regular thing in the home here,
+No, I’d say liquor
+ain’t a regular thing in the home here,
 
-270
+224
 00:29:00,414 --> 00:29:03,414
-except as medicine for a cold. Or snake-bite, y ou know.
+except as medicine for a cold.
+Or snake-bite, y
 
-271
+225
 00:29:05,500 --> 00:29:08,500
 This has always been like that.
 
-272
+226
 00:29:10,586 --> 00:29:13,586
-The next question is about social issues and social injustice.
+The next question is about social issues
+and social injustice.
 
-273
+227
 00:29:15,672 --> 00:29:18,672
 Why doesn't anyone do something about it?
 
-274
+228
 00:29:20,758 --> 00:29:23,758
-Everybody is,—somethin’ terrible. Seems like they spend
+Everybody is,—somethin’ terrible.
 
-275
+229
 00:29:25,844 --> 00:29:28,844
-most of their time talking about who’s rich and who’s poor.
+most of their time talking about
+who’s rich and who’s poor.
 
-276
+230
 00:29:30,930 --> 00:29:33,930
-Well, I dunno. I guess we’re huntin’
+Well, I dunno. I guess
+we’re huntin’
 
-277
+231
 00:29:36,017 --> 00:29:39,017
-for a way the diligent and sensible can rise to the top
+for a way the diligent and sensible
+can rise to the top
 
-278
+232
 00:29:41,103 --> 00:29:44,103
-and the lazy and quarrelsome sink to the bottom.
+and the lazy and quarrelsome
+sink to the bottom.
 
-279
+233
 00:29:46,189 --> 00:29:49,189
 But it ain’t easy to find.
 
-280
+234
 00:29:51,275 --> 00:29:54,275
-Meantime, we take care of those who can’t help themselves
+Meantime, we take care of those
+who can’t help themselves
 
-281
+235
 00:29:56,361 --> 00:29:59,361
-and those that can we leave alone. Any other questions?
+and those that can we leave alone.
+Any other questions?
 
-282
-00:30:01,447 --> 00:30:04,447
-We have time for one more question. 4th r ow, seat 3.
-
-283
+236
 00:30:06,533 --> 00:30:09,533
-I s there any culture or love of beauty in—Grover’s Corners?
+I
 
-284
+237
 00:30:11,619 --> 00:30:14,619
-Well, ma’am, there ain't much—not in the sense you mean. There’s some girls
+Well, ma’am, there ain't much—not in the sense
+you mean. There’s some girls
 
-285
+238
 00:30:16,705 --> 00:30:19,705
-that play the piano over at High School Commencement; but they ain’t happy about it.
+that play the piano over at High School
+Commencement; but they ain’t happy about it.
 
-286
+239
 00:30:21,791 --> 00:30:24,791
-There isn’t much culture; but we like the sun cornin’ up
+There isn’t much culture;
+but we like the sun cornin’ up
 
-287
+240
 00:30:26,878 --> 00:30:29,878
-over the mountain in the morning, and we all notice a good deal about the birds.
+over the mountain in the morning, and we all
+notice a good deal about the birds.
 
-288
+241
 00:30:31,964 --> 00:30:34,964
-And we watch the change of the seasons:
+And we watch the change
+of the seasons:
 
-289
+242
 00:30:37,050 --> 00:30:40,050
-yes, everybody knows about them. But those other things—
+yes, everybody knows about them.
+But those other things—
 
-290
+243
 00:30:42,136 --> 00:30:45,136
-there ain’t much—Robinson Crusoe and the Bible;
+there ain’t much—Robinson Crusoe
+and the Bible;
 
-291
-00:30:47,222 --> 00:30:50,222
-and Händel’s Largo, we all know that; and Whistler’s Mother—
-
-292
+244
 00:30:52,308 --> 00:30:55,308
 those are about as far as we go.
 
-293
+245
 00:30:57,394 --> 00:31:00,394
 Now we’ll go back to town.
 
-294
-00:31:02,480 --> 00:31:05,480
-It's two o’clock.
-
-295
+246
 00:31:07,566 --> 00:31:10,566
-All 2642 souls has had their lunches, and all the dishes have been washed.
+All
+2642
 
-296
+247
 00:31:12,653 --> 00:31:15,653
 The children have gone back to school.
 
-297
+248
 00:31:22,825 --> 00:31:25,825
-Doc tor Gibbs is in his office, makin’ ’em say “Ah”.
+Doc
+tor
 
-298
+249
 00:31:27,911 --> 00:31:30,911
-Mr. Webb’s cuttin’ his lawn —
+Mr. Webb’s cuttin’
+his lawn —
 
-299
+250
 00:31:32,997 --> 00:31:35,997
-one man in ten thinks it’s a privilege to push his own lawn-mower.
+one man in ten thinks it’s a privilege
+to push his own lawn-mower.
 
-300
+251
 00:31:43,169 --> 00:31:46,169
-I can’t, Lois. I’ve got to go help my mother.
+I can’t, Lois.
+I’ve got to go help my mother.
 
-301
+252
 00:31:48,255 --> 00:31:51,255
 I promised her.
 
-302
+253
 00:31:53,341 --> 00:31:56,341
-Emily, walk simply. Who do you think you are today?
+Emily, walk simply.
+Who do you think you are today?
 
-303
+254
 00:31:58,428 --> 00:32:01,428
-Oh, Papa, one minute you tell me to stand up straight
+Oh, Papa, one minute you tell me
+to stand up straight
 
-304
+255
 00:32:03,514 --> 00:32:06,514
-and the next minute you call me names. I don’t listen to you.
+and the next minute you call me names.
+I don’t listen to you.
 
-305
-00:32:08,600 --> 00:32:11,600
-I've never had such a kiss .
-
-306
-00:32:13,686 --> 00:32:16,686
-Excuse me, Mrs. Forrest.
-
-307
-00:32:18,772 --> 00:32:21,772
-You go play in the fields, young man. You got no business playing baseball on Main Street.
-
-308
+256
 00:32:23,858 --> 00:32:26,858
 Sorry, Mrs. Forrest…
 
-309
+257
 00:32:28,944 --> 00:32:31,944
 Hello, Emily!
 
-310
+258
 00:32:34,030 --> 00:32:37,030
-H el lo .
+H
 
-311
+259
 00:32:39,116 --> 00:32:42,116
 You made a fine speech in class.
 
-312
+260
 00:32:44,203 --> 00:32:47,203
-Well—I was ready to make a speech about the Monroe Doctrine,
+Well—I was ready to make a speech
+about the Monroe Doctrine,
 
-313
+261
 00:32:49,289 --> 00:32:52,289
-but at the last minute Miss Corcoran made me
+but at the last minute
+Miss Corcoran made me
 
-314
+262
 00:32:54,375 --> 00:32:57,375
 talk about the Louisiana Purchase.
 
-315
+263
 00:32:59,461 --> 00:33:02,461
 I worked hard on both of them.
 
-316
+264
 00:33:04,547 --> 00:33:07,547
-Gee, it’s funny, Emily. From my window I can see your head
+Gee, it’s funny, Emily.
+From my window I can see your head
 
-317
+265
 00:33:09,633 --> 00:33:12,633
-nights when you’re doing your home-work in your room.
+nights when you’re doing your
+home-work in your room.
 
-318
+266
 00:33:14,719 --> 00:33:17,719
 Why, can you?
 
-319
+267
 00:33:19,805 --> 00:33:22,805
-You stick to it, Emily. I don’t see how you can sit still that long.
+You stick to it, Emily.
+I don’t see how you can sit still that long.
 
-320
-00:33:24,891 --> 00:33:27,891
-I guess you must like school.
-
-321
+268
 00:33:29,978 --> 00:33:32,978
-Well, I always feel it’s something you have to go through.
+Well, I always feel it’s something
+you have to go through.
 
-322
+269
 00:33:35,064 --> 00:33:38,064
 Yeah.
 
-323
-00:33:40,150 --> 00:33:43,150
-I don’t mind it. Time passes faster in school .
-
-324
+270
 00:33:45,236 --> 00:33:48,236
 Yeah.
 
-325
+271
 00:33:55,408 --> 00:33:58,408
-Emily, what do you think? We might work out a kinda telegraph
+Emily, what do you think?
+We might work out a kinda telegraph
 
-326
+272
 00:34:00,494 --> 00:34:03,494
 from your window to mine;
 
-327
+273
 00:34:05,580 --> 00:34:08,580
-once in a while you could give me hint about one of those Algebra problems.
+once in a while you could give me
+hint about one of those Algebra problems.
 
-328
+274
 00:34:10,666 --> 00:34:13,666
-I don’t mean the answers, Emily, just some little hint—
+I don’t mean the answers,
 
-329
+275
 00:34:15,753 --> 00:34:18,753
-Oh I think hints are allowed. So…
+Oh I think hints are allowed.
+So…
 
-330
+276
 00:34:20,839 --> 00:34:23,839
-If you get stuck, you whistle and I’ll give you some hints.
+If you get stuck, you whistle
 
-331
+277
 00:34:31,011 --> 00:34:34,011
-Emily, you’re naturally bright .
+Emily, you’re naturally bright
 
-332
+278
 00:34:36,097 --> 00:34:39,097
 I figure it’s just the way a person’s bom.
 
-333
+279
 00:34:41,183 --> 00:34:44,183
-Yeah. But I want to be a farmer. My Uncle Luke says
+Yeah. But I want to be a farmer.
+My Uncle Luke says
 
-334
+280
 00:34:46,269 --> 00:34:49,269
-whenever I’m ready I can come work on his farm
+whenever I’m ready I can come work
+on his farm
 
-335
+281
 00:34:51,355 --> 00:34:54,355
-and if I’m any good I can gradually have it.
+and if I’m any good
+I can gradually have it.
 
-336
+282
 00:34:56,441 --> 00:34:59,441
 You mean the house and everything?
 
-337
-00:35:01,528 --> 00:35:04,528
-Yeah. Well—I better get to the baseball field.
-
-338
+283
 00:35:06,614 --> 00:35:09,614
-Thanks for the talk, Emily.— Good-afternoon, Mrs. Webb.
+Thanks for the talk, Emily.—
+Good-afternoon, Mrs. Webb.
 
-339
-00:35:11,700 --> 00:35:14,700
-– Good-afternoon, George! – So-long, Emily!
-
-340
-00:35:16,786 --> 00:35:19,786
-So long, George!
-
-341
+284
 00:35:32,044 --> 00:35:35,044
-Emily, come help me string these beans.
+Emily, come help me string
+these beans.
 
-342
+285
 00:35:37,130 --> 00:35:40,130
-George Gibbs let himself have a real conversation, didn’t he?
+George Gibbs let himself have
+a real conversation, didn’t he?
 
-343
+286
 00:35:42,216 --> 00:35:45,216
-Why, he's growing up. How old is he?
+Why, he's growing up.
+How old is he?
 
-344
+287
 00:35:47,303 --> 00:35:50,303
 Oh, I don’t know.
 
-345
-00:35:52,389 --> 00:35:55,389
-Let’s see. He must be like sixteen. No more than sevnteen.
-
-346
+288
 00:35:57,475 --> 00:36:00,475
-Mama, I made a speech in class today and I was very good.
+Mama, I made a speech in class
+today and I was very good.
 
-347
+289
 00:36:02,561 --> 00:36:05,561
-You must recite it to your father at supper. What was it about ?
+You must recite it to your father at supper.
+What was it about ?
 
-348
+290
 00:36:07,647 --> 00:36:10,647
-The Louisiana Purchase. It was like silk off a spool.
+The Louisiana Purchase.
+It was like silk off a spool.
 
-349
+291
 00:36:12,733 --> 00:36:15,733
-I’m going to make speeches all my life. — Mama, are these big enough ?
+I’m going to make speeches all my life. —
+Mama, are these big enough ?
 
-350
-00:36:17,819 --> 00:36:20,819
-Try a little bigger.
-
-351
+292
 00:36:22,905 --> 00:36:25,905
-Mama, can I ask you something , but serious?
+Mama, can I ask you
+something
 
-352
+293
 00:36:27,991 --> 00:36:30,991
 Seriously, dear—not serious.
 
-353
-00:36:33,078 --> 00:36:36,078
-– Seriously… will you? – Of course.
-
-354
+294
 00:36:43,250 --> 00:36:46,250
-Mama, am I pretty ?
+Mama, am I
 
-355
+295
 00:36:48,336 --> 00:36:51,336
-Yes, of course. Both my children got good features. I’d be ashamed if they hadn’t.
+Yes, of course. Both my children got good features.
+I’d be ashamed if they hadn’t.
 
-356
+296
 00:36:53,422 --> 00:36:56,422
-Oh, Mama, that’s not what I mean. What I mean is: am I beautiful ?
+Oh, Mama, that’s not what I mean.
+What I mean is:
 
-357
+297
 00:36:58,508 --> 00:37:01,508
-I’ve already told you, yes. You have a nice young pretty face.
+I’ve already told you, yes.
+You have a nice young pretty face.
 
-358
+298
 00:37:03,594 --> 00:37:06,594
 Now that's enough.
 
-359
+299
 00:37:08,680 --> 00:37:11,680
-Oh, Mama, you never tell us the truth about anything.
+Oh, Mama, you never tell us
+the truth about anything.
 
-360
+300
 00:37:13,766 --> 00:37:16,766
 I am telling you the truth.
 
-361
+301
 00:37:23,939 --> 00:37:26,939
-Mama, were you beautiful ?
+Mama, were you
 
-362
-00:37:29,025 --> 00:37:32,025
-Yes, I was . I f one can say such a thing about oneself.
-
-363
-00:37:34,111 --> 00:37:37,111
-I was the most beautiful girl in town next to Mamie Cartwright.
-
-364
+302
 00:37:39,197 --> 00:37:42,197
-But Mama, you’ve got to say something about me.
+But Mama, you’ve got to say
+something about me.
 
-365
+303
 00:37:44,283 --> 00:37:47,283
-Am I pretty enough to get people interested in me ?
+Am I pretty enough
+to get people interested in me ?
 
-366
-00:37:49,369 --> 00:37:52,369
-Emily, you make me tired!
-
-367
+304
 00:37:54,455 --> 00:37:57,455
-You’re pretty enough for all normal purposes.
+You’re pretty enough for
+all normal purposes.
 
-368
+305
 00:37:59,541 --> 00:38:02,541
-Come along and bring that bowl with you.
+Come along and bring
+that bowl with you.
 
-369
+306
 00:38:04,628 --> 00:38:07,628
 Oh, Mama, you’re no help.
 
-370
+307
 00:38:14,800 --> 00:38:17,800
-Now, I think this is a good time to tell you
+Now, I think this is a good time
+to tell you
 
-371
+308
 00:38:19,886 --> 00:38:22,886
-that the Cartwrights have begun building a new bank in Grover's Corners—
+that the Cartwrights have begun building
+a new bank in Grover's Corners—
 
-372
+309
 00:38:24,972 --> 00:38:27,972
-had to go to Vermont for the marble.
+had to go to Vermont
+for the marble.
 
-373
+310
 00:38:35,144 --> 00:38:38,144
-And they've asked a friend of mine what they should put in the cornerstone
+And they've asked a friend of mine
+what they should put in the cornerstone
 
-374
+311
 00:38:40,230 --> 00:38:43,230
-for people to dig up a thousand years from now.
+for people to dig up
+a thousand years from now.
 
-375
-00:38:45,316 --> 00:38:48,316
-'Course, they’ve put in a copy of the New York Times
-
-376
+312
 00:38:50,403 --> 00:38:53,403
 and a copy of Mr. Webb’s Sentinel,
 
-377
-00:38:55,489 --> 00:38:58,489
-Some scientific fellas have found a way of painting
-
-378
+313
 00:39:00,575 --> 00:39:03,575
-all that reading matter with a kind of glue—- silicate glue—
+all that reading matter with a kind of glue—-
+silicate glue—
 
-379
+314
 00:39:05,661 --> 00:39:08,661
-that'll make it keep a thousand— two thousand years—
+that'll make it keep a thousand—
+two thousand years—
 
-380
+315
 00:39:10,747 --> 00:39:13,747
-We’ d put in a Bible — a copy of the Constitution of the United States
+We’
 
-381
+316
 00:39:15,833 --> 00:39:18,833
-and a copy of William Shakespeare’s plays.
+and a copy
+of William Shakespeare’s plays.
 
-382
-00:39:26,005 --> 00:39:29,005
-What you you think?
-
-383
+317
 00:39:31,091 --> 00:39:34,091
-Y’ know, Babylon once had two million people in it,
+Y’ know, Babylon once had
+two million people in it,
 
-384
+318
 00:39:36,178 --> 00:39:39,178
-and all we know about them is the names of the kings and some copies
+and all we know about them is
+the names of the kings and some copies
 
-385
+319
 00:39:41,264 --> 00:39:44,264
-of wheat contracts and— the sales of slaves.
+of wheat contracts and—
+the sales of slaves.
 
-386
+320
 00:39:46,350 --> 00:39:49,350
-Yes, every night all those families sat down to supper,
+Yes, every night all those families
+sat down to supper,
 
-387
+321
 00:39:51,436 --> 00:39:54,436
-and the father came home from work, and the smoke went up the chimney, same as here.
+and the father came home from work,
+and the smoke went up the chimney, same as here.
 
-388
+322
 00:39:56,522 --> 00:39:59,522
-So I’m going to have a copy of this play
+So I’m going to have
+a copy of this play
 
-389
+323
 00:40:01,608 --> 00:40:04,608
-put in the cornerstone so people a thousand years from now’ll know
+put in the cornerstone so people a thousand
+years from now’ll know
 
-390
+324
 00:40:06,694 --> 00:40:09,694
-about us— more than the Treaty of Versailles
+about us—
+more
 
-391
-00:40:11,780 --> 00:40:14,780
-and the Lindbergh flight. you know what I mean?
-
-392
+325
 00:40:16,866 --> 00:40:19,866
-Well then, people living a thousand years from now :
+Well then, people living
+a thousand years from now
 
-393
+326
 00:40:21,953 --> 00:40:24,953
-This is the way we were, in our growing up and in our marrying,
+This is the way we were,
+in our growing up and in our marrying,
 
-394
+327
 00:40:27,039 --> 00:40:30,039
 and in our living, and in our dying.
 
-395
+328
 00:40:37,211 --> 00:40:40,211
-Now we’ll get back to Grover's Corners. It’s evening.
+Now we’ll get back to Grover's Corners.
+It’s evening.
 
-396
+329
 00:40:42,297 --> 00:40:45,297
-You can hear the choir practice in the Congregational Church.
+You can hear the choir practice
+in the Congregational Church.
 
-397
+330
 00:40:52,469 --> 00:40:55,469
 The children are doing their homework.
 
-398
+331
 00:41:02,641 --> 00:41:05,641
 The day is runnin’ down like a tired clock.
 
-399
-00:41:12,814 --> 00:41:15,814
-All right , let ’s start from the beginning.. .
-
-400
-00:41:17,900 --> 00:41:20,900
-Remember, ladies, music came into the world to give pleasure...
-
-401
+332
 00:41:28,072 --> 00:41:31,072
 Let’s try it again!
 
-402
+333
 00:41:38,244 --> 00:41:41,244
-Bles sed be the tie that binds our hearts in Christian love
+Bles
 
-403
+334
 00:41:43,330 --> 00:41:46,330
-the fellowship of kindred minds is like to that above.
+the fellowship of kindred minds
+is like to that above.
 
-404
+335
 00:41:53,503 --> 00:41:56,503
 Softer! Softer!
 
-405
+336
 00:41:58,589 --> 00:42:01,589
-Get it out of your head that music’s only good when it’s loud.
+Get it out of your head that music’s
+only good when it’s loud.
 
-406
+337
 00:42:03,675 --> 00:42:06,675
 You leave loudness to the Methodists.
 
-407
+338
 00:42:08,761 --> 00:42:11,761
-You can't beat them at that, even if you wanted to.
+You can't beat them at that,
+even if you wanted to.
 
-408
+339
 00:42:18,933 --> 00:42:21,933
 Now again, tenors!
 
-409
-00:42:29,105 --> 00:42:32,105
-Blessed be the tie that binds our hearts in Christian love ...
-
-410
-00:42:39,278 --> 00:42:42,278
-– Emily! – Hello!
-
-411
+340
 00:42:44,364 --> 00:42:47,364
-I can’t work. The moonlight’s terrible.
+I can’t work.
+The moonlight’s terrible.
 
-412
-00:42:54,536 --> 00:42:57,536
-– Emily, did you get the third problem? – Which?
-
-413
+341
 00:42:59,622 --> 00:43:02,622
 The third.
 
-414
+342
 00:43:04,708 --> 00:43:07,708
-Why, yes, George— that’s the easiest one.
+Why, yes, George—
+that’s the easiest one.
 
-415
-00:43:09,794 --> 00:43:12,794
-I don’t see it. Can you give me a hint?
-
-416
+343
 00:43:14,880 --> 00:43:17,880
-I’ll tell you one thing: the answer’s in yards.
+I’ll tell you one thing:
+the answer’s in yards.
 
-417
-00:43:19,966 --> 00:43:22,966
-– In yards? How do you mean? – In square yards.
-
-418
-00:43:25,053 --> 00:43:28,053
-– Oh—in square yards. – Yes, don’t you see?
-
-419
-00:43:30,139 --> 00:43:33,139
-– Yeah. – In square yards of wallpaper.
-
-420
+344
 00:43:35,225 --> 00:43:38,225
-Oh, I see. Square yards of wall-paper! Thanks a lot, Emily.
+Oh, I see. Square yards of wall-paper!
 
-421
-00:43:40,311 --> 00:43:43,311
-You're welcome , George . My, isn’t the moonlight terrible? And choir practice. ..
-
-422
+345
 00:43:45,397 --> 00:43:48,397
-If you hold your breath, you can hear the train all the way to Contookuck!
+If you hold your breath, you can hear
+the train all the way to Contookuck!
 
-423
+346
 00:43:55,569 --> 00:43:58,569
 Hear it?
 
-424
+347
 00:44:05,741 --> 00:44:08,741
 M-m-m— What do you know!
 
-425
-00:44:15,914 --> 00:44:18,914
-Well, I guess I better try to learn .
-
-426
-00:44:21,000 --> 00:44:24,000
-– Goodnight, Emily. – Goodnight, George.
-
-427
-00:44:26,086 --> 00:44:29,086
-That’s better. But not good.
-
-428
+348
 00:44:31,172 --> 00:44:34,172
 Before I forget:
 
-429
+349
 00:44:36,258 --> 00:44:39,258
-How many of you can sing at Fred Hersey’s wedding on Tuesday?
+How many of you can sing
+at Fred Hersey’s wedding on Tuesday?
 
-430
+350
 00:44:41,344 --> 00:44:44,344
 Put your hands up.
 
-431
-00:44:46,430 --> 00:44:49,430
-We'll play sing what we sang three weeks ago at the wedding of Jane Trowbridge.
-
-432
+351
 00:44:56,602 --> 00:44:59,602
-"Art thou weary, art thou languid?" It’s a question. Make it talk.
+"Art thou weary, art thou languid?"
+It’s a question. Make it talk.
 
-433
-00:45:01,689 --> 00:45:04,689
-– Oh, George, can you come down ? – Yes, Pa.
-
-434
-00:45:06,775 --> 00:45:09,775
-And remember Sunday to take the second verse real soft at the end.
-
-435
+352
 00:45:16,947 --> 00:45:19,947
 Ready?
 
-436
+353
 00:45:27,119 --> 00:45:30,119
-Make yourself comfortable. I’ll only keep you a minute. George, how old are you?
+Make yourself comfortable. I’ll only keep you
 
-437
+354
 00:45:32,205 --> 00:45:35,205
-Me? I'm sixteen, almost seventeen.
+Me? I'm sixteen,
+almost seventeen.
 
-438
+355
 00:45:37,291 --> 00:45:40,291
-What do you want to do after school’s over?
+What do you want to do
+after school’s over?
 
-439
+356
 00:45:42,377 --> 00:45:45,377
-I want to be a farmer on Uncle Luke’s farm.
+I want to be a farmer
+on Uncle Luke’s farm.
 
-440
+357
 00:45:47,464 --> 00:45:50,464
-You’ll be willing to get up early and milk and feed the stock—
+You’ll be willing to get up early
+and milk and feed the stock—
 
-441
+358
 00:45:52,550 --> 00:45:55,550
 and you’ll hoe and hay all day ?
 
-442
+359
 00:45:57,636 --> 00:46:00,636
 Sure, I will. What do you mean, Pa?
 
-443
+360
 00:46:07,808 --> 00:46:10,808
-Well, George, while I was in my office today
+Well, George, while I was
+in my office today
 
-444
+361
 00:46:12,894 --> 00:46:15,894
 I heard a funny sound:
 
-445
+362
 00:46:17,980 --> 00:46:20,980
-a nd what do you think , what was it?
+a
 
-446
-00:46:28,152 --> 00:46:31,152
-Your mother chopping wood.
-
-447
+363
 00:46:33,239 --> 00:46:36,239
-There you see your mother— up early;
+There you see your mother—
+up early;
 
-448
+364
 00:46:38,325 --> 00:46:41,325
-cooking meals all day; washing and ironing;—
+cooking meals all day;
+washing and ironing;—
 
-449
+365
 00:46:43,411 --> 00:46:46,411
-and still she has to chop wood,
+and still she has
+to chop wood,
 
-450
+366
 00:46:48,497 --> 00:46:51,497
-I guess she got tired of asking you.
+I guess she got
+tired of asking you.
 
-451
+367
 00:46:53,583 --> 00:46:56,583
-She decided it was easier to do it herself.
+She decided it was easier
+to do it herself.
 
-452
+368
 00:46:58,669 --> 00:47:01,669
-And you eat her meals, and put on the clothes she washes,
+And you eat her meals,
+and put on the clothes she washes,
 
-453
+369
 00:47:03,755 --> 00:47:06,755
 and you run off and play baseball,—
 
-454
-00:47:08,841 --> 00:47:11,841
-like she’s some hired girl we don’t really love, but we keep around the house .
-
-455
+370
 00:47:19,014 --> 00:47:22,014
-Well, I wanted to let you know. Here's a handkerchief, son.
+Well, I wanted to let you know.
+Here's a handkerchief, son.
 
-456
-00:47:24,100 --> 00:47:27,100
-I’ve decided to raise your spending money , George.
-
-457
+371
 00:47:29,186 --> 00:47:32,186
 25 cents a week.
 
-458
+372
 00:47:34,272 --> 00:47:37,272
-Not for chopping wood, because that’s a present you give your mother,
+Not for chopping wood,
+because that’s a present you give your mother,
 
-459
+373
 00:47:39,358 --> 00:47:42,358
 but because you’re getting older—
 
-460
+374
 00:47:44,444 --> 00:47:47,444
-I imagine there are things you need it for now.
+I imagine there are things
+you need it for now.
 
-461
+375
 00:47:49,530 --> 00:47:52,530
 Thanks, Pa.
 
-462
+376
 00:47:54,616 --> 00:47:57,616
-Let’s see— tomorrow’s pay day.
+Let’s see—
+tomorrow’s pay day.
 
-463
+377
 00:47:59,702 --> 00:48:02,702
-Probably Rebecca’ll feel she ought to have some more too.
+Probably Rebecca’ll feel she ought
+to have some more too.
 
-464
+378
 00:48:04,789 --> 00:48:07,789
-Wonder what could have happened to your mother.
+Wonder what could
+have happened to your mother.
 
-465
+379
 00:48:09,875 --> 00:48:12,875
-Choir practice never was as late as this before.
+Choir practice never was
+as late as this before.
 
-466
+380
 00:48:14,961 --> 00:48:17,961
 It's only half-past eight, Pa.
 
-467
+381
 00:48:20,047 --> 00:48:23,047
-I don’t know why she's in that choir anyway. She sounds like an old crow!
+I don’t know why she's in that choir anyway.
+She sounds like an old crow!
 
-468
+382
 00:48:25,133 --> 00:48:28,133
-And traipsin’ around at this hour of the night! About time you retired, don’t you think?
+And traipsin’ around at this hour of the night!
+About time you retired, don’t you think?
 
-469
+383
 00:48:30,219 --> 00:48:33,219
 Yes, Pa.
 
-470
-00:48:40,391 --> 00:48:43,391
-– Goodnight, Martha. – Goodnight, Mr. Foster.
-
-471
+384
 00:48:45,477 --> 00:48:48,477
-I’ll tell Mr. Webb; I know he’ll want to put it in the paper.
+I’ll tell Mr. Webb; I know he’ll want
+to put it in the paper.
 
-472
+385
 00:48:55,650 --> 00:48:58,650
 My, it’s late!
 
-473
+386
 00:49:00,736 --> 00:49:03,736
 Goodnight, Irma.
 
-474
-00:49:10,908 --> 00:49:13,908
-– Real nice choir practice, wasn’t it? – Um-m!
-
-475
+387
 00:49:21,080 --> 00:49:24,080
 Myrtle Webb! Look at that moon!
 
-476
+388
 00:49:31,252 --> 00:49:34,252
-Good potato-growing weather is coming, that’s for sure!
+Good potato-growing weather is coming,
+that’s for sure!
 
-477
+389
 00:49:36,339 --> 00:49:39,339
-Well, I didn't want to say it in front of those others but now we’re alone—,
+Well, I didn't want to say it in front of those
+others but now we’re alone—,
 
-478
+390
 00:49:41,425 --> 00:49:44,425
 it’s the worst scandal ever in this town!
 
-479
-00:49:46,511 --> 00:49:49,511
-– What? – Simon Stimson!
-
-480
+391
 00:49:51,597 --> 00:49:54,597
 Now, Louella!
 
-481
+392
 00:49:56,683 --> 00:49:59,683
-But, Julia! The organist of a church, drunk year after year.
+But, Julia! The organist of a church,
+drunk year after year.
 
-482
+393
 00:50:01,769 --> 00:50:04,769
 You saw he was drunk tonight.
 
-483
+394
 00:50:06,855 --> 00:50:09,855
 You know he was drunk tonight.
 
-484
-00:50:11,941 --> 00:50:14,941
-Louella! We all know about Mr. Stimson, and we all know about his troubles,
-
-485
+395
 00:50:17,027 --> 00:50:20,027
-and Doctor Ferguson knows too. A nd if Reverend Ferguson keeps him, it means
+and Doctor Ferguson knows too.
+A
 
-486
+396
 00:50:22,114 --> 00:50:25,114
-th e only thing the rest of us can do is just not to notice it.
+th
 
-487
+397
 00:50:32,286 --> 00:50:35,286
-Not to notice it! But it’s getting worse.
+Not to notice it!
+But it’s getting worse.
 
-488
+398
 00:50:37,372 --> 00:50:40,372
 No, it isn’t, Louella.
 
-489
+399
 00:50:42,458 --> 00:50:45,458
-I’ve been in that choir twice as long as you. It doesn’t happen anywhere near so often.
+I’ve been in that choir twice as long as you.
+It doesn’t happen anywhere near so often.
 
-490
+400
 00:50:47,544 --> 00:50:50,544
 Louella, look at that beautiful moon!
 
-491
+401
 00:50:52,630 --> 00:50:55,630
-Those children will be up all night. Goodnight, Louella.
+Those children will be up all night.
+Goodnight, Louella.
 
-492
+402
 00:50:57,716 --> 00:51:00,716
-Goodnight, Myrtle. Can you get home safe, Louella?
+Goodnight, Myrtle.
+Can you get home safe, Louella?
 
-493
+403
 00:51:07,889 --> 00:51:10,889
-Oh, it’s bright as day. I can see my husband scowling at the windows now.
+Oh, it’s bright as day. I can see
 
-494
+404
 00:51:12,975 --> 00:51:15,975
-You’d think we’d been to a dance the way the men folk carry on. Goodnight, Julia.
+You’d think we’d been to a dance
+the way the men folk carry on. Goodnight, Julia.
 
-495
+405
 00:51:18,061 --> 00:51:21,061
 Goodnight, Louella.
 
-496
-00:51:28,233 --> 00:51:31,233
-– See you on Sunday. – See you then !
-
-497
+406
 00:51:38,405 --> 00:51:41,405
 Well, we had a real good time.
 
-498
+407
 00:51:43,491 --> 00:51:46,491
 You’re late enough.
 
-499
+408
 00:51:48,577 --> 00:51:51,577
 Why, Frank, it ain’t any later than usual.
 
-500
+409
 00:51:53,664 --> 00:51:56,664
-And you stopping to gossip with a lot of hens.
+And you stopping to gossip
+with a lot of hens.
 
-501
+410
 00:51:58,750 --> 00:52:01,750
 Don’t be grouchy.
 
-502
+411
 00:52:03,836 --> 00:52:06,836
-Come smell my heliotrope in the moonlight.
+Come smell
+my heliotrope
 
-503
+412
 00:52:08,922 --> 00:52:11,922
-Isn’t that wonderful? What did you do tonight?
+Isn’t that wonderful?
+What did you do tonight?
 
-504
+413
 00:52:14,008 --> 00:52:17,008
-Oh, I read—What were the girls gossiping about tonight?
+Oh, I read—What were the girls
+gossiping about tonight?
 
-505
-00:52:19,094 --> 00:52:22,094
-– Well, there’s something to gossip about. – Simon Stimson far gone, was he?
-
-506
+414
 00:52:24,180 --> 00:52:27,180
-Worst I've seen him. How’ll that end, Frank?
+Worst I've seen him.
+How’ll that end, Frank?
 
-507
+415
 00:52:29,266 --> 00:52:32,266
-Reverend Ferguson can’t forgive him forever.
+Reverend
+Ferguson
 
-508
+416
 00:52:34,352 --> 00:52:37,352
-I guess I know more about Simon Stimson’s affairs than anybody in this town.
+I guess I know more about Simon Stimson’s
+affairs than anybody in this town.
 
-509
+417
 00:52:39,439 --> 00:52:42,439
-Some people ain’t made for small town life.
+Some people ain’t made for
+small town life.
 
-510
-00:52:44,525 --> 00:52:47,525
-I don’t know how that’ll end; but there’s nothing we can do — Get in.
-
-511
+418
 00:52:49,611 --> 00:52:52,611
-No, not yet. —Frank, I'm worried about you.
+No, not yet. —Frank,
+I'm worried about you.
 
-512
+419
 00:52:54,697 --> 00:52:57,697
 What are you worried about ?
 
-513
+420
 00:52:59,783 --> 00:53:02,783
 I think you need a real rest
 
-514
+421
 00:53:04,869 --> 00:53:07,869
 and change.
 
-515
+422
 00:53:09,955 --> 00:53:12,955
-If I get that inheritance. I’m going to insist on it.
+If I get that inheritance.
+I’m going to insist on it.
 
-516
+423
 00:53:15,041 --> 00:53:18,041
 Now, Julia, not that again.
 
-517
-00:53:20,127 --> 00:53:23,127
-Frank, you’re unreasonable!
-
-518
+424
 00:53:25,214 --> 00:53:28,214
-Come on, Julia, it’s late. You’ll catch cold—
+Come on, Julia, it’s late.
+You’ll catch cold—
 
-519
-00:53:30,300 --> 00:53:33,300
-I gave George a piece of my mind tonight. I’m sure that from now on
-
-520
+425
 00:53:35,386 --> 00:53:38,386
-You'll have your wood chopped, for a while anyway. No, no.
+You'll have your wood chopped,
+for a while anyway. No, no.
 
-521
+426
 00:53:40,472 --> 00:53:43,472
-Oh dear, there’s always so many things to pick up.
+Oh dear, there’s always so many
+things to pick up.
 
-522
-00:53:45,558 --> 00:53:48,558
-You know, Frank, Mrs. Grover always locks her front door.
-
-523
+427
 00:53:50,644 --> 00:53:53,644
-All those people that part of town do.
+All those people that
+part of town do.
 
-524
+428
 00:53:55,730 --> 00:53:58,730
-They’re all gettin’ citified. They haven't got anythin’ fit to steal..
+They’re all gettin’ citified.
+They haven't got anythin’ fit to steal..
 
-525
+429
 00:54:05,902 --> 00:54:08,902
-Get out, Rebecca. There’s only room for one here.
+Get out, Rebecca.
+There’s only room for one here.
 
-526
+430
 00:54:16,075 --> 00:54:19,075
 Well, let me look just a minute.
 
-527
+431
 00:54:21,161 --> 00:54:24,161
 Use your own window.
 
-528
+432
 00:54:26,247 --> 00:54:29,247
-There's no moon there ...
+There's no moon there
 
-529
+433
 00:54:36,419 --> 00:54:39,419
 George, do you know what I think?
 
-530
+434
 00:54:41,505 --> 00:54:44,505
-I think maybe the moon’s getting nearer and nearer
+I think maybe the moon’s getting
+nearer and nearer
 
-531
+435
 00:54:46,591 --> 00:54:49,591
-and there’ll be a big explosio n!
+and there’ll be a big explosio
 
-532
+436
 00:54:51,677 --> 00:54:54,677
-You have no idea, Rebecca . If the moon were getting nearer,
+You have no idea,
+Rebecca
 
-533
+437
 00:54:56,764 --> 00:54:59,764
-the men that sit up all night with telescopes would see it
+the men that sit up all night
+with telescopes would see it
 
-534
+438
 00:55:01,850 --> 00:55:04,850
-and it’d be in all the newspapers.
+and it’d be in
+all the newspapers.
 
-535
-00:55:06,936 --> 00:55:09,936
-George, is the moon shining on South America, Canada
-
-536
+439
 00:55:12,022 --> 00:55:15,022
 and half the whole world?
 
-537
+440
 00:55:17,108 --> 00:55:20,108
 Well—probably is.
 
-538
+441
 00:55:27,280 --> 00:55:30,280
 Nine-thirty.
 
-539
+442
 00:55:32,366 --> 00:55:35,366
 Most lights in town are out.
 
-540
-00:55:37,452 --> 00:55:40,452
-There's Constable Warren trying a few doors on Main Street.
-
-541
+443
 00:55:42,539 --> 00:55:45,539
-Here comes Editor Webb, after putting his newspaper to bed.
+Here comes Editor Webb, after putting
+his newspaper to bed.
 
-542
-00:55:47,625 --> 00:55:50,625
-– Good evening. Bill. – Evenin’, Mr. Webb.
-
-543
-00:55:52,711 --> 00:55:55,711
-– Quite a moon! – Yeh!
-
-544
+444
 00:55:57,797 --> 00:56:00,797
 All quiet tonight?
 
-545
+445
 00:56:02,883 --> 00:56:05,883
-Simon Stimson is rollin’ around a little. Just saw his wife out
+Simon Stimson is rollin’ around a little.
+Just saw his wife out
 
-546
+446
 00:56:07,969 --> 00:56:10,969
-looking for him so I looked the other way— there he is now.
+looking for him so I looked the other way—
+there he is now.
 
-547
+447
 00:56:18,141 --> 00:56:21,141
-Good evening, Simon !
+Good evening, Simon
 
-548
+448
 00:56:23,227 --> 00:56:26,227
-Town seems to have settled down for the night.
+Town seems to have settled down
+for the night.
 
-549
+449
 00:56:28,314 --> 00:56:31,314
-Yes, most of the people in town have gone home, Simon.
+Yes, most of the people in town
+have gone home, Simon.
 
-550
+450
 00:56:38,486 --> 00:56:41,486
 I guess we better do the same.
 
-551
+451
 00:56:48,658 --> 00:56:51,658
 Can I walk along with you?
 
-552
+452
 00:56:53,744 --> 00:56:56,744
 Good night.
 
-553
+453
 00:57:03,916 --> 00:57:06,916
-I don’t know how that’s goin’ to end, Mr. Webb.
+I don’t know how that’s goin’
+to end, Mr. Webb.
 
-554
+454
 00:57:09,002 --> 00:57:12,002
-Well, he's been trouble ...
+Well, he's been trouble
 
-555
+455
 00:57:14,089 --> 00:57:17,089
-Oh, Bill , if you see my boy smoking,
+Oh, Bill
 
-556
+456
 00:57:19,175 --> 00:57:22,175
-give him a word? He thinks a lot of you.
+give him a word?
+He thinks a lot of you.
 
-557
+457
 00:57:24,261 --> 00:57:27,261
-I don’t think he smokes, Mr.Webb, not more than two or three cigarettes a year.
+I don’t think he smokes,
+Mr.Webb,
 
-558
+458
 00:57:34,433 --> 00:57:37,433
-Hm. I hope not. Good night, Bill.
+Hm. I hope not.
+Good night, Bill.
 
-559
+459
 00:57:39,519 --> 00:57:42,519
 Good night, Mr. Webb.
 
-560
-00:57:49,691 --> 00:57:52,691
-– Who’s that? Is that you Myrtle? – No, it’s me, Papa.
-
-561
+460
 00:57:54,777 --> 00:57:57,777
 Why aren’t you in bed?
 
-562
+461
 00:57:59,864 --> 00:58:02,864
-I don’t know. I can’t sleep, Papa. The moonlight’s wonderful.
+I don’t know. I can’t sleep, Papa.
+The moonlight’s wonderful.
 
-563
+462
 00:58:04,950 --> 00:58:07,950
-And Mrs. Gibbs’s heliotropes. Can you smell it?
+And Mrs. Gibbs’s heliotropes.
+Can you smell it?
 
-564
+463
 00:58:10,036 --> 00:58:13,036
-Hm—Yes. No troubles on your mind, Emily?
+Hm—Yes. No troubles on your mind,
+Emily?
 
-565
+464
 00:58:15,122 --> 00:58:18,122
-Troubles, Papa. No !
+Troubles, Papa. No
 
-566
+465
 00:58:20,208 --> 00:58:23,208
-Well, don’t let your mother catch you. Good night, Emily.
+Well, don’t let your mother catch you.
+Good night, Emily.
 
-567
+466
 00:58:25,294 --> 00:58:28,294
-Good night , Papa.
+Good night
 
-568
+467
 00:58:35,466 --> 00:58:38,466
-I never told you about that letter Jane Crofut got from her minister
+I never told you about that letter
+Jane Crofut got from her minister
 
-569
+468
 00:58:40,552 --> 00:58:43,552
 when she was sick.
 
-570
+469
 00:58:45,638 --> 00:58:48,638
 The address on the envelope said:
 
-571
+470
 00:58:50,725 --> 00:58:53,725
-Jane Crofut; The Crofut Farm, Grover’s Corners; Sutton County;
+Jane Crofut; The Crofut Farm,
+Grover’s Corners; Sutton County;
 
-572
+471
 00:58:55,811 --> 00:58:58,811
-New Hampshire; United States of America.
+New Hampshire;
+United States of America.
 
-573
+472
 00:59:00,897 --> 00:59:03,897
 What’s funny about that?
 
-574
+473
 00:59:05,983 --> 00:59:08,983
-Listen, it’s not finished: the United States of America; Continent of North America;
+Listen, it’s not finished: the United States
+of America; Continent of North America;
 
-575
+474
 00:59:11,069 --> 00:59:14,069
-Western Hemisphere; the Earth; the Solar System;
+Western Hemisphere; the Earth;
+the Solar System;
 
-576
-00:59:16,155 --> 00:59:19,155
-the Mind of God.
-
-577
+475
 00:59:21,241 --> 00:59:24,241
 What do you know!
 
-578
-00:59:26,327 --> 00:59:29,327
-– Yep, and the postman delivered it. – What do you know!
-
-579
-00:59:36,500 --> 00:59:39,500
-That’s the end of the First Act.
-
-580
+476
 00:59:46,672 --> 00:59:49,672
-T hree years have gone by.
+T
 
-581
+477
 00:59:56,844 --> 00:59:59,844
-Yes, the sun has risen a thousan d times.
+Yes, the sun has risen a thousan
 
-582
+478
 01:00:01,930 --> 01:00:04,930
-Summers and winters have cracked the mountains more and the rains
+Summers and winters have cracked
+the mountains more
 
-583
+479
 01:00:07,016 --> 01:00:10,016
 brought down some of the dirt.
 
-584
+480
 01:00:12,102 --> 01:00:15,102
-Some babies that weren’t even born before, have begun talkin’ sentences;
+Some babies that weren’t even born before,
+have begun talkin’ sentences;
 
-585
+481
 01:00:17,188 --> 01:00:20,188
-and a number of people who thought they were young have noticed
+and a number of people who thought
+they were young have noticed
 
-586
+482
 01:00:22,275 --> 01:00:25,275
-that they can’t bound up a flight of stairs like they used to.
+that they can’t bound up a flight
+of stairs like they used to.
 
-587
+483
 01:00:27,361 --> 01:00:30,361
-All that can happen in a thousand days.
+All that can happen
+in a thousand days.
 
-588
+484
 01:00:32,447 --> 01:00:35,447
-Nature’s been pushin’ in other ways, too—
+Nature’s been pushin’ in
+other ways, too—
 
-589
+485
 01:00:37,533 --> 01:00:40,533
 a number of young people fell in love.
 
-590
-01:00:42,619 --> 01:00:45,619
-The First Act was called The Daily Life ; this Act is called Love and Marriage .
-
-591
-01:00:52,791 --> 01:00:55,791
-Almost everybody in the world gets married— know what I mean?
-
-592
+486
 01:01:02,963 --> 01:01:05,963
-In our town there aren’t many exceptions.
+In our town there aren’t
+many exceptions.
 
-593
+487
 01:01:08,050 --> 01:01:11,050
-Most everybody climbs into their grave married.
+Most everybody climbs
+into their grave married.
 
-594
+488
 01:01:18,222 --> 01:01:21,222
-So; three years later. 1904. July 7th,
+So; three years later. 1904.
+July 7th,
 
-595
+489
 01:01:23,308 --> 01:01:26,308
 just after High School Commencement.
 
-596
+490
 01:01:28,394 --> 01:01:31,394
-That’s when our young people jump up and get married.
+That’s when our young people
+jump up and get married.
 
-597
+491
 01:01:33,480 --> 01:01:36,480
-Soon as they’ve passed their last examinations, looks like they feel themselves fit to get married
+Soon as they’ve passed their last examinations,
+looks like they feel themselves fit to get married
 
-598
+492
 01:01:38,566 --> 01:01:41,566
-and Cicero's words, it would seem that they consider themselves marriageable.
+and Cicero's words, it would seem that
+they consider themselves marriageable.
 
-599
+493
 01:01:48,738 --> 01:01:51,738
-It’s early morning. Only this time it’s been raining.
+It’s early morning.
+Only this time it’s been raining.
 
-600
+494
 01:01:53,825 --> 01:01:56,825
-It was absolutely pouring down with thunderstorms.
+It was absolutely pouring down
+with thunderstorms.
 
-601
+495
 01:01:58,911 --> 01:02:01,911
-Mrs. Gibbs’s garden— and Mrs. Webb’s here—drenched.
+Mrs. Gibbs’s garden—
+and Mrs. Webb’s here—drenched.
 
-602
+496
 01:02:03,997 --> 01:02:06,997
-A lot of bean stems and pea pods are full of water.
+A lot of bean stems and pea pods
+are full of water.
 
-603
+497
 01:02:09,083 --> 01:02:12,083
-All yesterday, over on Main Street the rain looked like curtains being blown along.
+All yesterday, over on Main Street
+the rain looked like curtains being blown along.
 
-604
-01:02:14,169 --> 01:02:17,169
-Hear it? Hm—don't know now— may begin again any minute.
-
-605
+498
 01:02:19,255 --> 01:02:22,255
-There’s the 5 0.45 train for Boston.
+There’s the 5
 
-606
+499
 01:02:24,341 --> 01:02:27,341
 And there’s Mrs. Gibbs and Mrs. Webb
 
-607
+500
 01:02:29,427 --> 01:02:32,427
-making breakfast, as if this were an ordinary day.
+making breakfast,
 
-608
+501
 01:02:34,513 --> 01:02:37,513
-I don’t have to point out to the women in the audience
+I don’t have to point out to the women
+in the audience
 
-609
+502
 01:02:39,600 --> 01:02:42,600
-that both these ladies cooked three meals a day,
+that both these ladies cooked
+three meals a day,
 
-610
+503
 01:02:44,686 --> 01:02:47,686
-one of ’em for twenty years and the other for forty—
+one of ’em for twenty years
+and the other for forty—
 
-611
+504
 01:02:49,772 --> 01:02:52,772
 no summer vacation.
 
-612
+505
 01:02:54,858 --> 01:02:57,858
-They raised two children apiece, washed, cleaned the house,
+They raised two children apiece,
+washed, cleaned the house,
 
-613
+506
 01:02:59,944 --> 01:03:02,944
 and never had a nervous breakdown.
 
-614
+507
 01:03:05,030 --> 01:03:08,030
-Never thought themselves hard-used, either — It’s like what one of those poets said:
+Never thought themselves hard-used, either —
+It’s like what one of those poets said:
 
-615
+508
 01:03:10,116 --> 01:03:13,116
-‘’You got to love life to have life, and you got to have life to love life—’’
+‘’You got to love life to have life,
+and you got to have life to love life—’’
 
-616
+509
 01:03:15,202 --> 01:03:18,202
 Do you know who said that?
 
-617
+510
 01:03:20,288 --> 01:03:23,288
-Thornton Wilder, the author of this play. As the saying goes – it’s a vicious circle.
+Thornton Wilder, the author of this play.
+As the saying goes – it’s a vicious circle.
 
-618
-01:03:30,461 --> 01:03:33,461
-There comes Howie Newsome and Bessie, deliverin’ the milk.
-
-619
+511
 01:03:35,547 --> 01:03:38,547
 Giddy up, Bessie!
 
-620
-01:03:40,633 --> 01:03:43,633
-And there’s Si Crowell deliverin’ the papers like his brother.
-
-621
-01:03:45,719 --> 01:03:48,719
-Good morning, Howie .
-
-622
-01:03:50,805 --> 01:03:53,805
-Good morning, Si. Anythin’ in the papers I ought to know.
-
-623
-01:03:55,891 --> 01:03:58,891
-Nothin’ much, we’re losin’ about the best baseball pitcher
-
-624
-01:04:00,977 --> 01:04:03,977
-– George Gibbs – Grover’s Corners ever had.
-
-625
+512
 01:04:06,063 --> 01:04:09,063
 Aya, reckon he is.
 
-626
+513
 01:04:11,150 --> 01:04:14,150
 Now all he’ll be doin’ is pitchin’ hay.
 
-627
+514
 01:04:16,236 --> 01:04:19,236
-Whoa, Bessie! Guess I can stop and talk.
+Whoa, Bessie!
+Guess I can stop and talk.
 
-628
-01:04:26,408 --> 01:04:29,408
-– George could hit, too. And run bases. – Fine ballplayer.
-
-629
+515
 01:04:31,494 --> 01:04:34,494
-I don’t see how he could give that up  to get married.
+I don’t see how he could give
+that up  to get married.
 
-630
+516
 01:04:36,580 --> 01:04:39,580
 Would you, Howie?
 
-631
-01:04:41,666 --> 01:04:44,666
-Can’t tell. Si. Never had that talent.
-
-632
+517
 01:04:46,752 --> 01:04:49,752
 Mornin’, Howie!
 
-633
+518
 01:04:51,838 --> 01:04:54,838
-Good morning , Bill. You’re up early.
+Good morning
+, Bill.
 
-634
+519
 01:04:56,925 --> 01:04:59,925
-Seein’ if there’s anything I can do to prevent a flood.
+Seein’ if there’s anything
+I can do to prevent a flood.
 
-635
+520
 01:05:07,097 --> 01:05:10,097
 River’s been risin’ all night.
 
-636
+521
 01:05:12,183 --> 01:05:15,183
-Si Crowell here’s upset George Gibbs is retiring from baseball.
+Si Crowell here’s upset George Gibbs
 
-637
+522
 01:05:17,269 --> 01:05:20,269
-That’s how it goes. In '84 we had a player, far better than George Gibbs. .
+That’s how it goes. In '84 we had a player,
+far better than George Gibbs.
 
-638
+523
 01:05:22,355 --> 01:05:25,355
 His name was Hank Todd.
 
-639
-01:05:27,441 --> 01:05:30,441
-Hank Todd! In '84 we had a player whose name was that.
-
-640
+524
 01:05:32,527 --> 01:05:35,527
 He went to Maine and become a parson.
 
-641
+525
 01:05:37,613 --> 01:05:40,613
 Wonderful ballplayer.
 
-642
+526
 01:05:47,786 --> 01:05:50,786
 Howie, how's the weather?
 
-643
+527
 01:05:52,872 --> 01:05:55,872
-Not bad. Think maybe it’ll clear up for good.
+Not bad. Think maybe
 
-644
-01:06:08,130 --> 01:06:11,130
-– Goo morning, Mrs. Gibbs. – Good morning, Howie.
-
-645
+528
 01:06:13,216 --> 01:06:16,216
-Too bad about the weather. It’s been raining so heavy that maybe it’ll clear up.
+Too bad about the weather. It’s been raining
+so heavy that maybe it’ll clear up.
 
-646
-01:06:18,302 --> 01:06:21,302
-– Certainly hope it will. – How much did you want today?
-
-647
+529
 01:06:23,388 --> 01:06:26,388
-Looks like I’ll need three-a-milk and two-a-cream.
+Looks like I’ll need three-a-milk
+and two-a-cream.
 
-648
-01:06:28,475 --> 01:06:31,475
-Three a milk and two a cream.
-
-649
+530
 01:06:38,647 --> 01:06:41,647
 My wife says to tell you, mrs. Gibbs,
 
-650
+531
 01:06:43,733 --> 01:06:46,733
-we hope they’ll be happy. And I’m sure they will.
+we hope they’ll be happy.
+And I’m sure they will.
 
-651
+532
 01:06:48,819 --> 01:06:51,819
-Thanks, Howie. Tell your wife I hope she gets to the wedding.
+Thanks, Howie. Tell your wife
+I hope she gets to the wedding.
 
-652
-01:06:53,905 --> 01:06:56,905
-She will if she can .
-
-653
-01:07:04,077 --> 01:07:07,077
-Good morning, M rs. Webb.
-
-654
+533
 01:07:09,163 --> 01:07:12,163
-Oh, good morning, Mr. Newsome. I told you four quarts,
+Oh, good morning, Mr. Newsome.
+I told you four quarts,
 
-655
+534
 01:07:14,250 --> 01:07:17,250
 but I hope you can spare another.
 
-656
+535
 01:07:19,336 --> 01:07:22,336
-Yes , madam… and two-a-cream.
+Yes
 
-657
-01:07:29,508 --> 01:07:32,508
-Will it start raining again, Howie?
-
-658
+536
 01:07:34,594 --> 01:07:37,594
-Well— I was just telling Mrs. Gibbs it may clear up.
+Well— I was just
+telling Mrs. Gibbs
 
-659
+537
 01:07:39,680 --> 01:07:42,680
-My wife told me to tell you as how we hope
+My wife
 
-660
+538
 01:07:44,766 --> 01:07:47,766
-they’ll be happy, M’s Webb,—know they will.
+they’ll be happy,
+M’s Webb,—know they will.
 
-661
+539
 01:07:49,852 --> 01:07:52,852
-Thank you, and thank Mrs. Newsome , we’re counting on seeing you at the church.
+Thank you,
+and thank Mrs. Newsome
 
-662
+540
 01:07:54,938 --> 01:07:57,938
-Yes, Mrs Webb. We hope to be there Come on, Bessie!
+Yes, Mrs Webb. We hope to be
+there Come on, Bessie!
 
-663
+541
 01:08:05,111 --> 01:08:08,111
-Well, Ma. You’re losing one of your chicks.
+Well, Ma. You’re losing
+one of your chicks.
 
-664
+542
 01:08:10,197 --> 01:08:13,197
 Yes.
 
-665
+543
 01:08:15,283 --> 01:08:18,283
-Frank Gibbs, don’t you say another word.
+Frank Gibbs,
+don’t you say another word.
 
-666
+544
 01:08:20,369 --> 01:08:23,369
 Sit down and drink your coffee.
 
-667
+545
 01:08:30,541 --> 01:08:33,541
-The groom’s shaving, only there ain’t much to shave—
+The groom’s shaving,
+only there ain’t much to shave—
 
-668
+546
 01:08:35,627 --> 01:08:38,627
-whistling like he's glad to leave us.—
+whistling like he's glad
+to leave us.—
 
-669
+547
 01:08:40,713 --> 01:08:43,713
-Every now and then he says “I do” to the mirror, but it don't sound convincing to me.
+Every now and then he says “I do” to the mirror,
+but it don't sound convincing to me.
 
-670
+548
 01:08:45,800 --> 01:08:48,800
-Really, Frank, I don’t know how he’ll get along. I’ve arranged his clothes,
+Really, Frank,
+I don’t know how he’ll get along.
 
-671
+549
 01:08:50,886 --> 01:08:53,886
 kept his feet and warm things on—
 
-672
+550
 01:08:55,972 --> 01:08:58,972
-Frank, they’re too young! Emily won’t think of such things.
+Frank, they’re too young!
 
-673
+551
 01:09:01,058 --> 01:09:04,058
-He’ll catch his death-a-cold within a week.
+He’ll catch his death-a-cold
+within a week.
 
-674
+552
 01:09:06,144 --> 01:09:09,144
 I remember my wedding morning.
 
-675
-01:09:11,230 --> 01:09:14,230
-Now don't start, Frank.
-
-676
+553
 01:09:16,316 --> 01:09:19,316
-I was the searedest young fella in New Hampshire.
+I was the searedest young fella
+in New Hampshire.
 
-677
+554
 01:09:21,402 --> 01:09:24,402
 I thought I'd made a mistake.
 
-678
+555
 01:09:26,488 --> 01:09:29,488
 When I saw you coming down that aisle
 
-679
+556
 01:09:31,575 --> 01:09:34,575
-I thought you were the prettiest girl I’d seen;
+I thought you were the prettiest girl
+I’d seen;
 
-680
-01:09:36,661 --> 01:09:39,661
-the only trouble was that I’d never seen you before.
-
-681
+557
 01:09:41,747 --> 01:09:44,747
-I was in the Congregational Church marryin’ a total stranger!
+I was in the Congregational Church
+marryin’ a total stranger!
 
-682
+558
 01:09:51,919 --> 01:09:54,919
-And how do you think I felt? Frank, w eddings are awful things.
+And how do you think I felt?
+Frank, w
 
-683
+559
 01:09:57,005 --> 01:10:00,005
-Farces! Here, I made you something.
+Farces!
+Here, I made you something.
 
-684
+560
 01:10:02,091 --> 01:10:05,091
 Why, Julia! French toast!
 
-685
+561
 01:10:07,177 --> 01:10:10,177
 I had to do something.
 
-686
-01:10:12,263 --> 01:10:15,263
-– How’d you sleep, Julia? – Well, I heard the clock every hour.
-
-687
+562
 01:10:17,350 --> 01:10:20,350
 Yes!
 
-688
+563
 01:10:22,436 --> 01:10:25,436
 Aya, I get a shock every time I think of George
 
-689
+564
 01:10:27,522 --> 01:10:30,522
 setting out to be a family man!
 
-690
+565
 01:10:32,608 --> 01:10:35,608
-There’s nothing so terrifying in the world as a son.
+There’s nothing so terrifying
+in the world as a son.
 
-691
+566
 01:10:37,694 --> 01:10:40,694
-The relation of father and son is the damndest, —
+The relation of father
+and son is the damndest, —
 
-692
+567
 01:10:42,780 --> 01:10:45,780
-Well, mother and daughter’s no picnic—
+Well, mother and daughter’s
+no picnic—
 
-693
+568
 01:10:47,866 --> 01:10:50,866
-They’ll have troubles, but that’s none of our business.
+They’ll have troubles,
+but that’s none of our business.
 
-694
+569
 01:10:52,952 --> 01:10:55,952
-Everybody has a right to their own troubles.
+Everybody has a right
+to their own troubles.
 
-695
+570
 01:10:58,038 --> 01:11:01,038
-Aya… people are meant to live two-by-two in this world. It’s not good to be all by yourself.
+Aya… people are meant to live two-by-two in
+this world. It’s not good to be all by yourself.
 
-696
+571
 01:11:03,125 --> 01:11:06,125
-Julia, do you know one of the things I was scared of when I married you?
+Julia, do you know one of the things I
+was scared of when I married you?
 
-697
+572
 01:11:08,211 --> 01:11:11,211
-I was afraid we didn’t have enough to talk about for more than  a few weeks.
+I was afraid we didn’t have enough to talk
+about for more than  a few weeks.
 
-698
+573
 01:11:13,297 --> 01:11:16,297
 that we’d eat our meals in silence.
 
-699
+574
 01:11:18,383 --> 01:11:21,383
-Well, you and I been conversing for twenty years without
+Well, you and I been conversing
+for twenty years without
 
-700
+575
 01:11:23,469 --> 01:11:26,469
 any barren spells.
 
-701
+576
 01:11:28,555 --> 01:11:31,555
-Well, good weather, bad weather, I always find something to say.
+Well, good weather, bad weather,
+I always find something to say.
 
-702
+577
 01:11:33,641 --> 01:11:36,641
 Did you hear Rebecca up yet?
 
-703
+578
 01:11:38,727 --> 01:11:41,727
-No. Only day of the year Rebecca hasn’t been managing everybody’s business.
+No. Only day of the year Rebecca hasn’t been
+managing everybody’s business.
 
-704
+579
 01:11:43,813 --> 01:11:46,813
 She’s hiding, might be crying.
 
-705
+580
 01:11:48,900 --> 01:11:51,900
-Lord’s sakes— this has got to stop.
+Lord’s sakes—
+this has got to stop.
 
-706
+581
 01:11:53,986 --> 01:11:56,986
 Rebecca! Come get breakfast.
 
-707
+582
 01:11:59,072 --> 01:12:02,072
-Good morning. Only four more hours to live!
+Good morning.
+Only four more hours to live!
 
-708
-01:12:09,244 --> 01:12:12,244
-– Where are you going? – To see my bride .
-
-709
+583
 01:12:14,330 --> 01:12:17,330
-Now, George, put on your boots . It’s raining torrents.
+Now, George, put on your boots .
+It’s raining torrents.
 
-710
+584
 01:12:19,416 --> 01:12:22,416
-You don’t go out of this house without being prepared.
+You don’t go out of this house
+without being prepared.
 
-711
+585
 01:12:24,502 --> 01:12:27,502
 Aw, Ma—it’s just a step.
 
-712
+586
 01:12:29,588 --> 01:12:32,588
-You’ll catch your death-a-cold through the service.
+You’ll catch your
+death-a-cold through the service.
 
-713
+587
 01:12:34,674 --> 01:12:37,674
 George, do what your mother says!
 
-714
+588
 01:12:39,761 --> 01:12:42,761
-From tomorrow on you can go wherever and whenever you want,
+From tomorrow on you can go wherever
+and whenever you want,
 
-715
+589
 01:12:44,847 --> 01:12:47,847
-While you’re in my house you’ll live wisely .
+While you’re in my house
 
-716
+590
 01:12:55,019 --> 01:12:58,019
-Perhaps Mrs. Webb isn’t used to callers this early.
+Perhaps Mrs. Webb
+isn’t used to callers this early.
 
-717
+591
 01:13:05,191 --> 01:13:08,191
 Here, take a cup of coffee.
 
-718
+592
 01:13:15,363 --> 01:13:18,363
 Just a sec.
 
-719
+593
 01:13:25,536 --> 01:13:28,536
 Good morning, Mother Webb.
 
-720
+594
 01:13:35,708 --> 01:13:38,708
-Oh my God! You frightened me! B ut you know I can’t ask you in.
+Oh my God! You frightened me!
 
-721
+595
 01:13:40,794 --> 01:13:43,794
 Why not—?
 
-722
+596
 01:13:45,880 --> 01:13:48,880
 Why, George, the groom can’t see
 
-723
+597
 01:13:50,966 --> 01:13:53,966
 his bride on his wedding day.
 
-724
+598
 01:13:56,052 --> 01:13:59,052
-Aw,—that’s  superstition. Good morning, Mr. Webb.
+Aw,—that’s  superstition.
+Good morning, Mr. Webb.
 
-725
+599
 01:14:01,138 --> 01:14:04,138
 Good morning, George.
 
-726
+600
 01:14:06,224 --> 01:14:09,224
-Mr. Webb, you don’t believe in that, do you?
+Mr. Webb, you don’t believe
+in that, do you?
 
-727
+601
 01:14:11,311 --> 01:14:14,311
-There’s common-sense in superstitions, George.
+There’s common-sense
+in superstitions, George.
 
-728
+602
 01:14:21,483 --> 01:14:24,483
-Millions have followed it, George,
+Millions have followed it,
+George,
 
-729
+603
 01:14:26,569 --> 01:14:29,569
-and don’t be the first to fly in the face of custom.
+and don’t be the first to fly
+in the face of custom.
 
-730
+604
 01:14:36,741 --> 01:14:39,741
 How is Emily?
 
-731
+605
 01:14:41,827 --> 01:14:44,827
 She hasn't waked up yet.
 
-732
+606
 01:14:46,913 --> 01:14:49,913
 Emily’s asleep?
 
-733
+607
 01:14:51,999 --> 01:14:54,999
-No wonder! We were up all night sewing and packing.
+No wonder! We were up all night
+sewing and packing.
 
-734
+608
 01:14:57,086 --> 01:15:00,086
-Now, George; you sit with Mr. Webb and drink this cup of coffee;
+Now, George; you sit with Mr. Webb
+and drink this cup of coffee;
 
-735
+609
 01:15:02,172 --> 01:15:05,172
-I’ll run upstairs and make sure Emily doesn’t come downstairs.
+I’ll run upstairs and make sure
+Emily doesn’t come downstairs.
 
-736
+610
 01:15:07,258 --> 01:15:10,258
-There's bacon, too. But don’t stay long.
+There's bacon, too.
+But don’t stay long.
 
-737
+611
 01:15:17,430 --> 01:15:20,430
 Well, George, how are you?
 
-738
+612
 01:15:22,516 --> 01:15:25,516
-I'm fine. Mr. Webb, what commonsense could there be in a superstition like that?
+I'm fine. Mr. Webb, what commonsense could
+there be in a superstition like that?
 
-739
+613
 01:15:27,602 --> 01:15:30,602
-Well, on the wedding morning a girl’s head's full of clothes and—
+Well, on the wedding morning
+a girl’s head's full of clothes and—
 
-740
+614
 01:15:32,688 --> 01:15:35,688
 one thing and another.
 
-741
+615
 01:15:37,774 --> 01:15:40,774
 That’s probably it?
 
-742
+616
 01:15:42,861 --> 01:15:45,861
 I never thought of that.
 
-743
+617
 01:15:47,947 --> 01:15:50,947
 A girl's nervous on her wedding day.
 
-744
+618
 01:15:53,033 --> 01:15:56,033
-Gee, I wish a person could get married without all that marching.
+Gee, I wish a person could get married
+without all that marching.
 
-745
-01:15:58,119 --> 01:16:01,119
-Every man that’s ever lived has felt that way, George, but it was no use.
-
-746
+619
 01:16:03,205 --> 01:16:06,205
 It’s the women who’ve built up weddings.
 
-747
+620
 01:16:08,291 --> 01:16:11,291
-For a while now the women have it all their own.
+For a while now the women
+have it all their own.
 
-748
+621
 01:16:13,377 --> 01:16:16,377
-A man looks pretty small at a wedding, George.
+A man looks pretty small
+at a wedding, George.
 
-749
+622
 01:16:18,463 --> 01:16:21,463
 All those women making sure the knot’s tied
 
-750
+623
 01:16:23,549 --> 01:16:26,549
 in a public way.
 
-751
+624
 01:16:28,636 --> 01:16:31,636
-Well, you believe in it, don’t you, Mr. Webb?
+Well, you believe in it, don’t you,
+Mr. Webb?
 
-752
+625
 01:16:33,722 --> 01:16:36,722
-Yes. Oh, yes! Now, don’t get me wrong, boy,
+Yes. Oh, yes! Now,
+don’t get me wrong, boy,
 
-753
+626
 01:16:38,808 --> 01:16:41,808
-marriage is a wonderful thing. Don’t forget that, George.
+marriage is a wonderful thing.
+Don’t forget that, George.
 
-754
+627
 01:16:43,894 --> 01:16:46,894
-No, sir. Mr. Webb, how old were you when you got married?
+No, sir. Mr. Webb, how old were you
+when you got married?
 
-755
+628
 01:16:48,980 --> 01:16:51,980
-Well, I'd been to college and taken a little time to get settled.
+Well, I'd been to college and taken
+a little time to get settled.
 
-756
-01:16:54,066 --> 01:16:57,066
-But my wife wasn’t much older than Emily.
-
-757
+629
 01:16:59,152 --> 01:17:02,152
-Oh, age hasn’t got much to do with it, George, compared with—
+Oh, age hasn’t got much to do with it,
+George, compared with—
 
-758
+630
 01:17:04,238 --> 01:17:07,238
 other things.
 
-759
+631
 01:17:09,324 --> 01:17:12,324
 What were you going to say, Mr. Webb?
 
-760
+632
 01:17:14,411 --> 01:17:17,411
 Ah, I don’t know… Was I going to say something?
 
-761
+633
 01:17:19,497 --> 01:17:22,497
-I was remembering the other night what my father said
+I was remembering
+the other night what my father said
 
-762
+634
 01:17:24,583 --> 01:17:27,583
 when I got married.
 
-763
+635
 01:17:29,669 --> 01:17:32,669
-Charles, he said: start right off showin ’ who’s boss.
+Charles, he said:
+start right off showin
 
-764
+636
 01:17:34,755 --> 01:17:37,755
-Best thing to do is to give an order, just so she’ll learn to obey,
+Best thing to do is to give an order,
+just so she’ll learn to obey,
 
-765
+637
 01:17:39,841 --> 01:17:42,841
-Then he said: “If anything about her irritates you,
+Then he said: “If anything about her
+irritates you,
 
-766
+638
 01:17:44,927 --> 01:17:47,927
-the tone of her voice, or something else, get right up and leave the house;
+the tone of her voice, or something else,
+get right up and leave the house;
 
-767
+639
 01:17:50,013 --> 01:17:53,013
-that’ll make it clear to her.” And he said: "Never let your wife know
+that’ll make it clear to her.”
+And he said: "Never let your wife know
 
-768
+640
 01:17:55,099 --> 01:17:58,099
 how much money you have, never.”
 
-769
+641
 01:18:00,186 --> 01:18:03,186
 Well…
 
-770
+642
 01:18:05,272 --> 01:18:08,272
-So I took the opposite of his advice
+So I took the opposite
+of his advice
 
-771
+643
 01:18:10,358 --> 01:18:13,358
-and I’ve been happy ever since. So let that be a lesson to you , George ,
+and I’ve been happy ever since.
+So let that be a lesson to you
 
-772
+644
 01:18:15,444 --> 01:18:18,444
-never to ask advice on personal matters ...
+never to ask advice
+on personal matters
 
-773
-01:18:20,530 --> 01:18:23,530
-... are you going to raise chickens?
-
-774
-01:18:25,616 --> 01:18:28,616
-– What? – Are you raising chickens on your farm?
-
-775
+645
 01:18:30,702 --> 01:18:33,702
-A book came in on the Philo System of raising chickens.
+A book came in on the Philo System
+of raising chickens.
 
-776
+646
 01:18:35,788 --> 01:18:38,788
-I wish you’d read it. I’m thinking of beginning myself,
+I wish you’d read it.
+I’m thinking of beginning myself,
 
-777
+647
 01:18:40,874 --> 01:18:43,874
-in the back yard! I’m going to put an incubator in the cellar—
+in the back yard! I’m going to put
+an incubator in the cellar—
 
-778
+648
 01:18:45,961 --> 01:18:48,961
-Charles Webb, are you talking about that incubator again?
+Charles Webb, are you talking about
+that incubator again?
 
-779
+649
 01:18:51,047 --> 01:18:54,047
-I thought you were talking about serious things.
+I thought you were talking
+about serious things.
 
-780
+650
 01:18:56,133 --> 01:18:59,133
-Well, Myrtle, if you want to give the boy some advice,
+Well, Myrtle, if you want to give
+the boy some advice,
 
-781
+651
 01:19:01,219 --> 01:19:04,219
-I’ll go upstairs and leave you alone with him.
+I’ll go upstairs
 
-782
+652
 01:19:06,305 --> 01:19:09,305
 George, Emily’s got to eat breakfast!
 
-783
+653
 01:19:11,391 --> 01:19:14,391
-She sends you her love, but doesn’t want to see you. Goodbye, George.
+She sends you her love,
+but doesn’t want to see you. Goodbye, George.
 
-784
+654
 01:19:16,477 --> 01:19:19,477
-Myrtle, guess you didn’t know about that older superstition.
+Myrtle, guess you didn’t know
+about that older superstition.
 
-785
+655
 01:19:21,563 --> 01:19:24,563
-Since the caveman. No bridegroom should see
+Since the caveman.
+No bridegroom should see
 
-786
+656
 01:19:26,649 --> 01:19:29,649
 his father-in-law the day of the wedding.
 
-787
+657
 01:19:31,736 --> 01:19:34,736
-Or a day close to it. Remember that.
+Or a day close to it.
+Remember that.
 
-788
+658
 01:19:36,822 --> 01:19:39,822
-I have to interrupt again. You see, we want to know how all this began.
+I have to interrupt again.
+You see, we want to know how all this began.
 
-789
+659
 01:19:41,908 --> 01:19:44,908
-The wedding… the plan for two people to spend their whole lives together.
+The wedding… the plan for two people
+to spend their whole lives together.
 
-790
+660
 01:19:46,994 --> 01:19:49,994
-I'm terribly interested in how big things like this start.
+I'm terribly interested in how
+big things like this start.
 
-791
+661
 01:19:52,080 --> 01:19:55,080
-You know how it is: you’re 21 or 22 and you make some decisions;
+You know how it is: you’re 21 or 22
+and you make some decisions;
 
-792
+662
 01:19:57,166 --> 01:20:00,166
-then whisssh– you’re 70; you’ve been a lawyer for 50 years,
+then whisssh– you’re 70;
+you’ve been a lawyer for 50 years,
 
-793
+663
 01:20:02,252 --> 01:20:05,252
-and that white-haired lady by your side
+and that white-haired lady
+by your side
 
-794
+664
 01:20:07,338 --> 01:20:10,338
 has eaten over fifty thousand meals with you.
 
-795
+665
 01:20:12,424 --> 01:20:15,424
 How do such things begin?
 
-796
+666
 01:20:22,597 --> 01:20:25,597
-George and Emily will show you the conversation they had
+George and Emily will show you
+the conversation they had
 
-797
+667
 01:20:27,683 --> 01:20:30,683
 when they first knew
 
-798
+668
 01:20:32,769 --> 01:20:35,769
 ”they were meant for one another”.
 
-799
+669
 01:20:37,855 --> 01:20:40,855
 Before they do I want you to remember
 
-800
+670
 01:20:42,941 --> 01:20:45,941
 when you were very young,
 
-801
+671
 01:20:48,027 --> 01:20:51,027
 the days when you were first in love;
 
-802
+672
 01:20:53,113 --> 01:20:56,113
-when you were like a person sleep-walking.
+when you were like a person
+sleep-walking.
 
-803
+673
 01:20:58,199 --> 01:21:01,199
 You didn’t hear a thing they said to you.
 
-804
+674
 01:21:03,286 --> 01:21:06,286
-You’re a little bit crazy. Will you remember that, please?
+You’re a little bit crazy.
+Will you remember that, please?
 
-805
-01:21:08,372 --> 01:21:11,372
-It ’s three o’clock. Now they’ll be coming out of High School .
-
-806
+675
 01:21:13,458 --> 01:21:16,458
-George has just been elected President of the Senior Class ; since it's June,
+George has just been elected
 
-807
+676
 01:21:18,544 --> 01:21:21,544
-that means he will be the senior class president next year.
+that means he will be the senior class
+president next year.
 
-808
+677
 01:21:28,716 --> 01:21:31,716
-And Emily’s just been elected Secretary and Treasurer.
+And Emily’s just been elected
+Secretary and Treasurer.
 
-809
-01:21:38,888 --> 01:21:41,888
-Aya, they’re coming down Main Street now.
-
-810
-01:21:43,974 --> 01:21:46,974
-I can't, Louise, I gotta go home.
-
-811
+678
 01:21:49,061 --> 01:21:52,061
 Goodbye. Oh, Ernestine!
 
-812
+679
 01:21:54,147 --> 01:21:57,147
-Can you come over tonight and do Latin ?—
+Can you come over tonight
+and do Latin ?—
 
-813
+680
 01:21:59,233 --> 01:22:02,233
-Isn’t Cicero the worst thing?— Well, tell your mother you have to.
+Isn’t Cicero the worst thing?—
+Well, tell your mother you have to.
 
-814
+681
 01:22:09,405 --> 01:22:12,405
-Bye , Helen, bye, Fred.
+Bye
 
-815
+682
 01:22:14,491 --> 01:22:17,491
 Emily, can I carry your books home?
 
-816
+683
 01:22:19,577 --> 01:22:22,577
 Why—uh—thank you. It isn’t far.
 
-817
+684
 01:22:24,663 --> 01:22:27,663
-’Scuse me, Emily, will you?— Say, Bob, if I’m a little late,
+’Scuse me, Emily, will you?—
+Say, Bob, if I’m a little late,
 
-818
+685
 01:22:29,749 --> 01:22:32,749
-start practice, and give Herb some long high ones.
+start practice, and give Herb
+some long high ones.
 
-819
+686
 01:22:34,836 --> 01:22:37,836
-Bye , Lizzie.
+Bye
 
-820
+687
 01:22:39,922 --> 01:22:42,922
-Hello , Lizzy .
+Hello
 
-821
+688
 01:22:50,094 --> 01:22:53,094
-I’m glad you were elected too, Emily.
+I’m glad you were
+elected too, Emily.
 
-822
+689
 01:22:55,180 --> 01:22:58,180
 Thank you.
 
-823
-01:23:00,266 --> 01:23:03,266
-– Emily, why are you mad at me? – I’m not mad at you.
-
-824
+690
 01:23:05,352 --> 01:23:08,352
 You’ve been treating me so funny lately.
 
-825
+691
 01:23:10,438 --> 01:23:13,438
-Well, since you ask, I might as well say it , George—
+Well, since you ask,
+I might as well say it , George—
 
-826
+692
 01:23:15,524 --> 01:23:18,524
 Oh, goodbye. Miss Corcoran.
 
-827
+693
 01:23:20,611 --> 01:23:23,611
 Goodbye, Miss Corcoran.—
 
-828
+694
 01:23:30,783 --> 01:23:33,783
 What is it?
 
-829
+695
 01:23:35,869 --> 01:23:38,869
-I don’t like the whole change that’s come over you in the last year.
+I don’t like the whole change that’s
+come over you in the last year.
 
-830
+696
 01:23:40,955 --> 01:23:43,955
 Change?
 
-831
+697
 01:23:46,041 --> 01:23:49,041
-I’m sorry if that hurts your feelings but I have to tell you the truth.
+I’m sorry if that hurts your feelings
+but I have to tell you the truth.
 
-832
+698
 01:23:56,213 --> 01:23:59,213
 Wha-what do you mean?
 
-833
+699
 01:24:01,299 --> 01:24:04,299
-Well, up to a year ago, I used to like you a lot. I used to watch you —
+Well, up to a year ago, I used to like you
+a lot. I used to watch you —
 
-834
+700
 01:24:06,386 --> 01:24:09,386
 because we’d been friends so long.
 
-835
+701
 01:24:11,472 --> 01:24:14,472
-And then you began spending all your time at baseball.
+And then you began spending
 
-836
+702
 01:24:16,558 --> 01:24:19,558
-And you never stopped to speak to anybody anymore not even to your own family, you didn’t.
+And you never stopped to speak to anybody
+anymore not even to your own family, you didn’t.
 
-837
+703
 01:24:21,644 --> 01:24:24,644
-George, ever since you’ve been elected Captain, you’ve got stuck up
+George,
+ever since you’ve been elected Captain,
 
-838
+704
 01:24:26,730 --> 01:24:29,730
 and conceited. All the girls say so.
 
-839
+705
 01:24:31,816 --> 01:24:34,816
 And it hurts to hear 'em say it;
 
-840
+706
 01:24:36,902 --> 01:24:39,902
-but I agree with ’em because it's true.
+but I agree with ’em
+because it's true.
 
-841
+707
 01:24:41,988 --> 01:24:44,988
-Gosh, Emily. I guess it’s hard for a fella not to have
+Gosh, Emily. I guess it’s hard
+for a fella not to have
 
-842
+708
 01:24:47,074 --> 01:24:50,074
 some faults creep into his character.
 
-843
+709
 01:24:52,161 --> 01:24:55,161
-I always expect a man to be perfect. He has to be like that.
+I always expect a man to be perfect.
+He has to be like that.
 
-844
+710
 01:24:57,247 --> 01:25:00,247
-Oh, I—I don’t think it’s possible to be perfect, Emily.
+Oh, I—I don’t think it’s possible
+to be perfect, Emily.
 
-845
+711
 01:25:02,333 --> 01:25:05,333
-Well, my father is. And as far as I can see, your father is.
+Well, my father is.
+And as far as I can see, your father is.
 
-846
+712
 01:25:07,419 --> 01:25:10,419
 No excuse why you shouldn’t be, too.
 
-847
+713
 01:25:12,505 --> 01:25:15,505
 Well, I feel it’s the other way round;
 
-848
+714
 01:25:17,591 --> 01:25:20,591
 men aren’t naturally good, but girls are.
 
-849
+715
 01:25:22,677 --> 01:25:25,677
-Well, I’m not perfect.— It’s not as easy for a girl to be perfect
+Well, I’m not perfect.—
+It’s not as easy for a girl to be perfect
 
-850
+716
 01:25:27,763 --> 01:25:30,763
-as a man, because we girls are more … nervous ...
+as a man, because we girls
 
-851
-01:25:37,936 --> 01:25:40,936
-Now I’m sorry I said all that about you, George. .
-
-852
+717
 01:25:43,022 --> 01:25:46,022
 I don't know what made me say it.
 
-853
+718
 01:25:53,194 --> 01:25:56,194
 Now I can see it’s not the truth.
 
-854
-01:25:58,280 --> 01:26:01,280
-It’s not important, anyway.
-
-855
+719
 01:26:08,452 --> 01:26:11,452
-Emily—would you like an ice-cream soda before you go home?
+Emily—would you like
+an ice-cream soda before you go home?
 
-856
+720
 01:26:18,624 --> 01:26:21,624
-Well, thank you , I would.
+Well, thank you
 
-857
+721
 01:26:28,797 --> 01:26:31,797
-Hello, Stew, how are you? Good afternoon, Mrs. Slocum.
+Hello, Stew, how are you?
+Good afternoon, Mrs. Slocum.
 
-858
+722
 01:26:33,883 --> 01:26:36,883
-Hello, George. Hello Emily. What’ll you have?—
+Hello, George. Hello Emily.
+What’ll you have?—
 
-859
+723
 01:26:38,969 --> 01:26:41,969
-Why, Emily Webb, what you been cry in’ about?
+Why, Emily Webb, what you been
+cry in’ about?
 
-860
+724
 01:26:44,055 --> 01:26:47,055
-She got an awful scare, Mr. Morgan.
+She got an awful scare,
+Mr. Morgan.
 
-861
+725
 01:26:49,141 --> 01:26:52,141
-That—that hardware-store wagon almost ran over her.
+That—that hardware-store wagon
+almost ran over her.
 
-862
+726
 01:26:54,227 --> 01:26:57,227
 Tom Huckins drives like a crazy man.
 
-863
+727
 01:26:59,313 --> 01:27:02,313
-D rink some water, Emily. You look very distracted.
+D
 
-864
-01:27:09,485 --> 01:27:12,485
-You got to look both ways before you cross Main Street these days.
-
-865
+728
 01:27:14,572 --> 01:27:17,572
-Gets worse every year— What’ll you have?
+Gets worse every year—
+What’ll you have?
 
-866
-01:27:19,658 --> 01:27:22,658
-I’ll have a lemonade , thank you, Mr. Morgan !
-
-867
+729
 01:27:24,744 --> 01:27:27,744
 No, no, Emily—have an ice-cream with me.
 
-868
+730
 01:27:29,830 --> 01:27:32,830
-Two strawberry and chocolate ice-cream, Mr. Morgan.
+Two strawberry and chocolate
+ice-cream, Mr. Morgan.
 
-869
+731
 01:27:34,916 --> 01:27:37,916
-Two strawberry and chocolate ice-cream , yes sir.
+Two strawberry and chocolate
+ice-cream
 
-870
+732
 01:27:40,002 --> 01:27:43,002
-There are 1 25 horses in Grover’s Corners this minute I’m talking to you.
+There are
 
-871
+733
 01:27:45,088 --> 01:27:48,088
 State Inspector was here yesterday.
 
-872
+734
 01:27:50,174 --> 01:27:53,174
-And now they’re bringing in these auto-mo-biles,
+And now they’re bringing in
+these auto-mo-biles,
 
-873
+735
 01:27:55,260 --> 01:27:58,260
 best thing to do is just stay home.
 
-874
+736
 01:28:00,347 --> 01:28:03,347
-Why I can remember when dogs used to sleep
+Why I can remember when dogs
+used to sleep
 
-875
-01:28:05,433 --> 01:28:08,433
-in the middle of the street, and nothing ever come to disturb them.
-
-876
+737
 01:28:10,519 --> 01:28:13,519
-There you are! Mrs. Ellis, be with you in a minute.
+There you are!
 
-877
+738
 01:28:20,691 --> 01:28:23,691
 They’re so expensive.
 
-878
-01:28:25,777 --> 01:28:28,777
-No, no—don’t think of that, Emily. We’re celebrating—our election—
-
-879
+739
 01:28:30,863 --> 01:28:33,863
-And then do you know what else I'm celebrating?
+And then do you know what
+else I'm celebrating?
 
-880
+740
 01:28:35,949 --> 01:28:38,949
-I’m celebrating because I've got a friend who tells me what ought to be told me.
+I’m celebrating because I've got a friend
+who tells me what ought to be told me.
 
-881
+741
 01:28:41,035 --> 01:28:44,035
 George, don’t think of that.
 
-882
+742
 01:28:46,122 --> 01:28:49,122
-I don't know why I said it. It’s not true. You’re—
+I don't know
+why I said it. It’s not true. You’re—
 
-883
+743
 01:28:51,208 --> 01:28:54,208
-No, Emily, I’m glad you spoke to me like you did.
+No,
+Emily,
 
-884
+744
 01:28:56,294 --> 01:28:59,294
-But I’m going to change so quick. You can count on that.
+But I’m going to change so quick.
 
-885
+745
 01:29:06,466 --> 01:29:09,466
 And Emily, I want to ask you a favor.
 
-886
+746
 01:29:11,552 --> 01:29:14,552
 W-wh-a-t?
 
-887
+747
 01:29:16,638 --> 01:29:19,638
-I f I go away to State Agriculture College next year,
+I
 
-888
+748
 01:29:21,724 --> 01:29:24,724
 will you write me a letter once in a while?
 
-889
+749
 01:29:26,810 --> 01:29:29,810
 I certainly will, George—
 
-890
+750
 01:29:36,983 --> 01:29:39,983
-It seems like being away three years
+It seems like being away
+three years
 
-891
+751
 01:29:42,069 --> 01:29:45,069
 you’d get out of touch with things.
 
-892
+752
 01:29:47,155 --> 01:29:50,155
-Maybe Grover’s Corners won’t be so interesting after a while.
+Maybe Grover’s Corners
 
-893
+753
 01:29:57,327 --> 01:30:00,327
-Grover’s Corners isn’t a very important place when you think of—
+Grover’s Corners isn’t
+a very important place when you think of—
 
-894
-01:30:02,413 --> 01:30:05,413
-all New Hampshire; but I think it’s a very nice town.
-
-895
+754
 01:30:07,499 --> 01:30:10,499
-The day wouldn’t come when I wouldn’t want to know
+The day wouldn’t come when
+I wouldn’t want to know
 
-896
+755
 01:30:12,585 --> 01:30:15,585
-everything about our town. I know this is true, Emily.
+everything about our town.
+I know this is true, Emily.
 
-897
+756
 01:30:17,672 --> 01:30:20,672
-Well, I’ll try to make the letters interesting.
+Well, I’ll try to make
+the letters interesting.
 
-898
+757
 01:30:27,844 --> 01:30:30,844
-Emily, whenever I meet a farmer I ask him if he thinks
+Emily, whenever I meet
+a farmer I ask him if he thinks
 
-899
+758
 01:30:32,930 --> 01:30:35,930
-it's important to go to Agriculture School to be a good farmer.
+it's important to go to Agriculture School
 
-900
+759
 01:30:48,188 --> 01:30:51,188
-Yeh, and some of them say it’s even a waste of time.
+Yeh, and some of them say it’s
+even a waste of time.
 
-901
+760
 01:30:53,274 --> 01:30:56,274
-You can get all that stuff, anyway,
+You can get all that stuff,
+anyway,
 
-902
+761
 01:30:58,360 --> 01:31:01,360
-in the pamphlets the Government sends out— Uncle Luke’s gettin’ old,—
+in the pamphlets the Government sends out—
+Uncle Luke’s gettin’ old,—
 
-903
+762
 01:31:03,447 --> 01:31:06,447
-he’s about ready for me to take over his farm.
+he’s about ready for me
+to take over his farm.
 
-904
+763
 01:31:08,533 --> 01:31:11,533
 My!
 
-905
+764
 01:31:13,619 --> 01:31:16,619
-And like you say, being gone all that time—
+And like you say,
+being gone all that time—
 
-906
+765
 01:31:18,705 --> 01:31:21,705
-in other places and meeting other people— I guess new people
+in other places and meeting other people—
+I guess new people
 
-907
+766
 01:31:23,791 --> 01:31:26,791
 probably aren’t any better than old ones.
 
-908
+767
 01:31:28,877 --> 01:31:31,877
-I feel that you’re as good a friend as I’ve got.
+I feel that you’re as good
+a friend as I’ve got.
 
-909
+768
 01:31:33,963 --> 01:31:36,963
 I don’t need to go and meet new ones.
 
-910
+769
 01:31:39,049 --> 01:31:42,049
-But George, maybe it’s important for you
+But George,
+maybe it’s important for you
 
-911
+770
 01:31:44,135 --> 01:31:47,135
-to go and learn all that cattle-judging and soils and those things.
+to go and learn all that cattle-judging
+and soils and those things.
 
-912
+771
 01:31:49,222 --> 01:31:52,222
 Of course, I don’t know.
 
-913
+772
 01:31:54,308 --> 01:31:57,308
-Emily I’m going to make up my mind right now—I won’t go. Tonight I’ll tell my father.
+Emily I’m going to make up my mind
+right now—I won’t go. Tonight I’ll tell my father.
 
-914
+773
 01:31:59,394 --> 01:32:02,394
-Why George. I don’t see why you have to decide right now—
+Why George. I don’t see why you have
+to decide right now—
 
-915
+774
 01:32:04,480 --> 01:32:07,480
 It’s a whole year away.
 
-916
-01:32:09,566 --> 01:32:12,566
-Emily, I’m glad you spoke to me about that—
-
-917
+775
 01:32:14,652 --> 01:32:17,652
-that fault in my character but there was one thing wrong.
+that fault in my character but there
+was one thing wrong.
 
-918
+776
 01:32:19,738 --> 01:32:22,738
-namely that for a year now I didn't pay attention to anyone, and...
+namely that for a year now I didn't pay
+attention to anyone, and...
 
-919
+777
 01:32:24,824 --> 01:32:27,824
-You, for example. You say you were watchin’ me when I did everything—
+You, for example. You say you were
+watchin’ me when I did everything—
 
-920
+778
 01:32:29,910 --> 01:32:32,910
 Why, I was doing the same about you.
 
-921
+779
 01:32:34,997 --> 01:32:37,997
-I always thought about you as one of the chief people I thought about.
+I always thought about you
+as one of the chief people I thought about.
 
-922
+780
 01:32:40,083 --> 01:32:43,083
-I always made sure where you were  sitting on the bleachers. And we talked a lot in school
+I always made sure where you were  sitting
+on the bleachers. And we talked a lot in school
 
-923
+781
 01:32:45,169 --> 01:32:48,169
 and that was really important to me.
 
-924
+782
 01:32:50,255 --> 01:32:53,255
-Of course it wasn’t as good as the conversation we’re having right now.
+Of course it wasn’t as good as the conversation
+we’re having right now.
 
-925
+783
 01:32:55,341 --> 01:32:58,341
-Then, lately, I started to observe that you act a bit strange with me.
+Then, lately, I started to observe that
+you act a bit strange with me.
 
-926
+784
 01:33:00,427 --> 01:33:03,427
-And for three months not I’ve tried to walk home with you; but something's always got in the way.
+And for three months not I’ve tried to walk home
+with you; but something's always got in the way.
 
-927
+785
 01:33:05,513 --> 01:33:08,513
-Yesterday, I was waiting for you, and you walked home with Miss Corcoran.
+Yesterday, I was waiting for you,
+and you walked home with Miss Corcoran.
 
-928
+786
 01:33:10,599 --> 01:33:13,599
-Oh, George!— Life’s awful funny! How could I have known that?
+Oh, George!— Life’s awful funny!
+How could I have known that?
 
-929
+787
 01:33:15,685 --> 01:33:18,685
 I thought—
 
-930
+788
 01:33:20,772 --> 01:33:23,772
-Listen, Emily, I’m going to tell you why I’m not going to Agricultural School.
+Listen, Emily, I’m going to tell you why
+I’m not going to Agricultural School.
 
-931
-01:33:25,858 --> 01:33:28,858
-I think once you’ve found a person you’re very fond of—
-
-932
+789
 01:33:30,944 --> 01:33:33,944
-and fond of you, enough to be interested in your character—
+and fond of you, enough to be interested
+in your character—
 
-933
+790
 01:33:36,030 --> 01:33:39,030
-Well, I think that’s just as important as college is,
+Well, I think that’s just as important
+as college is,
 
-934
+791
 01:33:41,116 --> 01:33:44,116
-even more so. That ’s my opinion.
+even more so.
 
-935
+792
 01:33:46,202 --> 01:33:49,202
 I think that’s awfully important, too.
 
-936
-01:33:51,288 --> 01:33:54,288
-– Emily— – Y—yes, George.
-
-937
+793
 01:33:56,374 --> 01:33:59,374
-Emily, if I make a big change: could you be—
+Emily, if I make a big change:
+could you be—
 
-938
-01:34:01,460 --> 01:34:04,460
-I—I am now ... and always have been ...
-
-939
+794
 01:34:11,633 --> 01:34:14,633
-So I guess—this is an important talk we've been having—
+So I guess—this is an important
+talk we've been having—
 
-940
+795
 01:34:16,719 --> 01:34:19,719
-Yes , yes.
+Yes
 
-941
-01:34:26,891 --> 01:34:29,891
-Wait a second . Then I ’ll walk you home.
-
-942
+796
 01:34:31,977 --> 01:34:34,977
-Mr. Morgan, I’ll— I’ll have to go home and get the money.
+Mr. Morgan, I’ll— I’ll have to go home
+and get the money.
 
-943
+797
 01:34:37,063 --> 01:34:40,063
-What’s that? George Gibbs, do you mean to tell me—
+What’s that? George Gibbs,
+do you mean to tell me—
 
-944
+798
 01:34:42,149 --> 01:34:45,149
-Yes. But I had important motivations, Mr . Morgan.
+Yes. But I had important motivations,
+Mr
 
-945
+799
 01:34:47,235 --> 01:34:50,235
-Look—here’s my gold watch to keep until I come back.
+Look—here’s my gold watch
+to keep until I come back.
 
-946
+800
 01:34:52,322 --> 01:34:55,322
-That’s all right. Keep your watch. I’ll trust you.
+That’s all right.
+Keep your watch. I’ll trust you.
 
-947
+801
 01:34:57,408 --> 01:35:00,408
 I’ll be back in five minutes.
 
-948
+802
 01:35:07,580 --> 01:35:10,580
-I’ll trust you ten years, George — not a day over.—
+I’ll trust you ten years, George —
+not a day over.—
 
-949
+803
 01:35:12,666 --> 01:35:15,666
 Got all over your shock, Emily?
 
-950
+804
 01:35:17,752 --> 01:35:20,752
-Yes, thank you, Mr. Morgan— it was nothing.
+Yes, thank you, Mr. Morgan—
+it was nothing.
 
-951
-01:35:22,838 --> 01:35:25,838
-I’m ready to go .
-
-952
+805
 01:35:33,010 --> 01:35:36,010
 Well, now we’ll get on to the wedding.
 
-953
+806
 01:35:38,097 --> 01:35:41,097
 There are a lot of things to be said about a wedding,
 
-954
+807
 01:35:43,183 --> 01:35:46,183
-and during the wedding there can be a lot to think about.
+and during the wedding there
+can be a lot to think about.
 
-955
+808
 01:35:48,269 --> 01:35:51,269
-We can’t get them all into one wedding, naturally,—
+We can’t get them all into one
+wedding, naturally,—
 
-956
+809
 01:35:53,355 --> 01:35:56,355
 especially not in Grover’s Corners,
 
-957
+810
 01:35:58,441 --> 01:36:01,441
 where weddings are mighty short and plain.
 
-958
+811
 01:36:08,613 --> 01:36:11,613
 In this play I take the part of the minister.
 
-959
+812
 01:36:13,699 --> 01:36:16,699
-That gives me the right to say a few things more.
+That gives me the right to say
+a few things more.
 
-960
+813
 01:36:18,785 --> 01:36:21,785
-Yes, for a while now the play gets pretty serious.
+Yes, for a while now the play gets
+pretty serious.
 
-961
+814
 01:36:23,872 --> 01:36:26,872
-Y'see,—some churches say that marriage is a sacrament.
+Y'see,—some churches say
+that marriage is a sacrament.
 
-962
+815
 01:36:28,958 --> 01:36:31,958
-I don't know what that means exactly, but I have my suspicions.
+I don't know what that means exactly,
+but I have my suspicions.
 
-963
-01:36:34,044 --> 01:36:37,044
-People are supposed to live two-by-two – li ke Mrs. Gibbs said a few minutes ago .
-
-964
+816
 01:36:39,130 --> 01:36:42,130
-A wedding is a god thing. But even during such a joyful occasion,
+A wedding is a god thing. But even
+during such a joyful occasion,
 
-965
+817
 01:36:44,216 --> 01:36:47,216
-many doubts quietly creep into the heart.
+many doubts quietly creep
+into the heart.
 
-966
+818
 01:36:49,302 --> 01:36:52,302
-Has the moment truly come for me to take this important step?
+Has the moment truly come
+for me to take this important step?
 
-967
+819
 01:36:54,388 --> 01:36:57,388
-Is this person beside me really the one and only
+Is this person beside me really
+the one and only
 
-968
+820
 01:36:59,474 --> 01:37:02,474
 whom God and fate have destined for me?
 
-969
+821
 01:37:04,560 --> 01:37:07,560
-Like one of those European fellas said: Every time a child is born into the world
+Like one of those European fellas said:
+Every time a child is born into the world
 
-970
+822
 01:37:09,647 --> 01:37:12,647
-it’s Nature’s attempt to make a perfect human being.
+it’s Nature’s attempt to make
+a perfect human being.
 
-971
+823
 01:37:14,733 --> 01:37:17,733
-Well, we’ve seen Nature pushing and contriving for some time now.
+Well, we’ve seen Nature pushing
+and contriving for some time now.
 
-972
+824
 01:37:19,819 --> 01:37:22,819
-We know she’s interested in quantity; but I think she’s interested in quality, too.
+We know she’s interested in quantity;
+but I think she’s interested in quality, too.
 
-973
+825
 01:37:24,905 --> 01:37:27,905
-Maybe she's tryin’ to make another good Governor for New Hampshire.
+Maybe she's tryin’ to make another
+good Governor for New Hampshire.
 
-974
+826
 01:37:29,991 --> 01:37:32,991
 That’s what Emily hopes.
 
-975
+827
 01:37:40,163 --> 01:37:43,163
-And don't forget the other witnesses, the ancestors.
+And don't forget the other witnesses,
 
-976
+828
 01:37:45,249 --> 01:37:48,249
-Millions of them. Most of them set out to live two-by-two.
+Millions of them. Most of them set out
+to live two-by-two.
 
-977
-01:37:55,422 --> 01:37:58,422
-Hope. T hat’s all my sermon. Twan’t very long anyway.
-
-978
+829
 01:38:05,594 --> 01:38:08,594
-I don’t know why I’m crying. I guess I have no reason to cry.
+I don’t know why I’m crying.
+I guess I have no reason to cry.
 
-979
-01:38:15,766 --> 01:38:18,766
-This morning at breakfast it came over me. There was Emily eating breakfast
-
-980
+830
 01:38:20,852 --> 01:38:23,852
 as she’s done for 17 years—
 
-981
+831
 01:38:25,938 --> 01:38:28,938
-And now she’s going to eat in someone else's house in the morning.
+And now she’s going to eat in someone
+else's house in the morning.
 
-982
+832
 01:38:36,110 --> 01:38:39,110
-I suppose that’s it— And Emily suddenly said: ‘’ I can’t eat another mouthful.’’
+I suppose that’s it— And Emily suddenly said:
+‘’
 
-983
+833
 01:38:41,197 --> 01:38:44,197
-And she put her head on the table and she cried.
+And she put her head on the table
+and she cried.
 
-984
+834
 01:38:51,369 --> 01:38:54,369
-T here’s something downright cruel about sending girls
+T
 
-985
+835
 01:38:56,455 --> 01:38:59,455
 out into marriages.
 
-986
+836
 01:39:01,541 --> 01:39:04,541
-I hope she heard something from one of her friends.
+I hope she heard something from
+one of her friends.
 
-987
+837
 01:39:06,627 --> 01:39:09,627
-It’s—it’s cruel, I know; but I just couldn’t get myself to say anything …
+It’s—it’s cruel, I know;
+but I just couldn’t get myself to say anything
 
-988
-01:39:11,713 --> 01:39:14,713
-I went into it as blind as a bat myself.
-
-989
+838
 01:39:21,885 --> 01:39:24,885
-The whole world’s wrong, that’s what’s the matter.
+The whole world’s wrong,
+that’s what’s the matter.
 
-990
+839
 01:39:32,058 --> 01:39:35,058
 Eh, George!
 
-991
+840
 01:39:37,144 --> 01:39:40,144
 Look at him, fellas. He’s scared to death!
 
-992
+841
 01:39:42,230 --> 01:39:45,230
-George! You don’t have to look so innocent, you old geezer.
+George! You don’t have to look
+so innocent, you old geezer.
 
-993
+842
 01:39:47,316 --> 01:39:50,316
-We know what you’re thinking. Go to it, big boy, y’ old geezer you.
+We know what you’re thinking.
+Go to it, big boy, y’ old geezer you.
 
-994
+843
 01:39:52,402 --> 01:39:55,402
 All right! That’s enough of that.
 
-995
+844
 01:39:57,488 --> 01:40:00,488
-There used to be an awful lot of that kind of thing in weddings in the old days
+There used to be an awful lot
+of that kind of thing in weddings in the old days
 
-996
+845
 01:40:02,574 --> 01:40:05,574
 We’re more civilized now,—so they say.
 
-997
+846
 01:40:12,746 --> 01:40:15,746
 George! What’s the matter?
 
-998
+847
 01:40:17,833 --> 01:40:20,833
-Ma, I don’t want to grow old! Why’s everybody pushing me so?
+Ma, I don’t want to grow old!
+Why’s everybody pushing me so?
 
-999
-01:40:22,919 --> 01:40:25,919
-– Why, George—you wanted it. – No, Ma, listen to me—
-
-1000
+848
 01:40:28,005 --> 01:40:31,005
 No, no, George—you’re a man now I
 
-1001
+849
 01:40:33,091 --> 01:40:36,091
-Listen, Ma—for the last time I ask you. All I want to do is to be a fella—
+Listen, Ma—for the last time I ask you.
+All I want to do is to be a fella—
 
-1002
+850
 01:40:38,177 --> 01:40:41,177
-George! If anyone should hear you! Why, I’m ashamed of you!
+George! If anyone should hear you!
+Why, I’m ashamed of you!
 
-1003
+851
 01:40:43,263 --> 01:40:46,263
 What? Where’s Emily?
 
-1004
+852
 01:40:48,349 --> 01:40:51,349
 George, you gave me such a fright.
 
-1005
+853
 01:40:53,435 --> 01:40:56,435
 Cheer up, Ma. I’m getting married.
 
-1006
+854
 01:40:58,521 --> 01:41:01,521
 Let me catch my breath.
 
-1007
-01:41:03,608 --> 01:41:06,608
-Ma, you save Thursday nights
-
-1008
-01:41:08,694 --> 01:41:11,694
-Emily and I are coming over to dinner every Thursday night.
-
-1009
+855
 01:41:13,780 --> 01:41:16,780
-Why, Ma.What are you crying for? Come on. We got to get ready.
+Why, Ma.What are you crying for?
+Come on. We got to get ready.
 
-1010
+856
 01:41:18,866 --> 01:41:21,866
 I never felt so alone in my whole life.
 
-1011
+857
 01:41:23,952 --> 01:41:26,952
-And George, over there—I hate him— I wish I were dead. Papa! Papa!
+And George, over there—I hate him—
+I wish I were dead. Papa! Papa!
 
-1012
-01:41:29,038 --> 01:41:32,038
-– Emily! Now don’t get upset— – But, Papa,—I don’t want to get married—
-
-1013
+858
 01:41:34,124 --> 01:41:37,124
 Sh-h—Emily—Everything’s all right.
 
-1014
+859
 01:41:39,210 --> 01:41:42,210
-Why can’t I stay for a while just as I am? Let’s go away—
+Why can’t I stay for a while just as I am?
+Let’s go away—
 
-1015
+860
 01:41:44,296 --> 01:41:47,296
 No, no,— Now think a minute.
 
-1016
+861
 01:41:49,383 --> 01:41:52,383
-Don't you remember what you used to say—that I was your girl.
+Don't you remember what you
+used to say—that I was your girl.
 
-1017
+862
 01:41:54,469 --> 01:41:57,469
-There must be lots of places we can go to.
+There must be lots of places
+we can go to.
 
-1018
+863
 01:41:59,555 --> 01:42:02,555
-I'd work for you. I could keep house.
+I'd work for you.
+I could keep house.
 
-1019
+864
 01:42:04,641 --> 01:42:07,641
-Sh! You musn't think of such things. You're just nervous, Emily.
+Sh! You musn't think of such things.
+You're just nervous, Emily.
 
-1020
+865
 01:42:14,813 --> 01:42:17,813
 George! George! Will you come here a minute!
 
-1021
+866
 01:42:19,899 --> 01:42:22,899
-Why, you're marrying the best young fellow in the world. George is a great boy.
+Why, you're marrying the best
+young fellow in the world.
 
-1022
+867
 01:42:24,985 --> 01:42:27,985
-I’m giving away my daughter, George. Can you take care of her?
+I’m giving away my daughter, George.
+Can you take care of her?
 
-1023
+868
 01:42:30,071 --> 01:42:33,071
-I want to— I ’ll try. Emily, I'm going to do my best.
+I want to—
 
-1024
+869
 01:42:35,158 --> 01:42:38,158
 I love you. I need you.
 
-1025
+870
 01:42:40,244 --> 01:42:43,244
-Well, if you love me, help me— all I want is someone to love me.
+Well, if you love me, help me—
+all I want is someone to love me.
 
-1026
+871
 01:42:45,330 --> 01:42:48,330
 I will, Emily, I'll try.
 
-1027
-01:42:50,416 --> 01:42:53,416
-And I mean forever. Do you hear? Forever.
-
-1028
+872
 01:43:00,588 --> 01:43:03,588
-Come, they're waiting for us. Now, you know it’ll be all right.
+Come, they're waiting for us.
+Now, you know it’ll be all right.
 
-1029
+873
 01:43:10,760 --> 01:43:13,760
 Doesn’t she make a lovely bride?
 
-1030
+874
 01:43:20,933 --> 01:43:23,933
-Do you, George, take this woman, Emily, to be your wedded wife,
+Do you, George, take this woman,
+Emily, to be your wedded wife,
 
-1031
+875
 01:43:26,019 --> 01:43:29,019
 to have and to hold from this day forward,
 
-1032
+876
 01:43:31,105 --> 01:43:34,105
-in sickness and in health, for richer for poorer,
+in sickness and in health,
+for richer for poorer,
 
-1033
+877
 01:43:36,191 --> 01:43:39,191
-to love and to cherish till death do us part?
+to love and to cherish till death
+do us part?
 
-1034
+878
 01:43:41,277 --> 01:43:44,277
 Loveliest wedding I ever saw.
 
-1035
+879
 01:43:46,363 --> 01:43:49,363
-I really like lovely weddings. Doesn’t she make a lovely bride?
+I really like lovely weddings.
+Doesn’t she make a lovely bride?
 
-1036
+880
 01:43:51,449 --> 01:43:54,449
 Yes.
 
-1037
+881
 01:43:56,535 --> 01:43:59,535
-Do you, Emily, take this man, George, to be your wedded husband?
+Do you, Emily, take this man, George, to be your
+wedded husband?
 
-1038
+882
 01:44:01,621 --> 01:44:04,621
-Don’t know when I’ve seen such a lovely wedding.
+Don’t know when I’ve seen
+such a lovely wedding.
 
-1039
+883
 01:44:06,708 --> 01:44:09,708
-But I always cry. I just like to see young people happy.
+But I always cry. I just like to see
+young people happy.
 
-1040
+884
 01:44:11,794 --> 01:44:14,794
 Don’t you? Oh, I think it’s lovely!
 
-1041
+885
 01:44:16,880 --> 01:44:19,880
 …till death do you part?
 
-1042
+886
 01:44:21,966 --> 01:44:24,966
 I do!
 
-1043
+887
 01:44:27,052 --> 01:44:30,052
 The ring!
 
-1044
+888
 01:44:37,224 --> 01:44:40,224
 I’ve married two hundred couples.
 
-1045
+889
 01:44:42,310 --> 01:44:45,310
-Do I believe in it? I don’t know. I suppose so. X marries Y.. .
+Do I believe in it? I don’t know.
+I suppose so. X marries Y..
 
-1046
+890
 01:44:52,483 --> 01:44:55,483
-The cottage, the go-cart, the Sunday afternoon drives with the Ford —
+The cottage, the go-cart, the Sunday afternoon
+drives with the Ford —
 
-1047
-01:44:57,569 --> 01:45:00,569
-the first rheumatism—the grandchildren— the second rheumatism—the deathbed—
-
-1048
+891
 01:45:02,655 --> 01:45:05,655
-the reading of the will— Once in a thousand times it’s interesting.
+the reading of the will—
+Once in a thousand times it’s interesting.
 
-1049
-01:45:12,827 --> 01:45:15,827
-Let’s hear it!
-
-1050
+892
 01:45:22,999 --> 01:45:25,999
 Aren’t they a lovely couple?
 
-1051
+893
 01:45:28,085 --> 01:45:31,085
 I’ve never been on such a lovely wedding.
 
-1052
+894
 01:45:33,171 --> 01:45:36,171
-I'm sure they'll be happy. I always say: happiness!
+I'm sure they'll be happy.
+I always say: happiness!
 
-1053
+895
 01:45:38,258 --> 01:45:41,258
-This is the most important thing in life! The important thing is to be happy.
+This is the most important thing in life!
 
-1054
-01:45:48,430 --> 01:45:51,430
-That’s the second act . Let ’s go breath in some fresh air.
-
-1055
-01:45:58,602 --> 01:46:01,602
-This time nine years have gone by, friends— summer, 19 1 3
-
-1056
+896
 01:46:03,688 --> 01:46:06,688
-Gradual changes have taken place in Grover's Corners.
+Gradual changes have taken place
+in Grover's Corners.
 
-1057
+897
 01:46:08,774 --> 01:46:11,774
-Horses are gettin’ rarer. Farmers coming into town now in Fords.
+Horses are gettin’ rarer.
+Farmers coming into town now in Fords.
 
-1058
-01:46:13,860 --> 01:46:16,860
-Everybody locks their house doors at night. Ain't been any burglars in town yet,
-
-1059
+898
 01:46:18,946 --> 01:46:21,946
 but everybody’s heard about ’em.
 
-1060
-01:46:24,033 --> 01:46:27,033
-You’d be surprised though—on the whole, things don’t change much i n Grover ’s Corners .
-
-1061
+899
 01:46:34,205 --> 01:46:37,205
-This is certainly an important part of our town.
+This is certainly an important part
 
-1062
-01:46:44,377 --> 01:46:47,377
-It’s on a hilltop—lots of sky, lots of clouds,—
-
-1063
+900
 01:46:49,463 --> 01:46:52,463
 often lots of sun and moon and stars.
 
-1064
+901
 01:46:54,549 --> 01:46:57,549
-I often wonder why people like to be buried in Woodlawn and Brooklyn .
+I often wonder why people like
+to be buried in Woodlawn
 
-1065
+902
 01:46:59,635 --> 01:47:02,635
-when they might pass the same time her e .
+when they might pass the same time her
 
-1066
-01:47:09,808 --> 01:47:12,808
-Over here are the old stones : 16 7 , 16 8
-
-1067
-01:47:14,894 --> 01:47:17,894
-Strong- minded people that come a long ways to be independent
-
-1068
+903
 01:47:25,066 --> 01:47:28,066
-Summer people walk around there laughing
+Summer people walk around
+there laughing
 
-1069
+904
 01:47:30,152 --> 01:47:33,152
 at the funny words on the tombstones.
 
-1070
-01:47:35,238 --> 01:47:38,238
-Over there—are some Civil War veterans. —
-
-1071
+905
 01:47:40,324 --> 01:47:43,324
 Iron pennants are on their tombstones.
 
-1072
+906
 01:47:45,410 --> 01:47:48,410
-Had a notion that the Union ought to be kept together,
+Had a notion that the Union ought
+to be kept together,
 
-1073
+907
 01:47:50,496 --> 01:47:53,496
-though they’d never seen more than fifty miles of it themselves.
+though they’d never seen more than
+fifty miles of it themselves.
 
-1074
+908
 01:47:55,583 --> 01:47:58,583
-All they knew was the name : the United States of America.
+All they knew was the name
 
-1075
-01:48:00,669 --> 01:48:03,669
-And they went and died about it.
-
-1076
+909
 01:48:10,841 --> 01:48:13,841
 This here is the new part of the cemetery.
 
-1077
+910
 01:48:15,927 --> 01:48:18,927
-There’s your friend, Mrs. Gibbs.
+There’s your friend,
+Mrs. Gibbs.
 
-1078
+911
 01:48:21,013 --> 01:48:24,013
-And here's Mr. Stimson, the Congregational Church organist.
+And here's Mr. Stimson,
+the
 
-1079
+912
 01:48:26,099 --> 01:48:29,099
-And Mrs. Soames who enjoyed the weddin' so much, remember?
+And Mrs. Soames who enjoyed
+the weddin' so much, remember?
 
-1080
+913
 01:48:31,185 --> 01:48:34,185
-Oh, and a lot of others. Wall y , whose appendix burst
+Oh, and a lot of others.
+Wall
 
-1081
+914
 01:48:36,271 --> 01:48:39,271
-while he was on a Boy Scout trip in Crawford Notch .
+while he was on a Boy Scout trip
 
-1082
-01:48:41,358 --> 01:48:44,358
-Mr. Carter, Mrs. Grover, the Cartwright family...
-
-1083
+915
 01:48:46,444 --> 01:48:49,444
 Yes, an awful lot of sorrow here.
 
-1084
+916
 01:48:51,530 --> 01:48:54,530
-People wild with grief have brought their relatives up to this hill ,
+People wild with grief have brought
+their relatives up to this hill
 
-1085
-01:48:56,616 --> 01:48:59,616
-—-and then times—sunny days—
-
-1086
+917
 01:49:01,702 --> 01:49:04,702
-rainy days— snow— You know how it is.
+rainy days— snow—
+You know how it is.
 
-1087
+918
 01:49:06,788 --> 01:49:09,788
-A lot of thoughts come up here, night and day, but no post office—
+A lot of thoughts come up here,
+night and day, but no post office—
 
-1088
+919
 01:49:16,960 --> 01:49:19,960
-We all know that something is eternal And it ain’t houses or names,
+We all know that something is eternal
+And it ain’t houses or names,
 
-1089
+920
 01:49:22,046 --> 01:49:25,046
-and it ain’t earth, and it ain’t even the stars ...
+and it ain’t earth, and it ain’t even the stars
 
-1090
-01:49:27,133 --> 01:49:30,133
-everybody knows in their bones that something is eternal ,
-
-1091
+921
 01:49:32,219 --> 01:49:35,219
-and th at something has to do with human beings .
+and th
 
-1092
+922
 01:49:37,305 --> 01:49:40,305
-All the greatest people ever lived have been telling us that for five thousand years .
+All the greatest people ever lived
 
-1093
+923
 01:49:42,391 --> 01:49:45,391
-and yet you’d be surprised how people are always letting go of that fact.
+and yet you’d be surprised how people
+are always letting go of that fact.
 
-1094
+924
 01:49:52,563 --> 01:49:55,563
-There’s something way down deep that’s eternal about every human being.
+There’s something way down deep
+that’s eternal about every human being.
 
-1095
+925
 01:49:57,649 --> 01:50:00,649
-Y’know, the dead don’t stay interested in us living people for very long.
+Y’know, the dead don’t stay interested in us
+living people for very long.
 
-1096
+926
 01:50:02,735 --> 01:50:05,735
 Gradually, they let go hold of the earth—
 
-1097
-01:50:07,821 --> 01:50:10,821
-and their ambitions their pleasures —
-
-1098
+927
 01:50:12,908 --> 01:50:15,908
 and the people they loved.
 
-1099
-01:50:17,994 --> 01:50:20,994
-They get weaned away from earth , like a weaned infant from its mother's breast.
-
-1100
+928
 01:50:23,080 --> 01:50:26,080
-Yes, they stay here while the earth-part of ’em burns away,
+Yes, they stay here while the earth-part
+of ’em burns away,
 
-1101
+929
 01:50:28,166 --> 01:50:31,166
-and all that time they slowly get indifferent to what’s goin’ on in Grover’s Corners.
+and all that time they slowly get
+indifferent to what’s goin’ on in Grover’s Corners.
 
-1102
+930
 01:50:33,252 --> 01:50:36,252
-They’re waitin' for something they feel is cornin’.
+They’re waitin' for something they feel
+is cornin’.
 
-1103
+931
 01:50:38,338 --> 01:50:41,338
-Aren’t they waitin’ for the eternal part in them to come out—clear?
+Aren’t they waitin’ for the eternal part
+in them to come out—clear?
 
-1104
+932
 01:50:43,424 --> 01:50:46,424
-Some of the things they’re going to say maybe’ll hurt your feelings—
+Some of the things they’re going to say
+maybe’ll hurt your feelings—
 
-1105
+933
 01:50:48,510 --> 01:50:51,510
-but that’s the way it is: mother 'n daughter —husband ’n wife—enemy ‘n enemy—
+but that’s the way it is: mother 'n daughter
+—husband ’n wife—enemy ‘n enemy—
 
-1106
+934
 01:50:53,596 --> 01:50:56,596
-money ‘n miser— all those important things grow pale around here.
+money ‘n miser— all those important things
+grow pale around here.
 
-1107
+935
 01:50:58,683 --> 01:51:01,683
-And what's left? What’s left when memory’s gone?
+And what's left?
+What’s left when memory’s gone?
 
-1108
+936
 01:51:03,769 --> 01:51:06,769
 Well, here are some living people.
 
-1109
-01:51:08,855 --> 01:51:11,855
-There’s Joe Stoddard, our undertaker .
-
-1110
-01:51:13,941 --> 01:51:16,941
-And here comes Sam Craig, a Grover’s Corners boy that left town to go out West
-
-1111
+937
 01:51:24,113 --> 01:51:27,113
 Good afternoon, Joe Stoddard
 
-1112
+938
 01:51:29,199 --> 01:51:32,199
-Good afternoon , good afternoon . Let me see now: do I know you?
+Good afternoon
+, good afternoon
 
-1113
+939
 01:51:39,371 --> 01:51:42,371
 I’m Sam Craig.
 
-1114
+940
 01:51:44,458 --> 01:51:47,458
-I should have know n you’d be back for the funeral.
+I should
+have
 
-1115
+941
 01:51:49,544 --> 01:51:52,544
 You’ve been away a long time, Sam.
 
-1116
+942
 01:51:54,630 --> 01:51:57,630
-Yes, over twelve years. I’m in business in Buffalo now, Joe—
+Yes, over twelve years. I’m in business
+in Buffalo now, Joe—
 
-1117
+943
 01:51:59,716 --> 01:52:02,716
-But I was in the East when I got news of my cousin’s death, so I thought
+But I was in the East when I got news
+of my cousin’s death, so I thought
 
-1118
+944
 01:52:04,802 --> 01:52:07,802
-I’d come back and see the old home— You look well.
+I’d come back and see the old home—
+You look well.
 
-1119
+945
 01:52:14,974 --> 01:52:17,974
-Yes, yes, can’t complain— Very sad, our journey today, Samuel.
+Yes, yes, can’t complain—
+Very sad, our journey today, Samuel.
 
-1120
+946
 01:52:20,060 --> 01:52:23,060
 Yes.
 
-1121
+947
 01:52:25,146 --> 01:52:28,146
 Yes, yes. I always say, I hate to supervise
 
-1122
-01:52:30,233 --> 01:52:33,233
-when a young person is taken. They’ll be here in a few minutes now.
-
-1123
+948
 01:52:35,319 --> 01:52:38,319
-I had to come here early today— my son’s supervisin' at the home ...
+I had to come here early today—
+my son’s supervisin' at the home
 
-1124
-01:52:45,491 --> 01:52:48,491
-Old Farmer McCarthy! I used to do chores for him after school.
-
-1125
+949
 01:52:50,577 --> 01:52:53,577
 He had lumbago.
 
-1126
+950
 01:52:55,663 --> 01:52:58,663
-Yes, we brought Farmer McCarthy here a number of years ago now.
+Yes, we brought Farmer McCarthy
+here a number of years ago now.
 
-1127
+951
 01:53:05,835 --> 01:53:08,835
-Why, this is my Aunt Julia— I’d forgotten that she’d—of course!
+Why, this is my Aunt Julia—
+I’d forgotten that she’d—of course!
 
-1128
-01:53:10,921 --> 01:53:13,921
-Yes, D r. Gibbs lost his wife two-three years ago—about this time.
-
-1129
+952
 01:53:16,008 --> 01:53:19,008
-Today’s another bad blow for him. ..
+Today’s another bad blow for him.
 
-1130
+953
 01:53:26,180 --> 01:53:29,180
-That’s my sister Carrie’s boy Sam—Sam Craig.
+That’s my sister Carrie’s boy
 
-1131
+954
 01:53:31,266 --> 01:53:34,266
 I’m always uncomfortable when they’re around.
 
-1132
-01:53:41,438 --> 01:53:44,438
-Do they choose their own verses much, Joe?
-
-1133
-01:53:46,524 --> 01:53:49,524
-No—not usual. Mostly the leftovers pick a verse.
-
-1134
+955
 01:53:51,610 --> 01:53:54,610
 Doesn't sound like Aunt Julia.
 
-1135
-01:53:56,696 --> 01:53:59,696
-Well, there aren’t many of those Hersey sisters left now.
-
-1136
+956
 01:54:01,782 --> 01:54:04,782
-I wanted to look at my father’s and mother’s—
+I wanted to look
+at my father’s and mother’s—
 
-1137
-01:54:06,869 --> 01:54:09,869
-Over there with the Craigs, Avenue F.
-
-1138
+957
 01:54:17,041 --> 01:54:20,041
-Simon Stimson... He was organist at church, wasn’t he? Drank a lot , we used to say.
+Simon Stimson...
 
-1139
+958
 01:54:22,127 --> 01:54:25,127
-Nobody was supposed to know about it. He's been through a lot of trouble.
+Nobody was supposed to know about it.
+He's been through a lot of trouble.
 
-1140
-01:54:27,213 --> 01:54:30,213
-Took his own life .
-
-1141
+959
 01:54:32,299 --> 01:54:35,299
 Oh, did he?
 
-1142
-01:54:37,385 --> 01:54:40,385
-Hung himself in the attic. They tried to hash it up, but of course it got around.
-
-1143
+960
 01:54:42,471 --> 01:54:45,471
-Chose his own epitaph. It ain’t a verse exactly.
+Chose his own epitaph.
+It ain’t a verse exactly.
 
-1144
-01:54:47,557 --> 01:54:50,557
-Why, it’s just some notes of music— what is it?
-
-1145
+961
 01:54:52,644 --> 01:54:55,644
-Oh, I wouldn’t know. It was wrote up in the Boston papers at the time.
+Oh, I wouldn’t know. It was wrote up
+in the Boston papers at the time.
 
-1146
-01:55:02,816 --> 01:55:05,816
-– W hat did she die of? – Who?
-
-1147
-01:55:07,902 --> 01:55:10,902
-My cousin.
-
-1148
+962
 01:55:12,988 --> 01:55:15,988
-Had some trouble bringing a baby into the world. ’Was her second, though.
+Had some trouble bringing a baby into
+the world. ’Was her second, though.
 
-1149
+963
 01:55:18,074 --> 01:55:21,074
 There's a little boy ’bout four years old.
 
-1150
-01:55:23,160 --> 01:55:26,160
-And th is is her grave ?
-
-1151
+964
 01:55:28,246 --> 01:55:31,246
-Yes, there ain’t much more room over here among the Gibbses,
+Yes, there ain’t much more room
+over here among the Gibbses,
 
-1152
+965
 01:55:33,332 --> 01:55:36,332
-so they’re opening up a whole new Gibbs section over by Avenue B.
+so they’re opening up a whole
+new Gibbs section over by Avenue B.
 
-1153
+966
 01:55:38,419 --> 01:55:41,419
 You’ll excuse me now. I see they’re cornin’.
 
-1154
-01:55:43,505 --> 01:55:46,505
-– Who is it, Julia? – My daughter-in-law, Emily Webb.
-
-1155
+967
 01:55:48,591 --> 01:55:51,591
-Well, I declare! The road up here must have been awfully muddy.
+Well, I declare! The road up here must
+have been awfully muddy.
 
-1156
+968
 01:55:53,677 --> 01:55:56,677
 What did she die of?
 
-1157
+969
 01:55:58,763 --> 01:56:01,763
 In childbirth.
 
-1158
+970
 01:56:03,849 --> 01:56:06,849
 Childbirth! I’d forgotten all about that!
 
-1159
+971
 01:56:08,935 --> 01:56:11,935
-My, wasn’t life awful — and wonderful.
+My, wasn’t life awful
+— and wonderful.
 
-1160
-01:56:14,021 --> 01:56:17,021
-– Wonderful, was it? – Simon! Now, remember!
-
-1161
+972
 01:56:19,107 --> 01:56:22,107
-I remember Emily’s lovely wedding. What a lovely wedding it was!
+I remember Emily’s lovely wedding.
+What a lovely wedding it was!
 
-1162
+973
 01:56:24,194 --> 01:56:27,194
-And her reading the class poem at Graduation Exercises.
+And her reading the class poem
+at Graduation Exercises.
 
-1163
-01:56:29,280 --> 01:56:32,280
-Emily was one of the brightest girls ever graduated from High School.
-
-1164
-01:56:34,366 --> 01:56:37,366
-I’ve heard Principal Wilkins say so time after time.
-
-1165
+974
 01:56:39,452 --> 01:56:42,452
-I called on them at their new farm, just before I died. Perfectly beautiful farm.
+I called on them at their new farm, just before I died.
+Perfectly beautiful farm.
 
-1166
+975
 01:56:44,538 --> 01:56:47,538
 It's on the same road we lived on, hm-hm.
 
-1167
+976
 01:56:49,624 --> 01:56:52,624
 Aya, right smart farm.
 
-1168
-01:56:54,710 --> 01:56:57,710
-I always liked that song . I hoped they’ll sing.
-
-1169
+977
 01:57:04,882 --> 01:57:07,882
-Good afternoon !
+Good afternoon
 
-1170
-01:57:15,055 --> 01:57:18,055
-– Good afternoon , Emily! – Good afternoon , M’s Gibbs!
-
-1171
-01:57:25,227 --> 01:57:28,227
-– Good afternoon , Mother Gibbs! – Emily!
-
-1172
-01:57:35,399 --> 01:57:38,399
-Good a f ternoon.
-
-1173
-01:57:40,485 --> 01:57:43,485
-It’s raining!
-
-1174
-01:57:45,571 --> 01:57:48,571
-Yes— They’ll be gone soon. Just rest.
-
-1175
+978
 01:57:55,744 --> 01:57:58,744
-It seems thousands and thousands of years since I—
+It seems thousands and thousands
+of years since I—
 
-1176
-01:58:00,830 --> 01:58:03,830
-Papa remembered my favorite song .
-
-1177
-01:58:11,002 --> 01:58:14,002
-Oh, I wish I’d been here a long time! I don’t like being new here !
-
-1178
-01:58:21,174 --> 01:58:24,174
-– Goo d afternoon , Mr. Stimson ! – Goo d afternoon !
-
-1179
+979
 01:58:26,260 --> 01:58:29,260
-Mother Gibbs, George and I have made that farm
+Mother Gibbs, George and I have
+made that farm
 
-1180
+980
 01:58:31,346 --> 01:58:34,346
-into the best place you ever saw. We thought of you all the time.
+into the best place you ever saw.
+We thought of you all the time.
 
-1181
+981
 01:58:36,432 --> 01:58:39,432
-We wanted to show you the new barn and a great long cement drinking fountain
+We wanted to show you the new barn
+and a great long cement drinking fountain
 
-1182
+982
 01:58:41,519 --> 01:58:44,519
-for the stock. We bought that out of the money you left us.
+for the stock. We bought that out
+of the money you left us.
 
-1183
+983
 01:58:46,605 --> 01:58:49,605
 I did?
 
-1184
+984
 01:58:51,691 --> 01:58:54,691
-Don’t you remember, Mother Gibbs— the legacy you left us?
+Don’t you remember, Mother Gibbs—
+the legacy you left us?
 
-1185
+985
 01:58:56,777 --> 01:58:59,777
-Why, it was over three hundred and fifty dollars !
+Why, it was over three hundred
+and fifty dollars
 
-1186
+986
 01:59:01,863 --> 01:59:04,863
 Yes, yes, Emily.
 
-1187
+987
 01:59:06,949 --> 01:59:09,949
-Well, there’s a patent device on this drinking-fountain so that it never overflows .
+Well, there’s a patent device on this
+drinking-fountain so that it never overflows
 
-1188
-01:59:12,035 --> 01:59:15,035
-And it never sinks below a certain mark. G reat invention !
-
-1189
+988
 01:59:22,207 --> 01:59:25,207
-It won’t be the same to George without me, but it’s a lovely farm.
+It won’t be the same to George without me,
+but it’s a lovely farm.
 
-1190
+989
 01:59:32,380 --> 01:59:35,380
 Live people don’t understand, do they?
 
-1191
+990
 01:59:37,466 --> 01:59:40,466
 No, dear—not very much.
 
-1192
+991
 01:59:47,638 --> 01:59:50,638
-They’re sort of shut up in little boxes, aren’t they?
+They’re sort of shut up in little boxes,
+aren’t they?
 
-1193
+992
 01:59:52,724 --> 01:59:55,724
-I feel as tho I knew ’em last a thousand years ago—
+I feel as tho I knew ’em
+last a thousand years ago—
 
-1194
+993
 01:59:57,810 --> 02:00:00,810
 My boy is spending the day at Mrs. Carter’s.
 
-1195
+994
 02:00:02,896 --> 02:00:05,896
-Oh, Mr. Carter, my little boy is spending the day at your house.
+Oh, Mr. Carter, my little boy is spending
+the day at your house.
 
-1196
+995
 02:00:07,982 --> 02:00:10,982
-Yes, he loves it there. ..
+Yes, he loves it there.
 
-1197
+996
 02:00:13,069 --> 02:00:16,069
-Mother Gibbs, we have a Ford, too. Never gives any trouble.
+Mother Gibbs,
+we have a Ford, too. Never gives any trouble.
 
-1198
-02:00:18,155 --> 02:00:21,155
-I don’t drive, though. Mother Gibbs, when does this feeling go away?
-
-1199
+997
 02:00:23,241 --> 02:00:26,241
-Of being one of them? How long does it ?
+Of being one of them? How long does it
 
-1200
+998
 02:00:33,413 --> 02:00:36,413
-I know .
+I know
 
-1201
+999
 02:00:38,499 --> 02:00:41,499
 Look, they're finished. They’re going.
 
-1202
+1000
 02:00:43,585 --> 02:00:46,585
 Just wait and be patient.
 
-1203
-02:00:53,757 --> 02:00:56,757
-Look! Father Gibbs is bringing some flowers to you.
-
-1204
+1001
 02:00:58,844 --> 02:01:01,844
 He looks just like George, doesn’t he?
 
-1205
-02:01:09,016 --> 02:01:12,016
-Oh, Mother Gibbs, I never realized before how troubled and how —
-
-1206
+1002
 02:01:14,102 --> 02:01:17,102
-how in the dark live persons are. Look at him. I loved him so.
+how in the dark live persons are.
+Look at him. I loved him so.
 
-1207
+1003
 02:01:19,188 --> 02:01:22,188
-From morning till night, that’s all they are—troubled.
+From morning till night,
+that’s all they are—troubled.
 
-1208
+1004
 02:01:24,274 --> 02:01:27,274
-Little cooler than it was. ..
+Little cooler than it was.
 
-1209
+1005
 02:01:29,360 --> 02:01:32,360
 Aya, that rain’s cooled it off a little.
 
-1210
+1006
 02:01:34,446 --> 02:01:37,446
-Those northeast winds always do the same thing?
+Those northeast winds always do
+the same thing?
 
-1211
+1007
 02:01:39,532 --> 02:01:42,532
-If it ain’t a rain, it’s a three-day blow. ..
+If
 
-1212
+1008
 02:01:44,619 --> 02:01:47,619
-But Mother Gibbs, one can go back; one can go back there again into living!
+But Mother Gibbs, one can go back;
+one can go back there again into living!
 
-1213
-02:01:49,705 --> 02:01:52,705
-I feel it! I know it!
-
-1214
+1009
 02:01:54,791 --> 02:01:57,791
-Why just then for a moment I was thinking about the farm—
+Why just then for a moment
+I was thinking about the farm—
 
-1215
+1010
 02:01:59,877 --> 02:02:02,877
-and for a minute I was there and my baby was on my lap as plain as day!
+and for a minute I was there and my baby
+was on my lap as plain as day!
 
-1216
+1011
 02:02:04,963 --> 02:02:07,963
 Yes, of course you can.
 
-1217
+1012
 02:02:15,135 --> 02:02:18,135
-I can go back there and live those days over again—why not?
+I can go back there and live
+those days over again—why not?
 
-1218
+1013
 02:02:20,221 --> 02:02:23,221
 All I can say is, Emily, don’t.
 
-1219
-02:02:25,307 --> 02:02:28,307
-But it’s true, isn’t it? I can go and live— back there—again.
-
-1220
-02:02:30,394 --> 02:02:33,394
-Yes, some have tried, but they come back.
-
-1221
+1014
 02:02:35,480 --> 02:02:38,480
 Don’t do it, Emily.
 
-1222
-02:02:40,566 --> 02:02:43,566
-Emily, don’t. It’s not what you think it’d be.
-
-1223
-02:02:45,652 --> 02:02:48,652
-But I won’t live over a sad day. I'll choose a happy one .
-
-1224
+1015
 02:02:50,738 --> 02:02:53,738
-I’ll choose the day I first knew that I loved George.
+I’ll choose the day I first knew
 
-1225
-02:02:55,824 --> 02:02:58,824
-Would that be painful?
-
-1226
-02:03:00,910 --> 02:03:03,910
-You not only live it; but you watch yourself living it.
-
-1227
+1016
 02:03:05,996 --> 02:03:08,996
-And as you watch it, you see the thing that they never know.
+And as you watch it,
+you see the thing that they never know.
 
-1228
+1017
 02:03:11,082 --> 02:03:14,082
-You see t he future. You know what’s going to happen afterwards.
+You see
+t
 
-1229
+1018
 02:03:16,169 --> 02:03:19,169
 But is that—painful? Why?
 
-1230
-02:03:21,255 --> 02:03:24,255
-That’s not the only reason why you shouldn’t do it, Emily.
-
-1231
+1019
 02:03:26,341 --> 02:03:29,341
-When you’ve been here longer you’ll see that—
+When you’ve been here
+longer you’ll see that—
 
-1232
+1020
 02:03:31,427 --> 02:03:34,427
-Our life here is to forget all that— and be ready for what is ahead.
+Our life here is to forget all that—
 
-1233
+1021
 02:03:36,513 --> 02:03:39,513
-Mother Gibbs, how can I ever forget that life?
+Mother Gibbs,
 
-1234
-02:03:41,599 --> 02:03:44,599
-I t’s all I knew. It’s all I had!
-
-1235
-02:03:46,685 --> 02:03:49,685
-Oh, Emily! It isn’t wise. Really, it isn’t.
-
-1236
-02:03:51,771 --> 02:03:54,771
-But it’s a thing I must know for myself!
-
-1237
+1022
 02:03:56,857 --> 02:03:59,857
 I’ll choose a happy day, anyway.
 
-1238
-02:04:01,944 --> 02:04:04,944
-No! At least choose an average day. Choose the least important day in your life.
-
-1239
+1023
 02:04:12,116 --> 02:04:15,116
 It will be important enough.
 
-1240
-02:04:22,288 --> 02:04:25,288
-Then it can’t be since I was married; or since the baby was born.
-
-1241
+1024
 02:04:27,374 --> 02:04:30,374
 I can choose a birthday, can’t I?
 
-1242
-02:04:37,546 --> 02:04:40,546
-I choose my twelfth birthday.
-
-1243
+1025
 02:04:47,719 --> 02:04:50,719
 All right.
 
-1244
+1026
 02:04:57,891 --> 02:05:00,891
 It’s February 11th, 1899. A Tuesday.
 
-1245
+1027
 02:05:08,063 --> 02:05:11,063
 Do you want any special time of day?
 
-1246
-02:05:13,149 --> 02:05:16,149
-I want the whole day!
-
-1247
-02:05:23,321 --> 02:05:26,321
-We’lt begin at dawn. I t had been snowing for several days;
-
-1248
+1028
 02:05:28,407 --> 02:05:31,407
-but it stopped the night before, and they had begun clearing the roads.
+but it stopped the night before, and they
+had begun clearing the roads.
 
-1249
-02:05:33,494 --> 02:05:36,494
-The sun’s coming up.
-
-1250
-02:05:43,666 --> 02:05:46,666
-There’s Main Street—why, that’s Mr. Morgan’s sweetshop before he changed it!
-
-1251
-02:05:48,752 --> 02:05:51,752
-Yes, it’s 1899. Fourteen years ago.
-
-1252
+1029
 02:05:53,838 --> 02:05:56,838
-Oh, that’s the town I knew as a little girl .
+Oh, that’s the town I knew as a little girl
 
-1253
+1030
 02:06:04,010 --> 02:06:07,010
-And, look, there’s the old white fence that used to be around our house.
+And, look, there’s the old white fence
+that used to be around our house.
 
-1254
+1031
 02:06:09,096 --> 02:06:12,096
-Oh, I’d forgotten that! I love it so!
+Oh, I’d forgotten that!
+I love it so!
 
-1255
+1032
 02:06:14,182 --> 02:06:17,182
-They... a re they inside?
+They... a
 
-1256
-02:06:19,269 --> 02:06:22,269
-Yes, your mother’ll be coming downstairs in a minute to make breakfast.
-
-1257
+1033
 02:06:24,355 --> 02:06:27,355
 Will she?
 
-1258
+1034
 02:06:29,441 --> 02:06:32,441
-And you remember: your father had been away for a couple of days;
+And you remember: your father
+had been away for a couple of days;
 
-1259
+1035
 02:06:34,527 --> 02:06:37,527
 he came back on the early morning train.
 
-1260
+1036
 02:06:39,613 --> 02:06:42,613
 No?
 
-1261
-02:06:44,699 --> 02:06:47,699
-He’d been back to his college to make a speech in New York, Clinton.
-
-1262
+1037
 02:06:49,785 --> 02:06:52,785
-Look! There’s Howie Newsome! There’s our policeman! But he died!
+Look! There’s Howie Newsome!
 
-1263
+1038
 02:06:59,957 --> 02:07:02,957
 Whoa, Bessie!
 
-1264
-02:07:05,044 --> 02:07:08,044
-Morning, Bill.
-
-1265
+1039
 02:07:10,130 --> 02:07:13,130
 Morning, Howie.
 
-1266
+1040
 02:07:15,216 --> 02:07:18,216
 You’re up early.
 
-1267
+1041
 02:07:20,302 --> 02:07:23,302
-Been rescuin’ a party; darn near froze to death,
+Been rescuin’ a party;
+darn near froze to death,
 
-1268
+1042
 02:07:25,388 --> 02:07:28,388
-down by Polish Town there. Got drunk and lay out in the snowdrifts.
+down by Polish Town there.
+Got drunk and lay out in the snowdrifts.
 
-1269
+1043
 02:07:30,474 --> 02:07:33,474
 When I woke him up, he thought he was in bed.
 
-1270
+1044
 02:07:35,560 --> 02:07:38,560
-There’s Joe Crowell ...
+There’s Joe Crowell
 
-1271
+1045
 02:07:40,646 --> 02:07:43,646
 Good morning, Joe!
 
-1272
+1046
 02:07:45,732 --> 02:07:48,732
-Good mornin’, Mr. Warren. ’Mornin’, Howie.
+Good mornin’, Mr. Warren.
+’Mornin’, Howie.
 
-1273
+1047
 02:07:50,818 --> 02:07:53,818
-Children! Wally! Emily! Time to get up!
+Children! Wally! Emily!
+Time to get up!
 
-1274
-02:07:55,905 --> 02:07:58,905
-Mama, I'm here? Oh, how young Mama looks!
-
-1275
-02:08:00,991 --> 02:08:03,991
-I didn’t know that Mama was ever that young.
-
-1276
+1048
 02:08:06,077 --> 02:08:09,077
-You can come dress by the kitchen fire, if you like, but hurry.
+You can come dress by the kitchen fire,
+if you like, but hurry.
 
-1277
+1049
 02:08:11,163 --> 02:08:14,163
-Good mornin’, Mr. Newsome. Whhh ... it’s cold.
+Good mornin’, Mr. Newsome.
+Whhh
 
-1278
+1050
 02:08:16,249 --> 02:08:19,249
 Minus ten grades, Mis’ Webb.
 
-1279
+1051
 02:08:21,335 --> 02:08:24,335
 Think of it! Keep yourself wrapped up.
 
-1280
+1052
 02:08:26,421 --> 02:08:29,421
-Come on, Bessie .
+Come on, Bessie
 
-1281
+1053
 02:08:31,507 --> 02:08:34,507
-Mama, I can’t find my blue hair-ribbon anywhere.
+Mama, I can’t find my blue
+hair-ribbon anywhere.
 
-1282
+1054
 02:08:41,680 --> 02:08:44,680
-Just open your eyes, dear, that’s all, I laid it out for you special on the dresser, there.
+Just open your eyes, dear, that’s all,
+I laid it out for you special on the dresser, there.
 
-1283
+1055
 02:08:46,766 --> 02:08:49,766
 If it were a snake, it’d bite you.
 
-1284
-02:08:51,852 --> 02:08:54,852
-Yes . Yes …
-
-1285
+1056
 02:09:02,024 --> 02:09:05,024
 Good mornin', Bill.
 
-1286
+1057
 02:09:07,110 --> 02:09:10,110
-Good mornin’, Mr. Webb. You’re up early.
+Good mornin’, Mr. Webb.
+You’re up early.
 
-1287
+1058
 02:09:12,196 --> 02:09:15,196
-Yes, just been back to my old college in New York .
+Yes, just been back to my old college
+in New York
 
-1288
-02:09:17,282 --> 02:09:20,282
-Been any trouble here?
-
-1289
+1059
 02:09:22,368 --> 02:09:25,368
-I was called up this mornin’ to rescue a Polish fella—
+I was called up this mornin’
+to rescue a Polish fella—
 
-1290
+1060
 02:09:27,455 --> 02:09:30,455
-darn near froze to death. ..
+darn near froze to death.
 
-1291
+1061
 02:09:32,541 --> 02:09:35,541
 We must get it in the paper.
 
-1292
+1062
 02:09:42,713 --> 02:09:45,713
 How did it go, Charles?
 
-1293
+1063
 02:09:47,799 --> 02:09:50,799
-Oh, fine, I guess. I ’ve told him a few things… Everything all right here?
+Oh, fine, I guess.
+I
 
-1294
-02:09:52,885 --> 02:09:55,885
-Yes—can’t think of anything that’s happened, special. Been right cold.
-
-1295
+1064
 02:09:57,971 --> 02:10:00,971
-Howie Newsome says its ten below over to his barn.
+Howie Newsome says its ten
+below over to his barn.
 
-1296
+1065
 02:10:03,057 --> 02:10:06,057
-Yes, well, it's colder than that at Hamilton College. Students’ ears are falling off.
+Yes, well, it's colder than that at Hamilton
+College. Students’ ears are falling off.
 
-1297
+1066
 02:10:08,143 --> 02:10:11,143
-It ain’t Christian— Paper have any mistakes?
+It ain’t Christian—
+Paper have any mistakes?
 
-1298
+1067
 02:10:13,230 --> 02:10:16,230
-None that I noticed. Coffee’s ready , you can drink it when you want .
+None that I noticed.
+Coffee’s ready
 
-1299
+1068
 02:10:18,316 --> 02:10:21,316
-Charles! Don’t forget; it’s Emily’s birthday. Did you get her anything?
+Charles! Don’t forget; it’s Emily’s birthday.
+Did you get her anything?
 
-1300
+1069
 02:10:23,402 --> 02:10:26,402
 Yes, I’ve got something here.
 
-1301
+1070
 02:10:33,574 --> 02:10:36,574
 Where’s my birthday girl?
 
-1302
-02:10:43,746 --> 02:10:46,746
-Don’t interrupt her, Charles. You can see her at breakfast.
-
-1303
-02:10:48,832 --> 02:10:51,832
-She’s slow enough as it is.
-
-1304
+1071
 02:10:53,918 --> 02:10:56,918
-Hurry up, children! Seven o’clock. Now I don’t want to call you again.
+Hurry up, children! Seven o’clock.
+Now I don’t want to call you again.
 
-1305
-02:10:59,005 --> 02:11:02,005
-I can’t bear it. They’re so young and beautiful.
-
-1306
+1072
 02:11:04,091 --> 02:11:07,091
-Why did they ever have to get old? Mama, I’m here! I'm grown up!
+Why did they ever have to get old?
+Mama, I’m here! I'm grown up!
 
-1307
-02:11:09,177 --> 02:11:12,177
-I love you all! I can’t look at everything hard enough.
-
-1308
+1073
 02:11:19,349 --> 02:11:22,349
 Good morning, Mama.
 
-1309
-02:11:24,435 --> 02:11:27,435
-Good morning, Mama , good morning, Papa .
-
-1310
+1074
 02:11:29,521 --> 02:11:32,521
-Well, a very happy birthday to my girl and many happy returns.
+Well, a very happy birthday
+to my girl and many happy returns.
 
-1311
+1075
 02:11:34,607 --> 02:11:37,607
-There are surprises waiting for you on the kitchen table.
+There are surprises waiting
+for you on the kitchen table.
 
-1312
+1076
 02:11:44,780 --> 02:11:47,780
-Oh, Mama, you shouldn’t have ... I can’t ... I can’t ...
+Oh,
 
-1313
+1077
 02:11:49,866 --> 02:11:52,866
-But birthday or no t birthday, I want you to eat your breakfast good and slow.
+But birthday or no
 
-1314
+1078
 02:11:54,952 --> 02:11:57,952
-I want you to grow up and be a good strong girl.
+I want you to grow up
+and be a good strong girl.
 
-1315
+1079
 02:12:00,038 --> 02:12:03,038
-That in the blue paper is from your Aunt Carrie
+That in the blue paper
+is from your Aunt Carrie
 
-1316
+1080
 02:12:05,124 --> 02:12:08,124
-and I reckon you can guess who brought the post card album.
+and I reckon you can guess who brought
+the post card album.
 
-1317
-02:12:10,210 --> 02:12:13,210
-I found it on the doorstep when I brought in the milk …
-
-1318
+1081
 02:12:15,296 --> 02:12:18,296
-George Gibbs— must come over in the cold — nice of him. ..
+George Gibbs— must come over
+in the cold — nice of him.
 
-1319
-02:12:20,382 --> 02:12:23,382
-George, I’d forgotten that ...
-
-1320
+1082
 02:12:25,468 --> 02:12:28,468
-Chew that bacon slow and well. .
+Chew that bacon
 
-1321
+1083
 02:12:30,555 --> 02:12:33,555
 It’ll help keep you warm on a cold day.
 
-1322
-02:12:35,641 --> 02:12:38,641
-Mama … look at me one minute as though you really saw me.
-
-1323
+1084
 02:12:40,727 --> 02:12:43,727
-Mama , f ourteen years have gone by! I’m dead! You’re a grandmother , Mama.
+Mama
+,
 
-1324
+1085
 02:12:45,813 --> 02:12:48,813
-Mama , I married George Gibbs, Mama! Wally’s dead, too.
+Mama
+,
 
-1325
+1086
 02:12:50,899 --> 02:12:53,899
-Mama! His appendix burst on a camping trip.
+Mama! His appendix burst
+on a camping trip.
 
-1326
+1087
 02:12:55,985 --> 02:12:58,985
-We felt terrible, don’t you remember?
+We felt terrible,
+don’t you remember?
 
-1327
+1088
 02:13:01,071 --> 02:13:04,071
-But, just for a moment now we’re all together— Mama, let’s be happy—
+But, just for a moment now we’re all
+together— Mama, let’s be happy—
 
-1328
+1089
 02:13:06,157 --> 02:13:09,157
 Let’s look at one another!
 
-1329
-02:13:11,243 --> 02:13:14,243
-That in the yellow paper is something I found in the attic
-
-1330
+1090
 02:13:16,330 --> 02:13:19,330
 among your grandmother’s things.
 
-1331
-02:13:21,416 --> 02:13:24,416
-You’re old enough to wear it now, and I thought you’d like it.
-
-1332
+1091
 02:13:26,502 --> 02:13:29,502
-And this is from you! Why, Mama, it’s just what I wanted. It's beautiful!
+And this is from you! Why, Mama, it’s just
+what I wanted. It's beautiful!
 
-1333
-02:13:31,588 --> 02:13:34,588
-Your Aunt Norah couldn’t find one in Concord so I had to send
-
-1334
-02:13:36,674 --> 02:13:39,674
-all the way to Boston. Wally has something for you, too.
-
-1335
+1092
 02:13:41,760 --> 02:13:44,760
-He made it at Manual Training class and he’s very proud of it.
+He made it at Manual Training class
+and he’s very proud of it.
 
-1336
+1093
 02:13:46,846 --> 02:13:49,846
-Be sure you make a big fuss. Your father has a surprise for you, too;
+Be sure you make a big fuss.
+Your father has a surprise for you, too;
 
-1337
-02:13:51,932 --> 02:13:54,932
-don’t know what it is myself. Sh—here he comes.
-
-1338
+1094
 02:14:02,105 --> 02:14:05,105
-Where ’s my birthday girl? Happy birthday, Emily!
+Where
+’s my birthday girl?
 
-1339
+1095
 02:14:07,191 --> 02:14:10,191
 Happy birthday to you...
 
-1340
+1096
 02:14:12,277 --> 02:14:15,277
-I can’t go on! It goes so fast.
+I can’t go on!
+It goes so fast.
 
-1341
+1097
 02:14:17,363 --> 02:14:20,363
-We don’t have time to look at one another.
+We don’t have time
+to look at one another.
 
-1342
+1098
 02:14:22,449 --> 02:14:25,449
 I didn’t realize.
 
-1343
+1099
 02:14:27,535 --> 02:14:30,535
-So all that was going on and we never noticed!
+So all that was going on
+and we never noticed!
 
-1344
-02:14:37,707 --> 02:14:40,707
-Take me back—up the hill— to my grave.
-
-1345
-02:14:47,880 --> 02:14:50,880
-No . W ait!
-
-1346
-02:14:58,052 --> 02:15:01,052
-One more look .
-
-1347
+1100
 02:15:08,224 --> 02:15:11,224
-Goodbye, goodbye, world .
+Goodbye,
 
-1348
+1101
 02:15:13,310 --> 02:15:16,310
-Goodbye, Grover’s Corners ...
+Goodbye, Grover’s Corners
 
-1349
+1102
 02:15:18,396 --> 02:15:21,396
-Mama and Papa ...
+Mama and Papa
 
-1350
-02:15:23,482 --> 02:15:26,482
-Goodbye to clocks ticking ...
-
-1351
+1103
 02:15:28,568 --> 02:15:31,568
-and my butternut tree! and Mama’s sunflowers— and food and coffee—
+and my butternut tree! and Mama’s sunflowers—
+and food and coffee—
 
-1352
+1104
 02:15:33,655 --> 02:15:36,655
 and bacon that always got burnt onto the pan…
 
-1353
+1105
 02:15:38,741 --> 02:15:41,741
 and new-ironed dresses and hot baths—
 
-1354
+1106
 02:15:43,827 --> 02:15:46,827
 and sleeping and waking up!
 
-1355
+1107
 02:15:48,913 --> 02:15:51,913
-Oh, earth… you’re too wonderful for anyone to realize you!
+Oh, earth… you’re too wonderful
+for anyone to realize you!
 
-1356
-02:15:59,085 --> 02:16:02,085
-Do any human beings ever realize life while they live it—
-
-1357
+1108
 02:16:04,171 --> 02:16:07,171
 every, every minute?
 
-1358
+1109
 02:16:09,257 --> 02:16:12,257
 No— Saints and poets maybe—they do some.
 
-1359
-02:16:19,430 --> 02:16:22,430
-I’m ready to go back.
-
-1360
-02:16:29,602 --> 02:16:32,602
-Were you happy , Emily ?
-
-1361
-02:16:39,774 --> 02:16:42,774
-No. I should have listened to you , Mother Gibbs . That’s all human beings are!—Just blind people.
-
-1362
+1110
 02:16:49,946 --> 02:16:52,946
-Look, the sky ’s getting clear. The stars are coming out.
+Look,
+the sky
 
-1363
-02:16:55,032 --> 02:16:58,032
-Mr. Stimson, I should have listened to them.
-
-1364
-02:17:00,118 --> 02:17:03,118
-N ow she know s . Now she know s : that’s what it was to be alive.
-
-1365
+1111
 02:17:05,205 --> 02:17:08,205
-To move about in a cloud of ignorance; to go up and down
+To move about in a cloud of ignorance;
+to go up and down
 
-1366
-02:17:10,291 --> 02:17:13,291
-trampling on the feelings of those— of those about you.
-
-1367
+1112
 02:17:15,377 --> 02:17:18,377
-To spend and waste time as though you had a million years.
+To spend and waste time as though
+you had a million years.
 
-1368
+1113
 02:17:25,549 --> 02:17:28,549
-To be always at the mercy of one self-centered passion, or another.
+To be always at the mercy of one
+self-centered passion, or another.
 
-1369
-02:17:30,635 --> 02:17:33,635
-T hat’s the ’’happy” existence you wanted to go back to. Now you know ...
-
-1370
+1114
 02:17:35,721 --> 02:17:38,721
-Ignorance and blindness .
+Ignorance and blindness
 
-1371
+1115
 02:17:45,893 --> 02:17:48,893
-That ain’t the whole truth and you know it, Simon Stimson.
+That ain’t the whole truth
+and you know it, Simon Stimson.
 
-1372
+1116
 02:17:50,980 --> 02:17:53,980
-Emily, look at that star. I forget its name.
+Emily, look at that star.
+I forget its name.
 
-1373
+1117
 02:18:01,152 --> 02:18:04,152
-My boy Joel was a sailor —knew th em all.
+My boy Joel was a sailor
+—knew
 
-1374
+1118
 02:18:06,238 --> 02:18:09,238
-He’d sit on the porch evenin’s and tell th em all by name. It was wonderful for sure.
+He’d sit on the porch evenin’s and tell
 
-1375
-02:18:11,324 --> 02:18:14,324
-A star’s mighty good company.
-
-1376
+1119
 02:18:16,410 --> 02:18:19,410
-Yes , it is .
+Yes
 
-1377
-02:18:21,496 --> 02:18:24,496
-Here comes one of them.
-
-1378
+1120
 02:18:26,582 --> 02:18:29,582
-That’s funny! It ain’t no time for th em to be here. Goodness sakes!
+That’s funny!
+It
 
-1379
+1121
 02:18:31,668 --> 02:18:34,668
 Mother Gibbs! It’s George!
 
-1380
+1122
 02:18:36,755 --> 02:18:39,755
 Sh-h, dear. Just rest yourself.
 
-1381
+1123
 02:18:41,841 --> 02:18:44,841
-It ’s George.
+It
 
-1382
+1124
 02:18:46,927 --> 02:18:49,927
-And my Joel, who knew the stars— he used to say
+And my Joel, who knew the stars—
+he used to say
 
-1383
+1125
 02:18:52,013 --> 02:18:55,013
-it took millions of years for that little speck o’ light to git down to earth.
+it took millions of years for that little
+speck o’ light to git down to earth.
 
-1384
-02:18:57,099 --> 02:19:00,099
-T hat's what he used to say ... millions of years.
-
-1385
+1126
 02:19:02,185 --> 02:19:05,185
-Goodness! That ain’t no way to behave.
+Goodness!
+That ain’t no way to behave.
 
-1386
+1127
 02:19:07,271 --> 02:19:10,271
 He ought to be home.
 
-1387
+1128
 02:19:12,357 --> 02:19:15,357
-– Mother Gibbs? – Yes, Emily?
+–
 
-1388
-02:19:17,443 --> 02:19:20,443
-– They don’t—understand—do they? – No, dear. They don’t understand.
-
-1389
+1129
 02:19:27,616 --> 02:19:30,616
 Most everybody’s asleep in Grover’s Corners.
 
-1390
+1130
 02:19:37,788 --> 02:19:40,788
 There are a few lights on;
 
-1391
-02:19:42,874 --> 02:19:45,874
-Shorty Hawkins, down at the depot, just watched the Boston train go by.
-
-1392
-02:19:47,960 --> 02:19:50,960
-Voices can be heard from Ellerey Greenough's barn.
-
-1393
-02:19:53,046 --> 02:19:56,046
-Yes, it’s clearing up. There are the stars— making their way,
-
-1394
+1131
 02:19:58,132 --> 02:20:01,132
-their ancient way across the vault of the sky . Scholars haven’t settled the matter yet,
+their ancient way across the vault of
+the sky
 
-1395
-02:20:03,218 --> 02:20:06,218
-but they seem to think there are no living beings up there.
-
-1396
+1132
 02:20:08,305 --> 02:20:11,305
 Just chalk—or fire.
 
-1397
+1133
 02:20:18,477 --> 02:20:21,477
-Only this one is straining away to make something of itself.
+Only this one is straining away
+to make something of itself.
 
-1398
-02:20:23,563 --> 02:20:26,563
-The strain’s so great that every sixteen hours everybody lies down and gets a rest.
-
-1399
-02:20:33,735 --> 02:20:36,735
-Eleven o’clock in Grover’s Corners. Everybody’s goes to sleep.
-
-1400
-02:20:38,821 --> 02:20:41,821
-Tomorrow starts a new day.
-
-1401
+1134
 02:20:43,907 --> 02:20:46,907
-You get a good rest too. Good night.
+You get a good rest too.
+Good night.
 

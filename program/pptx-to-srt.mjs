@@ -172,7 +172,7 @@ function extractTextFromRun(run) {
     if (typeof run.t === 'object' && run.t['#text']) return run.t['#text'];
     return String(run.t); // Fallback: convert to string
   }
-  if (run.br) return '\n'; // Line break
+  if (run.br !== undefined) return '\n'; // Line break (br can be object or empty)
   return '';
 }
 
@@ -200,24 +200,60 @@ async function parseSlide(slideXml, slideNum, config) {
       const paragraphs = shape.txBody.p;
       const paraArray = Array.isArray(paragraphs) ? paragraphs : [paragraphs];
       
-      for (const para of paraArray) {
+      for (let pIdx = 0; pIdx < paraArray.length; pIdx++) {
+        const para = paraArray[pIdx];
         if (!para.r) continue;
         
-        const runs = Array.isArray(para.r) ? para.r : [para.r];
+        // Check if there are line breaks in this paragraph
+        const hasBreaks = para.br !== undefined;
+        const breaks = hasBreaks ? (Array.isArray(para.br) ? para.br.length : 1) : 0;
         
-        for (const run of runs) {
-          const text = extractTextFromRun(run);
-          if (!text || typeof text !== 'string' || !text.trim()) continue;
+        const runs = Array.isArray(para.r) ? para.r : [para.r];
+        const paraLang1 = [];
+        const paraLang2 = [];
+        
+        // If there are line breaks, we need to split runs between breaks
+        // Pattern: text runs are interleaved with breaks
+        // e.g., [run1, br, run2, br, run3] but parser gives us r:[run1,run2,run3], br:[br,br]
+        let runIdx = 0;
+        for (let i = 0; i <= breaks; i++) {
+          const currentRun = runs[runIdx];
+          if (!currentRun) break;
           
-          const color = extractColor(run);
-          
-          if (isWhiteColor(color)) {
-            lang1Text.push(text);
-          } else if (isYellowColor(color)) {
-            lang2Text.push(text);
-          } else if (config.debug && color) {
-            console.log(`Slide ${slideNum}: Unknown color ${color} for text: ${text.substring(0, 30)}`);
+          const text = extractTextFromRun(currentRun);
+          if (text && text.trim()) {
+            const color = extractColor(currentRun);
+            
+            if (isWhiteColor(color)) {
+              if (paraLang1.length > 0 && paraLang1[paraLang1.length - 1] !== '\n') {
+                paraLang1.push(' ');
+              }
+              paraLang1.push(text);
+            } else if (isYellowColor(color)) {
+              if (paraLang2.length > 0 && paraLang2[paraLang2.length - 1] !== '\n') {
+                paraLang2.push(' ');
+              }
+              paraLang2.push(text);
+            } else if (config.debug && color) {
+              console.log(`Slide ${slideNum}: Unknown color ${color} for text: ${text.substring(0, 30)}`);
+            }
           }
+          
+          runIdx++;
+          
+          // Add line break if there's more to come
+          if (i < breaks) {
+            if (paraLang1.length > 0) paraLang1.push('\n');
+            if (paraLang2.length > 0) paraLang2.push('\n');
+          }
+        }
+        
+        // Join runs within paragraph, then add paragraph to main array
+        if (paraLang1.length > 0) {
+          lang1Text.push(paraLang1.join('').trim());
+        }
+        if (paraLang2.length > 0) {
+          lang2Text.push(paraLang2.join('').trim());
         }
       }
     }
@@ -240,8 +276,8 @@ async function parseSlide(slideXml, slideNum, config) {
   }
   
   return {
-    lang1: lang1Text.join(' ').trim(),
-    lang2: lang2Text.join(' ').trim(),
+    lang1: lang1Text.filter(t => t).join('\n').trim(),
+    lang2: lang2Text.filter(t => t).join('\n').trim(),
     duration: Math.max(duration, config.minDuration)
   };
 }

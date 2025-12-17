@@ -1,10 +1,12 @@
 1
 00:02:48,806 --> 00:02:51,806
-Titlul acestei piese este „ Orașul nostru”.
+Titlul acestei piese
+este
 
 2
 00:02:58,978 --> 00:03:01,978
-În această piesă veți vedea pe Dr. Gibbs, Mrs. Gibbs, George Gibbs, Rebecca Gibbs,
+În această piesă veți vedea pe Dr. Gibbs,
+Mrs. Gibbs, George Gibbs, Rebecca Gibbs,
 
 3
 00:03:09,150 --> 00:03:12,150
@@ -12,39 +14,54 @@ Mr. Webb, Mrs. Webb, Wally Webb, Emily Webb,
 
 4
 00:03:19,322 --> 00:03:22,322
-Sergentul Warren, Howie Newsome, Joe Crowell, Si Crowell, Simon Stinson, Mrs. Soames.
+Sergentul Warren, Howie Newsome,
+Joe Crowell, Si Crowell, Simon Stinson, Mrs. Soames.
 
 5
 00:03:29,494 --> 00:03:32,494
-Orașul nostru se numește Grover’s Corners, e situat în New Hampshire –
+Orașul nostru se numește Grover’s Corners,
+e situat în New Hampshire –
 
 6
 00:03:34,581 --> 00:03:37,581
-exact la hotarul regiunii Massachusetts: latitudine de 42 de grade
+exact la hotarul regiunii Massachusetts:
+latitudine
+de
+42 de grade
 
 7
 00:03:39,667 --> 00:03:42,667
-și 40’ minute și 70 de grade și 37’ minute .
+și 40’
+minute
+și 70 de grade
+și 37’
 
 8
 00:03:49,839 --> 00:03:52,839
-Primul act ne prezintă o zi din orașul nostru. Ziua e 7 mai 1901. Se face ziuă.
+Primul act ne prezintă o zi din orașul nostru.
+Ziua e 7 mai 1901. Se face ziuă.
 
 9
 00:04:00,011 --> 00:04:03,011
-Pe cer, înspre răsărit, încep să se zărească de după dealuri primele raze de lumină.
+Pe cer, înspre răsărit, încep să se zărească
+de după dealuri primele raze de lumină.
 
 10
 00:04:05,097 --> 00:04:08,097
-Luceafărul de dimineață e nespus de strălucitor în clipa când trebuie să apună.
+Luceafărul de dimineață e nespus
+de strălucitor în clipa când trebuie să apună.
 
 11
 00:04:15,269 --> 00:04:18,269
-Ei, și acuma să vă spun mai degrabă cum arată orașul nostru. Aici e Strada Principlaă .
+Ei, și acuma să vă spun mai degrabă
+cum arată orașul nostru. Aici e Strada
+Principlaă
+.
 
 12
 00:04:20,356 --> 00:04:23,356
-Aici e gara; calea ferată trece pe aici. Aici e Biserica Congregată;
+Aici e gara; calea ferată trece pe aici.
+Aici e Biserica Congregată;
 
 13
 00:04:25,442 --> 00:04:28,442
@@ -52,23 +69,30 @@ peste drum e cea Presbiteriană.
 
 14
 00:04:30,528 --> 00:04:33,528
-Biserica Metodistă și cea Unitariană sunt dincolo. Cea Baptistă - pe malul râului.
+Biserica Metodistă și cea Unitariană
+sunt dincolo. Cea Baptistă - pe malul râului.
 
 15
 00:04:35,614 --> 00:04:38,614
-Cea Catolică e în cealaltă parte, peste linie.
+Cea Catolică e în cealaltă parte,
+peste linie.
 
 16
 00:04:40,700 --> 00:04:43,700
-Aici e Primăria și Poșta la un loc, iar temnița e la subsol.
+Aici e Primăria și Poșta la un loc,
+iar temnița e la subsol.
 
 17
 00:04:45,786 --> 00:04:48,786
-Washington a ținut odată un discurs chiar aici, pe treptele acestea.
+Washington a ținut odată
+un discurs
+chiar aici, pe treptele acestea.
 
 18
 00:04:55,958 --> 00:04:58,958
-Asta e Strada Principală. De-a lungul acestei străzi sunt un șir de magazine.
+Asta e Strada Principală.
+De-a lungul acestei străzi
+sunt un șir de magazine.
 
 19
 00:05:01,044 --> 00:05:04,044
@@ -76,23 +100,28 @@ Aici sunt stâlpii de care se leagă caii.
 
 20
 00:05:06,131 --> 00:05:09,131
-Primul automobil o să apară cam peste vreo cinci ani.
+Primul automobil o să apară cam
+peste vreo cinci ani.
 
 21
 00:05:11,217 --> 00:05:14,217
-Va deveni proprietatea celui mai bogat cetățean al nostru, bancherul Cartwright.
+Va deveni proprietatea celui mai bogat
+cetățean al nostru, bancherul Cartwright.
 
 22
 00:05:16,303 --> 00:05:19,303
-El locuiește pe deal, în casa aceea mare și albă.
+El locuiește pe deal, în casa aceea
+mare și albă.
 
 23
 00:05:26,475 --> 00:05:29,475
-Aici e băcănia și dincolo e drugstore-ul domnului Morgan.
+Aici e băcănia și dincolo e drugstore-ul
+domnului Morgan.
 
 24
 00:05:31,561 --> 00:05:34,561
-Aproape toți oamenii din oraș trec prin aceste două magazine.
+Aproape toți oamenii din oraș trec
+prin aceste două magazine.
 
 25
 00:05:41,733 --> 00:05:44,733
@@ -104,11 +133,13 @@ Aceasta e poarta din spate.
 
 27
 00:05:51,906 --> 00:05:54,906
-Aici este un mic decor, pentru cei care cred că nu se poate fără decor.
+Aici este un mic decor, pentru cei care
+cred că nu se poate fără decor.
 
 28
 00:05:56,992 --> 00:05:59,992
-Aici e grădina doamnei Gibbs. Porumb... nalbă... fasole... mazăre... heliotrop
+Aici e grădina doamnei Gibbs. Porumb...
+nalbă... fasole... mazăre... heliotrop
 
 29
 00:06:02,078 --> 00:06:05,078
@@ -116,19 +147,24 @@ Aici e grădina doamnei Gibbs. Porumb... nalbă... fasole... mazăre... heliotro
 
 30
 00:06:07,164 --> 00:06:10,164
-În acele zile gazeta noastră apărea de două ori pe săptămână –
+În acele zile gazeta noastră apărea
+de două ori pe săptămână –
 
 31
 00:06:12,250 --> 00:06:15,250
-Sentinela din Grover’s Corners – și aici e casa redactorului-șef Webb.
+Sentinela din Grover’s Corners –
+și aici e casa redactorului-șef Webb.
 
 32
 00:06:17,336 --> 00:06:20,336
-Și aici e grădina doamnei Webb. E la fel ca și aceea a doamnei Gibbs :
+Și aici e grădina doamnei Webb.
+E la fel ca și aceea a doamnei Gibbs
+:
 
 33
 00:06:22,422 --> 00:06:25,422
-Porumb... nalbă... fasole... mazăre... numai că are și o mulțime de floarea-soarelui.
+Porumb... nalbă... fasole... mazăre... numai că
+are și o mulțime de floarea-soarelui.
 
 34
 00:06:32,594 --> 00:06:35,594
@@ -144,31 +180,38 @@ Frumos oraș, înțelegeți ce vreau să zic?
 
 37
 00:06:52,939 --> 00:06:55,939
-După câte știu, nu s-a ridicat de prin locurile astea nici un om de seamă.
+După câte știu, nu s-a ridicat de prin
+locurile astea nici un om de seamă.
 
 38
 00:06:58,025 --> 00:07:01,025
-Cele mai vechi pietre de mormânt din cimitirul de sus de pe deal datează
+Cele mai vechi pietre de mormânt
+din cimitirul de sus de pe deal datează
 
 39
 00:07:03,111 --> 00:07:06,111
-de prin 1670–1680 – sunt îngropați acolo o mulțime de Groveri,
+de prin 1670–1680 – sunt îngropați
+acolo o mulțime de Groveri,
 
 40
 00:07:08,197 --> 00:07:11,197
-și Gibbsi și Hersay – aceleași nume ca și cele de azi.
+și Gibbsi și Hersay –
+aceleași nume ca și cele de azi.
 
 41
 00:07:13,283 --> 00:07:16,283
-Și așa cum vă spuneam: se face ziuă. Singurele lumini care se zăresc în oraș
+Și așa cum vă spuneam: se face ziuă.
+Singurele lumini care se zăresc în oraș
 
 42
 00:07:18,369 --> 00:07:21,369
-vin de la o căsuță de peste linie unde o mamă, o poloneză, abia a născut doi gemeni.
+vin de la o căsuță de peste linie unde o mamă,
+o poloneză, abia a născut doi gemeni.
 
 43
 00:07:28,542 --> 00:07:31,542
-Și din casa lui Joe Crowell, unde Joe Junior se spală ca să
+Și din casa lui Joe Crowell,
+unde Joe Junior se spală ca să
 
 44
 00:07:33,628 --> 00:07:36,628
@@ -176,43 +219,65 @@ o pornească la distribuirea ziarului.
 
 45
 00:07:38,714 --> 00:07:41,714
-Și de la gară, unde Shorty Hawkins pregătește să-i dea liberă trecere
+Și de la gară, unde Shorty Hawkins
+pregătește să-i dea liberă trecere
 
 46
 00:07:43,800 --> 00:07:46,800
-trenului de Boston, de la 5.45. Acum sose ște !
+trenului de Boston, de la 5.45.
+Acum sose
+ște
+!
 
 47
 00:07:48,886 --> 00:07:51,886
-Prin fermele din jur — s-au mai aprins lumini ici și colo, cu mulsul și cu alte treburi.
+Prin fermele din jur — s-au mai aprins
+lumini ici și colo,
+
+cu mulsul și cu alte treburi.
 
 48
 00:07:53,972 --> 00:07:56,972
-Dar oamenii de la oraș dorm până ceva mai târziu. Și așa, a mai început o zi.
+Dar oamenii de la oraș dorm până
+ceva mai târziu. Și așa, a mai început o zi.
 
 49
 00:07:59,058 --> 00:08:02,058
-Iată-l pe D oc tor Gibbs coborând pe Strada Principală , întorcându-se de la nașterea gemeniilor .
+Iată-l pe
+D
+oc
+tor
 
 50
 00:08:04,144 --> 00:08:07,144
-Și iat-o și pe doamna Gibbs coborând să pregătească micul dejun .
+Și iat-o și pe
+doamna Gibbs
+coborând
+să pregătească
 
 51
 00:08:14,317 --> 00:08:17,317
-Doc tor Gibbs a murit în 1930. Spitalului celui nou i s-a dat numele lui.
+Doc
+tor
+Gibbs a murit în 1930.
+Spitalului celui nou i s-a dat numele lui.
 
 52
 00:08:19,403 --> 00:08:22,403
-Doamna Gibbs a murit mai întâi. Plecase la fiica-sa, Rebecca,
+Doamna Gibbs a murit mai întâi.
+Plecase la fiica-sa, Rebecca,
 
 53
 00:08:24,489 --> 00:08:27,489
-măritată cu un agent de asigurare din Canton, Ohio,
+măritată cu un agent de asigurare
+din Canton, Ohio,
 
 54
 00:08:29,575 --> 00:08:32,575
-și a murit acolo, în pneumonie, dar trupul ei a fost adus și îngropat ă aici.
+și a murit acolo,
+în
+pneumonie,
+dar trupul ei a fost adus și îngropat
 
 55
 00:08:34,661 --> 00:08:37,661
@@ -220,7 +285,10 @@ Acuma e acolo sus, în cimitir,
 
 56
 00:08:39,747 --> 00:08:42,747
-ea fiind o Julia Hersey înainte de a se mărita cu Dr. Gibbs
+ea fiind o Julia Hersey înainte de
+a se mărita cu
+Dr.
+Gibbs
 
 57
 00:08:44,833 --> 00:08:47,833
@@ -228,23 +296,33 @@ ea fiind o Julia Hersey înainte de a se mărita cu Dr. Gibbs
 
 58
 00:08:49,919 --> 00:08:52,919
-În orașul nostru ne place să știm totul despre toată lumea.
+În orașul nostru ne place să știm
+totul despre toată lumea.
 
 59
 00:09:00,092 --> 00:09:03,092
-Iat-o pe doamna Webb, coborând și ea să pregătească micul dejun.
+Iat-o pe doamna Webb, coborând
+și ea să pregătească
+micul dejun.
 
 60
 00:09:10,264 --> 00:09:13,264
-Și iată-l venind pe Joe Crowell, distribuind ziarul.
+Și iată-l venind pe Joe Crowell,
+distribuind ziarul.
 
 61
 00:09:20,436 --> 00:09:23,436
-– Bună dimuneața , D r. Gibbs. – Bună dimuneața , Joe.
+–
+Bună dimuneața
+, D
+r.
 
 62
 00:09:25,522 --> 00:09:28,522
-– Să vă dau ziarul acuma? – Da, dă-mi-l.
+–
+
+Să vă dau ziarul acuma?
+–
 
 63
 00:09:35,694 --> 00:09:38,694
@@ -252,11 +330,13 @@ S-a îmbolnăvit cineva?
 
 64
 00:09:40,781 --> 00:09:43,781
-Nu. S-au născut doi gemeni, în cartierul polonezilor.
+Nu. S-au născut doi gemeni,
+în cartierul polonezilor.
 
 65
 00:09:45,867 --> 00:09:48,867
-Se pare, că domnișoara învățătoare, Miss Foster, se mărită.
+Se pare, că domnișoara învățătoare,
+Miss Foster, se mărită.
 
 66
 00:09:50,953 --> 00:09:53,953
@@ -264,15 +344,21 @@ Da, domnule. se mărită cu unul din Concord.
 
 67
 00:09:56,039 --> 00:09:59,039
-Nu mai spune! Și voi, băieții, ce părere aveți despre asta?
+Nu mai spune! Și voi, băieții,
+ce părere aveți despre asta?
 
 68
 00:10:01,125 --> 00:10:04,125
-D esigur că asta nu-i treaba mea… dar mă gândesc așa,
+D
+esigur că asta nu-i treaba mea…
+dar mă gândesc așa,
 
 69
 00:10:06,211 --> 00:10:09,211
-că dacă cineva se apucă să fie învățăto a r ă , apoi trebuie să rămână învățăto a r ă .
+că dacă
+cineva
+se apucă să fie învățăto
+a
 
 70
 00:10:11,297 --> 00:10:14,297
@@ -280,7 +366,10 @@ Cu genunchiul cum îți merge, Joe?
 
 71
 00:10:16,383 --> 00:10:19,383
-Grozav, Do ctor . Numai că, așa cum mi-ați zis,
+Grozav, Do
+ctor
+.
+Numai că, așa cum mi-ați zis,
 
 72
 00:10:21,469 --> 00:10:24,469
@@ -288,19 +377,29 @@ Grozav, Do ctor . Numai că, așa cum mi-ați zis,
 
 73
 00:10:26,556 --> 00:10:29,556
-– Și azi, ce-ți spune? O să plouă? – Nu.
+–
+
+Și azi, ce-ți spune? O să plouă?
+–
 
 74
 00:10:31,642 --> 00:10:34,642
-– Sigur? – Da, domnule.
+–
+
+Sigur?
+–
 
 75
 00:10:36,728 --> 00:10:39,728
-– Și genunchiul tău nu greșește niciodată? – Niciodată.
+–
+
+Și genunchiul tău nu greșește niciodată?
+–
 
 76
 00:10:41,814 --> 00:10:44,814
-Aș vrea să vă spun ceva despre băiatul ăsta. Joe era un băiat tare inteligent
+Aș vrea să vă spun ceva despre băiatul ăsta.
+Joe era un băiat tare inteligent
 
 77
 00:10:46,900 --> 00:10:49,900
@@ -308,7 +407,8 @@ a absolvit primul liceul de aici.
 
 78
 00:10:51,986 --> 00:10:54,986
-Așa că i s-a dat o bursă ca să urmeze Facultatea de Tehnologie din Massachusetts.
+Așa că i s-a dat o bursă ca să urmeze
+Facultatea de Tehnologie din Massachusetts.
 
 79
 00:10:57,072 --> 00:11:00,072
@@ -316,11 +416,13 @@ Așa că i s-a dat o bursă ca să urmeze Facultatea de Tehnologie din Massachus
 
 80
 00:11:02,158 --> 00:11:05,158
-Pe atunci toată povestea asta a fost scrisă în ziarele din Boston.
+Pe atunci toată povestea asta a fost
+scrisă în ziarele din Boston.
 
 81
 00:11:07,244 --> 00:11:10,244
-Ar fi putut să devină un mare inginer, Joe ăsta. Dar a izbucnit războiul
+Ar fi putut să devină un mare inginer,
+Joe ăsta. Dar a izbucnit războiul
 
 82
 00:11:12,331 --> 00:11:15,331
@@ -328,31 +430,44 @@ Ar fi putut să devină un mare inginer, Joe ăsta. Dar a izbucnit războiul
 
 83
 00:11:17,417 --> 00:11:20,417
-Toată învățătura asta a fost zadarnică. De ce a trebuit să se lege de germani,
+Toată învățătura asta a fost zadarnică.
+De ce a trebuit să se lege de germani,
 
 84
 00:11:22,503 --> 00:11:25,503
-până în ziua de azi nu s-a aflat, dar pe atunci ni se părea și nouă cât se poate de clar.
+până în ziua de azi nu s-a aflat, dar pe atunci
+ni se părea și nouă cât se poate de clar.
 
 85
 00:11:32,675 --> 00:11:35,675
-Iată-l și pe Howie Newsome, lăptarul.
+Iată-l și pe Howie Newsome,
+lăptarul.
 
 86
 00:11:37,761 --> 00:11:40,761
-Hai odată, Bessie. Ce-i cu tine astăzi?
+Hai odată, Bessie.
+Ce-i cu tine astăzi?
 
 87
 00:11:47,933 --> 00:11:50,933
-– Bună dimineața , Doc tor . – Bună dimineața , Howie.
+–
+Bună dimineața
+, Doc
+tor
 
 88
 00:11:53,019 --> 00:11:56,019
-– E bolnav cineva? – Doamna Goruslawski a născut doi gemeni.
+–
+
+E bolnav cineva?
+–
 
 89
 00:11:58,106 --> 00:12:01,106
-Gemeni, v a să zică? Crește mereu orașul ăsta al nostru.
+Gemeni, v
+a
+să zică?
+Crește mereu orașul ăsta al nostru.
 
 90
 00:12:03,192 --> 00:12:06,192
@@ -360,27 +475,37 @@ Ce zici, Howie, o să plouă?
 
 91
 00:12:08,278 --> 00:12:11,278
-Nu. O să fie o zi frumoasă, cu soare, nu glumă. Hai, Bessie.
+Nu. O să fie o zi frumoasă,
+cu soare, nu glumă. Hai, Bessie.
 
 92
 00:12:13,364 --> 00:12:16,364
-Hello, Bessie. Câți ani are?
+Hello, Bessie.
+Câți ani are?
 
 93
 00:12:18,450 --> 00:12:21,450
-Merge pe șaptesp reze ce. De când familia Lockhart nu mai comandă
+Merge pe șaptesp
+reze
+ce.
+De când familia Lockhart nu mai comandă
 
 94
 00:12:23,536 --> 00:12:26,536
-lapte zilnic, e complet zăpăcită. Totuși, Bessie vrea neapărat
+lapte zilnic, e complet zăpăcită.
+Totuși, Bessie vrea neapărat
 
 95
 00:12:28,622 --> 00:12:31,622
-să lase sticla acolo – așa că se supără pe mine tot drumul.
+să lase sticla acolo – așa că
+se supără pe mine tot drumul.
 
 96
 00:12:38,794 --> 00:12:41,794
-– Bună dimineața, Mrs. Gibbs. – Bună dimineața, Howie.
+–
+
+Bună dimineața, Mrs. Gibbs.
+–
 
 97
 00:12:43,881 --> 00:12:46,881
@@ -388,11 +513,14 @@ Domnul doctor tocmai se întoarce acasă.
 
 98
 00:12:48,967 --> 00:12:51,967
-Da? Dar dumneata pari că ai venit mai târziu azi.
+Da? Dar dumneata pari că
+ai venit mai târziu azi.
 
 99
 00:12:54,053 --> 00:12:57,053
-Așa este. A fost o problemă cu separatorul. Nu știu, ce s-a întâmplat.
+Așa este. A fost o problemă
+cu separatorul.
+Nu știu, ce s-a întâmplat.
 
 100
 00:13:04,225 --> 00:13:07,225
@@ -412,27 +540,33 @@ Da. Grozav – parc-ar fi fost niște pisoi.
 
 104
 00:13:29,656 --> 00:13:32,656
-Șunca e gata într-o clipiță. Stai jos și bea-ți cafeaua.
+Șunca e gata într-o clipiță.
+Stai jos și bea-ți cafeaua.
 
 105
 00:13:39,828 --> 00:13:42,828
-Cred că două ore ai să poți să dormi în dimineața asta, nu?
+Cred că două ore ai să poți
+să dormi în dimineața asta, nu?
 
 106
 00:13:44,914 --> 00:13:47,914
-Hm! Doamna Wentworth vine la unsprezece.
+Hm! Doamna Wentworth vine
+la unsprezece.
 
 107
 00:13:50,000 --> 00:13:53,000
-Cred că știu ce problemă are. Stomacul ei nu-i ce a fost.
+Cred că știu ce problemă are.
+Stomacul ei nu-i ce a fost.
 
 108
 00:13:55,086 --> 00:13:58,086
-Tot n-o să dormi mai mult de trei ore. Frank Gibbs, nu știu ce-o să se aleagă
+Tot n-o să dormi mai mult de trei ore.
+Frank Gibbs, nu știu ce-o să se aleagă
 
 109
 00:14:00,172 --> 00:14:03,172
-de tine. Tare-aș mai vrea să te poți duce undeva ca să te odihnești.
+de tine. Tare-aș mai vrea să te poți duce
+undeva ca să te odihnești.
 
 110
 00:14:05,258 --> 00:14:08,258
@@ -444,11 +578,14 @@ Emileee! Scularea! Walleee! E șapte!
 
 112
 00:14:15,431 --> 00:14:18,431
-A r trebui să stai de vorbă cu George. Se întâmplă ceva cu el în ultima vreme, nu mă mai ajută deloc.
+A
+r trebui să stai de vorbă cu George. Se întâmplă
+ceva cu el în ultima vreme, nu mă mai ajută deloc.
 
 113
 00:14:25,603 --> 00:14:28,603
-Nici măcar lemnele nu mai vrea să le taie.
+Nici măcar lemnele
+nu mai vrea să le taie.
 
 114
 00:14:30,689 --> 00:14:33,689
@@ -456,11 +593,13 @@ Nu te ascultă?
 
 115
 00:14:35,775 --> 00:14:38,775
-Nu. Nu se gândește decât la baseball...
+Nu. Nu se gândește
+decât la baseball...
 
 116
 00:14:45,947 --> 00:14:48,947
-George! Rebecca! Întârziați la școală.
+George! Rebecca!
+Întârziați la școală.
 
 117
 00:14:51,033 --> 00:14:54,033
@@ -468,11 +607,15 @@ George! George, mișcă-te mai repede!
 
 118
 00:14:56,119 --> 00:14:59,119
-– Da, tata! – N-auzi că te cheamă mama?
+–
+
+Da, tata!
+–
 
 119
 00:15:01,206 --> 00:15:04,206
-Walleeee! Spală-te bine , sau te spăl eu!
+Walleeee! Spală-te
+bine
 
 120
 00:15:06,292 --> 00:15:09,292
@@ -480,7 +623,8 @@ Eu mă duc să mă culc.
 
 121
 00:15:11,378 --> 00:15:14,378
-Hai, spălați-vă odată sau vin eu să vă spăl!
+Hai, spălați-vă odată
+sau vin eu să vă spăl!
 
 122
 00:15:16,464 --> 00:15:19,464
@@ -488,23 +632,34 @@ Mama! Ce rochie să-mi pun?
 
 123
 00:15:21,550 --> 00:15:24,550
-Nu țipa ! Tata a lucrat toată noaptea și acum trebuie să doarmă.
+Nu
+țipa
+! Tata a lucrat toată noaptea
+și acum trebuie să doarmă.
 
 124
 00:15:26,636 --> 00:15:29,636
-Ți-am spălat și ți-am călcat special rochia aia de bumbac.
+Ți-am spălat și ți-am călcat special
+rochia aia de bumbac.
 
 125
 00:15:31,722 --> 00:15:34,722
-– Mama, nu pot să sufăr rochia aia. – Ia mai taci din gură.
+–
+
+Mama, nu pot să sufăr rochia aia.
+–
 
 126
 00:15:36,808 --> 00:15:39,808
-În fiecare zi mă duc la școală îmbrăcată ca un curcan plouată.
+În fiecare zi mă duc la școală
+îmbrăcată ca
+un curcan
+plouată.
 
 127
 00:15:41,894 --> 00:15:44,894
-T u ești întotdeauna foarte drăguță.
+T
+u ești întotdeauna foarte drăguță.
 
 128
 00:15:46,981 --> 00:15:49,981
@@ -512,7 +667,8 @@ Mama, George mă murdărește cu săpun.
 
 129
 00:15:52,067 --> 00:15:55,067
-Vin imediat să vă plesnesc pe amândoi .
+Vin imediat să vă plesnesc pe amândoi
+.
 
 130
 00:15:57,153 --> 00:16:00,153
@@ -520,7 +676,8 @@ Avem și o fabrică în orașul nostru – auziți?
 
 131
 00:16:02,239 --> 00:16:05,239
-Se fac pături. Deținută de Cartwrights. Au făcut o avere bună din aceasta.
+Se fac pături. Deținută de Cartwrights.
+Au făcut o avere bună din aceasta.
 
 132
 00:16:12,411 --> 00:16:15,411
@@ -528,31 +685,41 @@ Copii! Așa nu merge!
 
 133
 00:16:22,583 --> 00:16:25,583
-Micul dejun este la fel de important ca prânzul sau cina. Nu vreau să vă văd înghițind ca niște lupi.
+Micul dejun este la fel de important ca prânzul sau cina.
+Nu vreau să vă văd înghițind ca niște lupi.
 
 134
 00:16:27,669 --> 00:16:30,669
-Cine mănâncă așa, nu crește... să știți. Las ă cartea aia, Wally.
+Cine mănâncă așa, nu crește...
+să știți.
+Las
+ă cartea
 
 135
 00:16:32,755 --> 00:16:35,755
-Păi, mama... Până la zece trebuie să știu totul despre Canada.
+Păi, mama... Până la zece trebuie
+să știu totul despre Canada.
 
 136
 00:16:37,842 --> 00:16:40,842
-Știi tot atât de bine ca și mine care-i regula... la masă nu se citește.
+Știi tot atât de bine ca și mine care-i
+regula... la masă nu se citește.
 
 137
 00:16:42,928 --> 00:16:45,928
-Eu prefer să am mai curând copii sănătoși, decât deștepți.
+Eu
+prefer să am mai
+curând copii sănătoși, decât deștepți.
 
 138
 00:16:48,014 --> 00:16:51,014
-Eu sunt și una, și alta. Știi bine, mama, că așa e.
+Eu sunt și una, și alta.
+Știi bine, mama, că așa e.
 
 139
 00:16:53,100 --> 00:16:56,100
-Sunt cea mai deșteaptă fată din școală. Am o memorie grozavă.
+Sunt cea mai deșteaptă fată din școală.
+Am o memorie grozavă.
 
 140
 00:16:58,186 --> 00:17:01,186
@@ -560,7 +727,8 @@ Mănâncă mai bine.
 
 141
 00:17:08,358 --> 00:17:11,358
-O să vorbesc cu tatăl tău, când se va scula. Douăzeci de cenți mi se pare că-i
+O să vorbesc cu tatăl tău, când se va scula.
+Douăzeci de cenți mi se pare că-i
 
 142
 00:17:13,444 --> 00:17:16,444
@@ -572,15 +740,18 @@ Nici nu știu cum poți să-i cheltuiești pe toți.
 
 144
 00:17:23,617 --> 00:17:26,617
-Păi, mama... am o mulțime de lucruri de cumpărat.
+Păi, mama... am o mulțime
+de lucruri de cumpărat.
 
 145
 00:17:28,703 --> 00:17:31,703
-Siropul de fragi – pe ăsta-i cheltuiești...
+Siropul de fragi –
+pe ăsta-i cheltuiești...
 
 146
 00:17:33,789 --> 00:17:36,789
-Nu înțeleg cum se face că Rebecca are atât de mulți bani. Mai mult de un dolar.
+Nu înțeleg cum se face că Rebecca
+are atât de mulți bani. Mai mult de un dolar.
 
 147
 00:17:38,875 --> 00:17:41,875
@@ -588,15 +759,18 @@ L-am strâns ban cu ban.
 
 148
 00:17:43,961 --> 00:17:46,961
-Uite ce-i, draga mea, cred totuși că, din când în când, ar fi bine să mai și cheltuiești din ei.
+Uite ce-i, draga mea, cred totuși că, din când în când,
+ar fi bine să mai și cheltuiești din ei.
 
 149
 00:17:49,047 --> 00:17:52,047
-Mama, știi la ce țin eu cel mai mult pe lumea asta... știi? La bani.
+Mama, știi la ce țin eu cel mai mult
+pe lumea asta... știi? La bani.
 
 150
 00:17:54,133 --> 00:17:57,133
-Mănâncă-ți micul dejun .
+Mănâncă-ți
+micul dejun
 
 151
 00:17:59,219 --> 00:18:02,219
@@ -604,11 +778,14 @@ A sunat clopoțelul. Trebuie să plec.
 
 152
 00:18:04,305 --> 00:18:07,305
-Grăbiți-vă, dar nu fugiți. Wally, trage-ți pantalonii la genunchi.
+Grăbiți-vă, dar nu fugiți.
+Wally, trage-ți pantalonii la genunchi.
 
 153
 00:18:09,392 --> 00:18:12,392
-Rebecca, s pune-i drei Foster că o felicit. Vei uita?
+Rebecca, s
+pune-i drei Foster că o felicit.
+Vei uita?
 
 154
 00:18:14,478 --> 00:18:17,478
@@ -616,23 +793,28 @@ Nu, mamă.
 
 155
 00:18:24,650 --> 00:18:27,650
-Rebecca, că ești chiar foarte drăguță. Hai, grăbește-te.
+Rebecca, că ești chiar
+foarte drăguță. Hai, grăbește-te.
 
 156
 00:18:34,822 --> 00:18:37,822
-Pui, pui, pui... Tu pleacă de-aici, hai, pleacă. Pui, pui, pui... Dar tu ce faci aici?
+Pui, pui, pui... Tu pleacă de-aici, hai,
+pleacă. Pui, pui, pui... Dar tu ce faci aici?
 
 157
 00:18:39,908 --> 00:18:42,908
-Te bați cu ceilalți, tot timpul. Aha... nu ești de-al meu. De unde vii?
+Te bați cu ceilalți, tot timpul.
+Aha... nu ești de-al meu. De unde vii?
 
 158
 00:18:50,080 --> 00:18:53,080
-Bună dimineața, Myrtle. Cum îți merge cu răceala?
+Bună dimineața, Myrtle.
+Cum îți merge cu răceala?
 
 159
 00:18:55,167 --> 00:18:58,167
-Mai bine, totuși mă mai gâdilă puțin în gât. I-am spus lui Charles că nu cred
+Mai bine, totuși mă mai gâdilă puțin
+în gât. I-am spus lui Charles că nu cred
 
 160
 00:19:00,253 --> 00:19:03,253
@@ -644,7 +826,8 @@ Ai încercat să cânți ceva mai sus ca de obicei?
 
 162
 00:19:10,425 --> 00:19:13,425
-Da, dar nu prea merge și o să rămân la vocea de jos. Și în loc să mă odihnesc,
+Da, dar nu prea merge și o să rămân
+la vocea de jos. Și în loc să mă odihnesc,
 
 163
 00:19:15,511 --> 00:19:18,511
@@ -652,19 +835,23 @@ m-am gândit să curăț fasolea asta.
 
 164
 00:19:20,597 --> 00:19:23,597
-Hai să te ajut. Anul ăsta fasolea a fost bună.
+Hai să te ajut.
+Anul ăsta fasolea a fost bună.
 
 165
 00:19:25,683 --> 00:19:28,683
-Am hotărât să pun în magazie vreo patruzeci de chile. Copiii zic că nu o suportă,
+Am hotărât să pun în magazie vreo
+patruzeci de chile. Copiii zic că nu o suportă,
 
 166
 00:19:30,769 --> 00:19:33,769
-dar am observat că o mănâncă totuși toată iarna.
+dar am observat că o mănâncă
+totuși toată iarna.
 
 167
 00:19:35,855 --> 00:19:38,855
-Știi, Myrtle. Trebuie să-ți spun ceva; simt că plesnesc, dacă nu-ți spun.
+Știi, Myrtle. Trebuie să-ți spun ceva;
+simt că plesnesc, dacă nu-ți spun.
 
 168
 00:19:40,942 --> 00:19:43,942
@@ -672,11 +859,13 @@ Dar ce s-a întâmplat, Julia Gibbs?
 
 169
 00:19:46,028 --> 00:19:49,028
-Spune-mi, Myrtle, vinerea trecută n-a fost pe la tine nici unul din achizitorii
+Spune-mi, Myrtle, vinerea trecută n-a fost
+pe la tine nici unul din achizitorii
 
 170
 00:19:51,114 --> 00:19:54,114
-aceia din Boston de mobilă de ocazie?
+aceia din Boston de mobilă
+de ocazie?
 
 171
 00:19:56,200 --> 00:19:59,200
@@ -684,15 +873,18 @@ Nuu!
 
 172
 00:20:01,286 --> 00:20:04,286
-Ei bine, la mine a fost. Întâi am crezut că e un pacient care vrea
+Ei bine, la mine a fost. Întâi am crezut
+că e un pacient care vrea
 
 173
 00:20:06,372 --> 00:20:09,372
-să-l vadă pe Doctorul Gibbs. Și așa a ajuns până în salon și,
+să-l vadă pe Doctorul Gibbs.
+Și așa a ajuns până în salon și,
 
 174
 00:20:11,458 --> 00:20:14,458
-cum te văd și cum mă vezi, mi-a oferit 350 de dolari pentru scrinul acela al bunicii Wentworth!
+cum te văd și cum mă vezi, mi-a oferit 350 de dolari
+pentru scrinul acela al bunicii Wentworth!
 
 175
 00:20:16,544 --> 00:20:19,544
@@ -700,23 +892,31 @@ Nu mai spune, Julia Gibbs!
 
 176
 00:20:21,630 --> 00:20:24,630
-Da, da. Pe vechitura aia! Era atât de mare și scârbos încât nu știam unde să-l pun
+Da, da. Pe vechitura aia! Era atât de mare
+și scârbos încât nu știam unde să-l pun
 
 177
 00:20:26,717 --> 00:20:29,717
-și aproape că i-am dat nepoatei mele, Hester Wilcox.
+și aproape că i-am dat nepoatei mele,
+Hester Wilcox.
 
 178
 00:20:31,803 --> 00:20:34,803
-– Și îl vinzi? – Știu și eu...
+–
+
+Și îl vinzi?
+–
 
 179
 00:20:36,889 --> 00:20:39,889
-Cum știu și eu...? Trei sute cincizeci de dolari? Ce ți-a venit?
+Cum știu și eu...? Trei sute cincizeci
+de dolari? Ce ți-a venit?
 
 180
 00:20:41,975 --> 00:20:44,975
-D acă aș putea să-l fac pe doctor să ia banii și să plece undeva într-o călătorie,
+D
+acă aș putea să-l fac pe doctor
+să ia banii și să plece undeva într-o călătorie,
 
 181
 00:20:47,061 --> 00:20:50,061
@@ -724,11 +924,13 @@ l-aș vinde cât ai zice peste.
 
 182
 00:20:52,147 --> 00:20:55,147
-Știi, Myrtle, visul vieții mele a fost să văd Parisul, Franța.
+Știi, Myrtle, visul vieții mele a fost să văd
+Parisul, Franța.
 
 183
 00:20:57,233 --> 00:21:00,233
-Mi-am promis de ani de zile că dacă vom avea vreodată ocazia…
+Mi-am promis de ani de zile că dacă
+vom avea vreodată ocazia…
 
 184
 00:21:02,319 --> 00:21:05,319
@@ -736,11 +938,13 @@ Mi-am promis de ani de zile că dacă vom avea vreodată ocazia…
 
 185
 00:21:07,405 --> 00:21:10,405
-Știi, i-am cam vorbit eu, așa, mai pe ocolite, și i-am spus că dacă aș câștiga
+Știi, i-am cam vorbit eu, așa, mai
+pe ocolite, și i-am spus că dacă aș câștiga
 
 186
 00:21:12,492 --> 00:21:15,492
-o moștenire – așa i-am spus – l-aș obliga să plecăm undeva.
+o moștenire – așa i-am spus –
+l-aș obliga să plecăm undeva.
 
 187
 00:21:17,578 --> 00:21:20,578
@@ -748,51 +952,65 @@ Mdaaa. Și ce-a zis?
 
 188
 00:21:22,664 --> 00:21:25,664
-Îl știi cum e. De când îl cunosc nu l-am auzit o dată vorbind serios.
+Îl știi cum e. De când îl cunosc
+nu l-am auzit o dată vorbind serios.
 
 189
 00:21:27,750 --> 00:21:30,750
-Nu, zicea el, dacă ar hoinări prin Europa după aia ar putea să fie nemulțumit
+Nu, zicea el, dacă ar hoinări prin
+Europa după aia ar putea să fie nemulțumit
 
 190
 00:21:32,836 --> 00:21:35,836
-că stă în Grover’s Corners; mai bine s-o lăsăm baltă, spunea el.
+că stă în Grover’s Corners;
+mai bine s-o lăsăm baltă, spunea el.
 
 191
 00:21:37,922 --> 00:21:40,922
-O dată la doi ani se duce să vadă locurile unde au fost luptele în Războiul Civil,
+O dată la doi ani se duce să vadă locurile
+unde au fost luptele în Războiul Civil,
 
 192
 00:21:43,008 --> 00:21:46,008
-și asta-i de-ajuns dacă-i vorba să te distrezi, zice el.
+și asta-i de-ajuns dacă-i vorba
+să te distrezi, zice el.
 
 193
 00:21:48,094 --> 00:21:51,094
-Mr. Webb admiră cât de multe știe D octorul Gibbs despre Războiul Civil.
+Mr. Webb
+admiră cât de multe
+știe
+D
 
 194
 00:21:53,180 --> 00:21:56,180
-Ar vrea să pună punct pe Napoleon și să treacă la Războiul Civil – fără speranță –,
+Ar vrea să pună punct pe Napoleon
+și să treacă la Războiul Civil – fără speranță –,
 
 195
 00:21:58,267 --> 00:22:01,267
-pentru că Dr. Gibbs este de departe cel mai mare expert în acest domeniu.
+pentru că Dr. Gibbs este de departe
+cel mai mare expert în acest domeniu.
 
 196
 00:22:03,353 --> 00:22:06,353
-Adevărat. Soțul meu atunci este cel mai fericit când este la Gettysburg.
+Adevărat. Soțul meu atunci este cel
+mai fericit când este la Gettysburg.
 
 197
 00:22:08,439 --> 00:22:11,439
-De câte ori n-am umblat pe dealurile acelea, Myrtle, oprindu-ne lângă fiecare
+De câte ori n-am umblat pe dealurile
+acelea, Myrtle, oprindu-ne lângă fiecare
 
 198
 00:22:13,525 --> 00:22:16,525
-pală de copaci, de parcă am fi vrut să le cumpărăm.
+pală de copaci, de parcă am fi vrut
+să le cumpărăm.
 
 199
 00:22:23,697 --> 00:22:26,697
-Știi, dacă achizitorul ăla e chiar un om serios, eu ți-aș zice, Julia, să-l vinzi.
+Știi, dacă achizitorul ăla e chiar un om
+serios, eu ți-aș zice, Julia, să-l vinzi.
 
 200
 00:22:28,783 --> 00:22:31,783
@@ -804,15 +1022,18 @@ Numai fă-i aluzie soțului tău din când în când.
 
 202
 00:22:38,955 --> 00:22:41,955
-Uite, eu așa am ajuns pe coasta Atlanticului.
+Uite, eu
+așa am
 
 203
 00:22:44,042 --> 00:22:47,042
-Iartă-mă că ți-am vorbit despre asta. Numai că, așa cred eu, o dată în viață
+Iartă-mă că ți-am vorbit despre asta.
+Numai că, așa cred eu, o dată în viață
 
 204
 00:22:49,128 --> 00:22:52,128
-până nu mori, trebuie să te duci și într-o țară unde oamenii nu vorbesc
+până nu mori, trebuie să te duci
+și într-o țară unde oamenii nu vorbesc
 
 205
 00:22:54,214 --> 00:22:57,214
@@ -824,107 +1045,135 @@ Doamnelor, vă mulțumesc.
 
 207
 00:23:04,386 --> 00:23:07,386
-Mulțumesc. Și-acum să trecem peste câteva ore.
+Mulțumesc.
+Și-acum să trecem peste câteva ore.
 
 208
 00:23:09,472 --> 00:23:12,472
-Dar mai întâi ar fi nevoie să mai capătăm o serie de informații despre oraș;
+Dar mai întâi ar fi nevoie să mai capătăm
+o serie de informații despre oraș;
 
 209
 00:23:14,558 --> 00:23:17,558
-l-am rugat de aceea pe profesorul Willard, de la școala din orașul nostru,
+l-am rugat de aceea pe profesorul Willard,
+de la școala din orașul nostru,
 
 210
 00:23:19,644 --> 00:23:22,644
-să ne schițeze în câteva cuvinte istoria acestor locuri. Profesor Willard?
+să ne schițeze în câteva cuvinte istoria
+acestor locuri. Profesor Willard?
 
 211
 00:23:29,817 --> 00:23:32,817
-Dați-mi voie să vi-l prezint pe profesorul Willard...
+Dați-mi voie să vi-l prezint
+pe profesorul Willard...
 
 212
 00:23:39,989 --> 00:23:42,989
-Domnule profesor, din păcate timpul nostru este limitat.
+Domnule profesor, din păcate
+timpul nostru este limitat.
 
 213
 00:23:45,075 --> 00:23:48,075
-Așa... Grover’s Corners... mda... Grover’s Corners este așezat
+Așa... Grover’s Corners... mda...
+Grover’s Corners este așezat
 
 214
 00:23:50,161 --> 00:23:53,161
-pe un strat de granit originar din Pleistocenul primar, provenit din lanțul Munților Appalachi.
+pe un strat de granit originar din Pleistocenul
+primar, provenit din lanțul Munților Appalachi.
 
 215
 00:23:55,247 --> 00:23:58,247
-Aș putea spune că e unul din cele mai vechi soluri din lume.
+Aș putea spune că e unul
+din cele mai vechi soluri din lume.
 
 216
 00:24:00,333 --> 00:24:03,333
-Suntem foarte mândri de asta. Un strat de bazalt devonian îl străbate,
+Suntem foarte mândri de asta.
+Un strat de bazalt devonian îl străbate,
 
 217
 00:24:05,419 --> 00:24:08,419
-cu urme de șisturi mezozoice și rămășițe de gresie;
+cu urme de șisturi mezozoice
+și rămășițe de gresie;
 
 218
 00:24:10,505 --> 00:24:13,505
-dar toate acestea sunt de dată mai recentă: două, trei sute de milioane de ani.
+dar toate acestea sunt de dată mai recentă:
+două, trei sute de milioane de ani.
 
 219
 00:24:20,678 --> 00:24:23,678
-S-au găsit și fosile deosebit de interesante... aș putea spune...
+S-au găsit și fosile deosebit
+de interesante... aș putea spune...
 
 220
 00:24:25,764 --> 00:24:28,764
-fosile unice... la două mile de oraș, în pășunea din Silas Peckham.
+fosile unice... la două mile de oraș,
+în pășunea din Silas Peckham.
 
 221
 00:24:30,850 --> 00:24:33,850
-Le puteți vedea la muzeul orașului nostru oricând – adică oricând e deschis.
+Le puteți vedea la muzeul orașului
+nostru oricând – adică oricând e deschis.
 
 222
 00:24:35,936 --> 00:24:38,936
-Aș putea să vă citesc câteva din aprecierile profesorului Gruber
+Aș putea să vă citesc câteva
+din aprecierile profesorului Gruber
 
 223
 00:24:41,022 --> 00:24:44,022
-cu privire la situația meteorologică – precipitații ușoare...
+cu privire la situația meteorologică –
+precipitații ușoare...
 
 224
 00:24:46,108 --> 00:24:49,108
-Îmi pare rău, domnule profesor, dar nu cred că avem timp pentru asta.
+Îmi pare rău, domnule profesor,
+dar nu cred că avem timp pentru asta.
 
 225
 00:24:51,194 --> 00:24:54,194
-Am putea asculta însă câteva cuvinte despre istoria oamenilor de aici.
+Am putea asculta însă câteva cuvinte
+despre istoria oamenilor de aici.
 
 226
 00:24:56,280 --> 00:24:59,280
-– Da... date cu caracter antropologic: – Da...
+–
+
+Da... date cu caracter antropologic:
+–
 
 227
 00:25:01,367 --> 00:25:04,367
-...ascendența veche americano-indiană. Triburile Cotahatchee...
+...ascendența veche americano-indiană.
+Triburile Cotahatchee...
 
 228
 00:25:06,453 --> 00:25:09,453
-nici o mărturie asupra existenței lor înainte de secolul al zecelea al erei noastre...
+nici o mărturie asupra existenței lor
+înainte de secolul al zecelea al erei noastre...
 
 229
 00:25:11,539 --> 00:25:14,539
-dispărute acum cu totul... urme posibile în trei dintre familiile de aici.
+dispărute acum cu totul...
+urme posibile în trei dintre familiile de aici.
 
 230
 00:25:16,625 --> 00:25:19,625
-Către secolul al șaptesprezecelea migrație de ascendenți englezi,
+Către secolul al șaptesprezecelea
+migrație de ascendenți englezi,
 
 231
 00:25:21,711 --> 00:25:24,711
-brahicefali, cu ochi albaștri... în cea mai mare parte.
+brahicefali, cu ochi albaștri...
+în cea mai mare parte.
 
 232
 00:25:26,797 --> 00:25:29,797
-De atunci ceva ascendenți slavi și mediteraneeni...
+De atunci ceva ascendenți slavi
+și mediteraneeni...
 
 233
 00:25:31,883 --> 00:25:34,883
@@ -932,11 +1181,15 @@ De atunci ceva ascendenți slavi și mediteraneeni...
 
 234
 00:25:36,969 --> 00:25:39,969
-– A orașului? 2640 de oameni. – S-au născut gemenii , domnule profesor.
+–
+
+A orașului? 2640 de oameni.
+–
 
 235
 00:25:42,055 --> 00:25:45,055
-Da, așa? Populația orașului numără în clipa de față 2642 locuitori.
+Da, așa? Populația orașului numără
+în clipa de față 2642 locuitori.
 
 236
 00:25:47,142 --> 00:25:50,142
@@ -944,15 +1197,18 @@ Districtul poștal include încă 507 suflete,
 
 237
 00:25:52,228 --> 00:25:55,228
-astfel încât numărul total de suflete este de 3149.
+astfel încât numărul total de suflete
+este de 3149.
 
 238
 00:25:57,314 --> 00:26:00,314
-Coeficientul letalității și al natalității, după scara lui McPherson... 6.032.
+Coeficientul letalității și al natalității,
+după scara lui McPherson... 6.032.
 
 239
 00:26:02,400 --> 00:26:05,400
-Vă mulțumesc foarte mult, domnule profesor.
+Vă mulțumesc foarte mult,
+domnule profesor.
 
 240
 00:26:07,486 --> 00:26:10,486
@@ -960,11 +1216,16 @@ Vă suntem profund îndatorați, puteți fi sigur.
 
 241
 00:26:12,572 --> 00:26:15,572
-– Când s-au născut gemenii? – Astăzi, în zori.
+–
+Când s-au născut gemenii?
+
+– Astăzi, în zori.
 
 242
 00:26:17,658 --> 00:26:20,658
-Și-acum, situația politică și socială: redactorul Webb.
+Și-acum, situația politică și socială:
+redactorul
+Webb.
 
 243
 00:26:27,830 --> 00:26:30,830
@@ -972,23 +1233,32 @@ A, domnul Webb?
 
 244
 00:26:38,003 --> 00:26:41,003
-Vine într-o clipă... S-a tăiat la mână curățând un măr.
+Vine într-o clipă...
+S-a tăiat la mână curățând un măr.
 
 245
 00:26:43,089 --> 00:26:46,089
-Mul țumim, doamnaWebb.
+Mul
+țumim, doamnaWebb.
 
 246
 00:26:48,175 --> 00:26:51,175
-Dl Webb este redactorul-șef al ziarului din Grover’s Corners, Sentinela , Ziarul nostru local.
+Dl Webb este redactorul-șef al ziarului
+din Grover’s Corners, Sentinela
+,
+Ziarul nostru local.
 
 247
 00:26:58,347 --> 00:27:01,347
-Charles, toat ă lumea te așteaptă!
+Charles, toat
+ă lumea te așteaptă!
 
 248
 00:27:03,433 --> 00:27:06,433
-Așa... O rașul nostru e administrat de un Consiliu Municipal.
+Așa...
+O
+rașul nostru e administrat
+de un Consiliu Municipal.
 
 249
 00:27:08,519 --> 00:27:11,519
@@ -1000,23 +1270,28 @@ Femeile — indirect.
 
 251
 00:27:18,692 --> 00:27:21,692
-Populația e compusă în general din mica burghezie... ceva liberi profesioniști...
+Populația e compusă în general
+din mica burghezie... ceva liberi profesioniști...
 
 252
 00:27:23,778 --> 00:27:26,778
-și 10% de muncitori necalificați, analfabeți.
+și 10% de muncitori necalificați,
+analfabeți.
 
 253
 00:27:28,864 --> 00:27:31,864
-Din punct de vedere politic, 86% republicani,
+Din punct de vedere politic,
+86% republicani,
 
 254
 00:27:33,950 --> 00:27:36,950
-6% democrați, 4% socialiști, ceilalți indiferenți.
+6% democrați, 4% socialiști,
+ceilalți indiferenți.
 
 255
 00:27:39,036 --> 00:27:42,036
-Din punct de vedere religios: 85% protestanți, 12% catolici,
+Din punct de vedere religios:
+85% protestanți, 12% catolici,
 
 256
 00:27:44,122 --> 00:27:47,122
@@ -1024,27 +1299,33 @@ restul indiferenți.
 
 257
 00:27:49,208 --> 00:27:52,208
-Mai doriți să adăugați ceva, domnule Webb?
+Mai doriți să adăugați ceva,
+domnule Webb?
 
 258
 00:27:54,294 --> 00:27:57,294
-Ce părere aveți despre orașul nostru, Grover’s Corners, Mr. Webb?
+Ce părere aveți despre orașul nostru,
+Grover’s Corners, Mr. Webb?
 
 259
 00:27:59,380 --> 00:28:02,380
-Dacă mă întrebați, pot să vă spun că suntem un oraș foarte obișnuit.
+Dacă mă întrebați, pot să vă spun
+că suntem un oraș foarte obișnuit.
 
 260
 00:28:04,467 --> 00:28:07,467
-Cu oameni poate ceva mai cumsecade decât în multe alte orașe.
+Cu oameni poate ceva mai cumsecade
+decât în multe alte orașe.
 
 261
 00:28:09,553 --> 00:28:12,553
-Probabil însă cu mult mai plictisitor. Dar tinerilor noștri pare să le placă orașul de-ajuns de mult.
+Probabil însă cu mult mai plictisitor. Dar tinerilor noștri
+pare să le placă orașul de-ajuns de mult.
 
 262
 00:28:14,639 --> 00:28:17,639
-După absolvirea liceului, 90% din ei rămân și se stabilesc aici —
+După absolvirea liceului, 90% din ei
+rămân și se stabilesc aici —
 
 263
 00:28:19,725 --> 00:28:22,725
@@ -1052,7 +1333,10 @@ chiar dacă au fost plecați pe la facultăți.
 
 264
 00:28:24,811 --> 00:28:27,811
-Avem c âteva întrebări d e la public. Rândul 3, scaunul 4.
+Avem c
+âteva întrebări d
+e la
+public.
 
 265
 00:28:29,897 --> 00:28:32,897
@@ -1060,15 +1344,18 @@ Se bea mult în Grover’s Corners?
 
 266
 00:28:34,983 --> 00:28:37,983
-Cum să vă spun, nu știu ce numiți dumneavoastră mult.
+Cum să vă spun, nu știu ce numiți
+dumneavoastră mult.
 
 267
 00:28:40,069 --> 00:28:43,069
-Sâmbăta seara, muncitorii agricoli se adună în hambarul lui Ellery Greenough și fac gălăgie.
+Sâmbăta seara, muncitorii agricoli se adună
+în hambarul lui Ellery Greenough și fac gălăgie.
 
 268
 00:28:45,155 --> 00:28:48,155
-Avem un bețiv sau vreo doi, dar de fiecare dată când vine în oraș
+Avem un bețiv sau vreo doi,
+dar de fiecare dată când vine în oraș
 
 269
 00:28:50,242 --> 00:28:53,242
@@ -1076,7 +1363,8 @@ vreun predicator îi apucă remușcările.
 
 270
 00:28:55,328 --> 00:28:58,328
-Nu, aș spune că alcoolul nu-i un lucru obișnuit prin casele de pe-aici,
+Nu, aș spune că alcoolul
+nu-i un lucru obișnuit prin casele de pe-aici,
 
 271
 00:29:00,414 --> 00:29:03,414
@@ -1088,7 +1376,8 @@ decât ca medicament împotriva răcelii.
 
 273
 00:29:10,586 --> 00:29:13,586
-Întrebarea următoare se referă la problemele sociale și la nedreptatea socială.
+Întrebarea următoare se referă la problemele sociale
+și la nedreptatea socială.
 
 274
 00:29:15,672 --> 00:29:18,672
@@ -1096,23 +1385,29 @@ De ce nu face nimeni nimic în privința asta?
 
 275
 00:29:20,758 --> 00:29:23,758
-T oată lumea e... e ceva teribil. S-ar zice că-și petrec cea mai mare parte
+T
+oată lumea e... e ceva teribil.
+S-ar zice că-și petrec cea mai mare parte
 
 276
 00:29:25,844 --> 00:29:28,844
-din vreme vorbind despre cine-i bogat și cine-i sărac.
+din vreme vorbind despre
+cine-i bogat și cine-i sărac.
 
 277
 00:29:30,930 --> 00:29:33,930
-Păi... știu și eu... Presupun că, asemeni fiecăruia dintre noi, căutăm cu toții
+Păi... știu și eu... Presupun că, asemeni
+fiecăruia dintre noi, căutăm cu toții
 
 278
 00:29:36,017 --> 00:29:39,017
-o cale ca oamenii harnici și inteligenți să se poată ridica la suprafață,
+o cale ca oamenii harnici și inteligenți
+să se poată ridica la suprafață,
 
 279
 00:29:41,103 --> 00:29:44,103
-iar cei leneși și certăreți să se ducă la fund.
+iar cei leneși și certăreți
+să se ducă la fund.
 
 280
 00:29:46,189 --> 00:29:49,189
@@ -1120,51 +1415,68 @@ Dar nu-i atât de ușor de găsit.
 
 281
 00:29:51,275 --> 00:29:54,275
-Până atunci, facem tot ce putem pentru a-i ajuta pe cei care nu-s în stare să se ajute
+Până atunci, facem tot ce putem pentru
+a-i ajuta pe cei care nu-s în stare să se ajute
 
 282
 00:29:56,361 --> 00:29:59,361
-singuri, iar pe cei care sunt în stare îi lăsăm în pace. Mai sunt alte întrebări?
+singuri, iar pe cei care sunt în stare
+îi lăsăm în pace. Mai sunt alte întrebări?
 
 283
 00:30:01,447 --> 00:30:04,447
-Mai avem timp pentru o întrebare. Rândul 4 , scaunul 3.
+Mai avem timp pentru o întrebare.
+Rândul
+4
+, scaunul 3.
 
 284
 00:30:06,533 --> 00:30:09,533
-P reocupări culturale sau estetice există în Grover’s Corners?
+P
+reocupări culturale sau estetice
+există în Grover’s Corners?
 
 285
 00:30:11,619 --> 00:30:14,619
-Cum să vă spun... în sensul în care vorbiți, nu prea există. Să vedeți, sunt câteva fete
+Cum să vă spun... în sensul în care vorbiți,
+nu prea există. Să vedeți, sunt câteva fete
 
 286
 00:30:16,705 --> 00:30:19,705
-la liceu care cântă la pian, dar nu le prea face nici o plăcere.
+la liceu care cântă la pian,
+dar nu le prea face nici o plăcere.
 
 287
 00:30:21,791 --> 00:30:24,791
-Nu, nu prea există preocupări culturale, dar aici ne place să privim dimineața soarele
+Nu, nu prea există preocupări culturale,
+dar aici ne place să privim dimineața soarele
 
 288
 00:30:26,878 --> 00:30:29,878
-ridicându-se peste creasta munților, și tuturor ne sunt tare dragi păsările.
+ridicându-se peste creasta munților,
+și tuturor ne sunt tare dragi păsările.
 
 289
 00:30:31,964 --> 00:30:34,964
-Și ne place să observăm cum se schimbă anotimpurile,
+Și ne place să observăm cum
+se schimbă anotimpurile,
 
 290
 00:30:37,050 --> 00:30:40,050
-da, toată lumea știe foarte multe despre treaba asta. Dar toate acestea —
+da, toată lumea știe foarte multe despre
+treaba asta. Dar toate acestea —
 
 291
 00:30:42,136 --> 00:30:45,136
-aveți dreptate, doamnă — nu înseamnă mare lucru. Robinson Crusoe și Biblia,
+aveți dreptate, doamnă — nu înseamnă
+mare lucru. Robinson Crusoe și Biblia,
 
 292
 00:30:47,222 --> 00:30:50,222
-și Largo-ul lui Händel , cunoaștem și aceste lucruri, și Mama lui Whistler...
+și Largo-ul lui
+Händel
+, cunoaștem
+și aceste lucruri, și Mama lui Whistler...
 
 293
 00:30:52,308 --> 00:30:55,308
@@ -1176,11 +1488,13 @@ dar cam până aici mergem.
 
 295
 00:31:02,480 --> 00:31:05,480
-E ora doi .
+E
+ora doi
 
 296
 00:31:07,566 --> 00:31:10,566
-Toți cei 2642 de locuitori și-au luat masa și toate farfuriile au fost spălate.
+Toți cei 2642 de locuitori și-au luat masa
+și toate farfuriile au fost spălate.
 
 297
 00:31:12,653 --> 00:31:15,653
@@ -1188,19 +1502,23 @@ Copiii s-au întors la școală.
 
 298
 00:31:22,825 --> 00:31:25,825
-Doctorul Gibbs e în cabinetul lui, palpându-și pacienții și le spune să zică „a”.
+Doctorul Gibbs e în cabinetul lui,
+palpându-și pacienții și le spune să zică „a”.
 
 299
 00:31:27,911 --> 00:31:30,911
-Domnul Webb tunde gazonul pe pajiștea din fața casei;
+Domnul Webb tunde gazonul
+pe pajiștea din fața casei;
 
 300
 00:31:32,997 --> 00:31:35,997
-un om din zece crede că e ceva să tunzi gazonul cu mașina ta proprie.
+un om din zece crede că e ceva
+să tunzi gazonul cu mașina ta proprie.
 
 301
 00:31:43,169 --> 00:31:46,169
-Nu se poate, Louis. Trebuie să merg acasă, ca s-o ajut pe mama.
+Nu se poate, Louis. Trebuie să merg
+acasă, ca s-o ajut pe mama.
 
 302
 00:31:48,255 --> 00:31:51,255
@@ -1208,27 +1526,35 @@ I-am promis.
 
 303
 00:31:53,341 --> 00:31:56,341
-Emily, mergi ca lumea. Dumnezeule!
+Emily, mergi ca lumea.
+Dumnezeule!
 
 304
 00:31:58,428 --> 00:32:01,428
-Ești groaznic, tată. Într-un minut îmi spui să stau drept,
+Ești groaznic, tată. Într-un minut
+îmi spui să stau drept,
 
 305
 00:32:03,514 --> 00:32:06,514
-apoi mă critici pentru orice. Nici nu te mai ascult.
+apoi mă critici pentru orice.
+Nici nu te mai ascult.
 
 306
 00:32:08,600 --> 00:32:11,600
-Niciodată nu am primit un sărut a tât de moale.
+Niciodată nu am primit un sărut
+a
 
 307
 00:32:13,686 --> 00:32:16,686
-Mă iertați, doamna Forrest .
+Mă iertați, doamna
+Forrest
 
 308
 00:32:18,772 --> 00:32:21,772
-Du-te și te joacă pe teren, tinere. Strada Principal ă nu-i loc de joacă.
+Du-te și te joacă pe teren, tinere.
+Strada
+Principal
+ă
 
 309
 00:32:23,858 --> 00:32:26,858
@@ -1248,11 +1574,13 @@ Grozav ai vorbit azi la școală.
 
 313
 00:32:44,203 --> 00:32:47,203
-Mda... Chiar eram pregătită să țin o cuvântare despre Doctrina Monroe,
+Mda... Chiar eram pregătită să țin
+o cuvântare despre Doctrina Monroe,
 
 314
 00:32:49,289 --> 00:32:52,289
-dar în ultima clipă domnișoara Corcoran m-a pus să vorbesc
+dar în ultima clipă domnișoara Corcoran
+m-a pus să vorbesc
 
 315
 00:32:54,375 --> 00:32:57,375
@@ -1264,11 +1592,13 @@ Am lucrat multă vreme la amândouă subiectele.
 
 317
 00:33:04,547 --> 00:33:07,547
-Știi, Emily, e ciudat. De la fereastra mea, de sus, de acolo, îți văd capul
+Știi, Emily, e ciudat. De la fereastra mea,
+de sus, de acolo, îți văd capul
 
 318
 00:33:09,633 --> 00:33:12,633
-când îți faci seara lecțiile în camera ta.
+când îți faci seara lecțiile
+în camera ta.
 
 319
 00:33:14,719 --> 00:33:17,719
@@ -1276,7 +1606,8 @@ Da, mă vezi?
 
 320
 00:33:19,805 --> 00:33:22,805
-Da, știu că tocești, Emily. Nu știu cum poți să stai atâta vreme locului.
+Da, știu că tocești, Emily.
+Nu știu cum poți să stai atâta vreme locului.
 
 321
 00:33:24,891 --> 00:33:27,891
@@ -1284,7 +1615,8 @@ Mi se pare că-ți place să înveți.
 
 322
 00:33:29,978 --> 00:33:32,978
-Știi, întotdeauna am sentimentul că trebuie să duc lucrurile astea până la capăt.
+Știi, întotdeauna am sentimentul că trebuie
+să duc lucrurile astea până la capăt.
 
 323
 00:33:35,064 --> 00:33:38,064
@@ -1292,7 +1624,10 @@ Mda.
 
 324
 00:33:40,150 --> 00:33:43,150
-N ici nu-i așa de rău . În școală vremea trece mai repede.
+N
+ici nu-i așa de rău
+.
+În școală
 
 325
 00:33:45,236 --> 00:33:48,236
@@ -1300,7 +1635,8 @@ Mda.
 
 326
 00:33:55,408 --> 00:33:58,408
-Emily, ce crezi tu? N-am putea aranja un sistem de semnalizare
+Emily, ce crezi tu?
+N-am putea aranja un sistem de semnalizare
 
 327
 00:34:00,494 --> 00:34:03,494
@@ -1308,19 +1644,25 @@ de la o fereastră la alta?
 
 328
 00:34:05,580 --> 00:34:08,580
-Și din când în când, mi-ai putea da o mână de ajutor la problemele de algebră.
+Și din când în când, mi-ai putea da o mână
+de ajutor la problemele de algebră.
 
 329
 00:34:10,666 --> 00:34:13,666
-Nu-i vorba de rezultate, Emily, numai așa, câte un sfat...
+Nu-i vorba de rezultate,
+Emily,
+numai așa, câte un sfat...
 
 330
 00:34:15,753 --> 00:34:18,753
-A, cred că dacă-i vorba de sfaturi, asta se poate... Așa că...
+A, cred că dacă-i vorba de sfaturi,
+asta se poate... Așa că...
 
 331
 00:34:20,839 --> 00:34:23,839
-Dacă te încurci cumva, mă fluieri și atunci îți dau sfatul de care ai nevoie.
+Dacă te încurci cumva, mă fluieri și atunci
+îți
+dau sfatul de care ai nevoie.
 
 332
 00:34:31,011 --> 00:34:34,011
@@ -1332,15 +1674,18 @@ Eu cred că oamenii se nasc așa.
 
 334
 00:34:41,183 --> 00:34:44,183
-Ei bine… Eu, de exemplu, aș vrea să devin fermier, iar unchiul Luke zice că,
+Ei bine… Eu, de exemplu, aș vrea să devin
+fermier, iar unchiul Luke zice că,
 
 335
 00:34:46,269 --> 00:34:49,269
-după ce termin școala, pot merge să lucrez la ferma lui,
+după ce termin școala, pot merge
+să lucrez la ferma lui,
 
 336
 00:34:51,355 --> 00:34:54,355
-și dacă muncesc bine, treptat o pot prelua.
+și dacă muncesc bine,
+treptat o pot prelua.
 
 337
 00:34:56,441 --> 00:34:59,441
@@ -1348,31 +1693,42 @@ Adică vrei să spui și casa, și tot ce e acolo?
 
 338
 00:35:01,528 --> 00:35:04,528
-Mda. Asta e … și acum o să mă duc la terenul de baseball.
+Mda. Asta e
+…
+și acum
+o să mă duc la terenul de baseball.
 
 339
 00:35:06,614 --> 00:35:09,614
-Îți mulțumesc, Emily... Bună ziua, dna Webb.
+Îți mulțumesc, Emily...
+Bună ziua, dna Webb.
 
 340
 00:35:11,700 --> 00:35:14,700
-– Bună ziua, George. – La revedere, Emily.
+–
+
+Bună ziua, George.
+–
 
 341
 00:35:16,786 --> 00:35:19,786
-La revedere, George !
+La revedere, George
+!
 
 342
 00:35:32,044 --> 00:35:35,044
-Emily, vino și ajută-mă să curăț fasolea asta.
+Emily, vino și ajută-mă să curăț
+fasolea asta.
 
 343
 00:35:37,130 --> 00:35:40,130
-George Gibbs s-a hotărât și el o dată să vorbească?
+George Gibbs s-a hotărât
+și el o dată să vorbească?
 
 344
 00:35:42,216 --> 00:35:45,216
-Mda, crește. Câți ani o fi având George?
+Mda, crește.
+Câți ani o fi având George?
 
 345
 00:35:47,303 --> 00:35:50,303
@@ -1380,31 +1736,38 @@ Nu știu.
 
 346
 00:35:52,389 --> 00:35:55,389
-Ia să vedem. Trebuie să aibă vreo șa i sprezece ani. Cel mult șaptesprezece.
+Ia să vedem. Trebuie să aibă vreo șa
+i
+sprezece ani.
 
 347
 00:35:57,475 --> 00:36:00,475
-Mamă, am ținut azi la școală o cuvântare și am fost grozavă.
+Mamă, am ținut azi la școală
+o cuvântare și am fost grozavă.
 
 348
 00:36:02,561 --> 00:36:05,561
-Atunci să i-o repeți și tatălui tău la cină. Despre ce ai vorbit?
+Atunci să i-o repeți și tatălui tău
+la cină. Despre ce ai vorbit?
 
 349
 00:36:07,647 --> 00:36:10,647
-Despre Cumpărarea Louisianei. Toată viața de acum înainte
+Despre Cumpărarea Louisianei.
+Toată viața de acum înainte
 
 350
 00:36:12,733 --> 00:36:15,733
-o să țin discursuri. Mamă, e bine așa?
+o să țin discursuri.
+Mamă, e bine așa?
 
 351
 00:36:17,819 --> 00:36:20,819
-Încearcă în bucăți mai mari .
+Încearcă
 
 352
 00:36:22,905 --> 00:36:25,905
-Mamă, îmi răspunzi la o întrebare? Dar nu în glumă.
+Mamă, îmi răspunzi la o întrebare?
+Dar nu în glumă.
 
 353
 00:36:27,991 --> 00:36:30,991
@@ -1412,7 +1775,10 @@ Serios, nu în glumă...
 
 354
 00:36:33,078 --> 00:36:36,078
-– Serios... vrei? – Desigur că vreau.
+–
+
+Serios... vrei?
+–
 
 355
 00:36:43,250 --> 00:36:46,250
@@ -1420,15 +1786,18 @@ Mamă, sunt drăguță?
 
 356
 00:36:48,336 --> 00:36:51,336
-Da, desigur că ești. Toți copiii mei au trăsături drăguțe; mi-ar fi și rușine dacă n-ar avea.
+Da, desigur că ești. Toți copiii mei
+au trăsături drăguțe; mi-ar fi și rușine dacă n-ar avea.
 
 357
 00:36:53,422 --> 00:36:56,422
-O, mamă, nu despre asta-i vorba. Ce mă interesează e: sunt frumoasă?
+O, mamă, nu despre asta-i vorba.
+Ce mă interesează e: sunt frumoasă?
 
 358
 00:36:58,508 --> 00:37:01,508
-Ți-am mai spus o dată: da. Ai un obraz tânăr și foarte drăguț.
+Ți-am mai spus o dată: da.
+Ai un obraz tânăr și foarte drăguț.
 
 359
 00:37:03,594 --> 00:37:06,594
@@ -1436,7 +1805,8 @@ N-am mai auzit așa o prostie.
 
 360
 00:37:08,680 --> 00:37:11,680
-O, mamă, niciodată nu ne spui adevărul despre nimic.
+O, mamă, niciodată nu ne spui
+adevărul despre nimic.
 
 361
 00:37:13,766 --> 00:37:16,766
@@ -1448,31 +1818,42 @@ Mamă, tu ai fost frumoasă?
 
 363
 00:37:29,025 --> 00:37:32,025
-Da, am fost . D acă se poate spune așa ceva despre sine.
+Da, am fost
+.
+
+D
 
 364
 00:37:34,111 --> 00:37:37,111
-Eram cea mai frumoasă fată din oraș după Mamie Cartwright .
+Eram cea mai frumoasă
+fată din oraș
+după Mamie Cartwright
+.
 
 365
 00:37:39,197 --> 00:37:42,197
-Dar, mamă, trebuie să-mi spui cum sunt. Sunt îndeajuns de atrăgătoare...
+Dar, mamă, trebuie să-mi spui cum sunt.
+Sunt îndeajuns de atrăgătoare...
 
 366
 00:37:44,283 --> 00:37:47,283
-ca să fac pe cineva... ca să interesez pe cineva?
+ca să fac pe cineva...
+ca să interesez pe cineva?
 
 367
 00:37:49,369 --> 00:37:52,369
-Emily, începi să mă plictisești !
+Emily, începi să mă plictisești
+!
 
 368
 00:37:54,455 --> 00:37:57,455
-Ești de-ajuns de frumoasă ca toate să fie cum trebuie...
+Ești de-ajuns de frumoasă ca toate
+să fie cum trebuie...
 
 369
 00:37:59,541 --> 00:38:02,541
-Și acuma hai să mergem și ia și strachina aia cu tine.
+Și acuma hai să mergem și ia
+și strachina aia cu tine.
 
 370
 00:38:04,628 --> 00:38:07,628
@@ -1480,27 +1861,35 @@ Of, mamă, nu vrei să mă ajuți deloc.
 
 371
 00:38:14,800 --> 00:38:17,800
-Cred că acesta este cel mai bun moment pentru a vă povesti despre
+Cred că acesta este cel mai bun moment
+pentru a vă povesti despre
 
 372
 00:38:19,886 --> 00:38:22,886
-familia Cartwright care a început să construiască o nouă bancă aici,
+familia Cartwright care a început
+să construiască o nouă bancă aici,
 
 373
 00:38:24,972 --> 00:38:27,972
-în Grover's Corners, din păcate, marmura trebuia să fie adusă din Vermont.
+în Grover's Corners, din păcate, marmura
+trebuia să fie adusă din Vermont.
 
 374
 00:38:35,144 --> 00:38:38,144
-Au întrebat un prieten de-al meu ce să pună în piatra de temelie,
+Au întrebat un prieten de-al meu
+ce să pună în piatra de temelie,
 
 375
 00:38:40,230 --> 00:38:43,230
-pe care o vor dezgropa peste o mie de ani.
+pe care o vor dezgropa peste
+o mie de ani.
 
 376
 00:38:45,316 --> 00:38:48,316
-Desigur, au pu s un exemplar din New York Times
+Desigur,
+au
+pu
+s
 
 377
 00:38:50,403 --> 00:38:53,403
@@ -1508,71 +1897,92 @@ Desigur, au pu s un exemplar din New York Times
 
 378
 00:38:55,489 --> 00:38:58,489
-Este un lucru destul de interesant, pentru că niște oameni de știință au inventat
+Este un lucru destul de interesant,
+pentru că niște oameni de
+știință
+au inventat
 
 379
 00:39:00,575 --> 00:39:03,575
-un fel de adeziv pe bază de silicat, care, aplicat pe hârtie,
+un fel de adeziv pe bază de silicat, care,
+aplicat pe hârtie,
 
 380
 00:39:05,661 --> 00:39:08,661
-o poate conserva timp de o mie sau chiar două mii de ani.
+o poate conserva timp de o mie
+sau chiar două mii de ani.
 
 381
 00:39:10,747 --> 00:39:13,747
-Am pus o Biblie... și Constituția Statelor Unite,
+Am pus
+o Biblie...
+și Constituția Statelor Unite,
 
 382
 00:39:15,833 --> 00:39:18,833
-și un exemplar din piesele lui William Shakespeare.
+și un exemplar din piesele
+lui William Shakespeare.
 
 383
 00:39:26,005 --> 00:39:29,005
-Ce părere aveți ?
+Ce părere aveți
+?
 
 384
 00:39:31,091 --> 00:39:34,091
-Știți... Babilonul a avut cândva o populație de două milioane de oameni,
+Știți... Babilonul a avut cândva
+o populație de două milioane de oameni,
 
 385
 00:39:36,178 --> 00:39:39,178
-și tot ce ne-a rămas de la ei e numele regilor și câteva copii după niște acte
+și tot ce ne-a rămas de la ei e numele
+regilor și câteva copii după niște acte
 
 386
 00:39:41,264 --> 00:39:44,264
-de cumpărare a cerealelor și de vânzare a unor sclavi.
+de cumpărare a cerealelor
+și de vânzare a unor sclavi.
 
 387
 00:39:46,350 --> 00:39:49,350
-Și totuși în fiecare seară, familiile acelea se așezau la cină,
+Și totuși în fiecare seară, familiile
+acelea se așezau la cină,
 
 388
 00:39:51,436 --> 00:39:54,436
-și tatăl venea acasă de la lucru, și fumul suia pe coșul casei... ca și pe-aici.
+și tatăl venea acasă de la lucru,
+și fumul suia pe coșul casei... ca și pe-aici.
 
 389
 00:39:56,522 --> 00:39:59,522
-Așa că i-am spus să ia un exemplar din piesa aceasta
+Așa că i-am spus
+să ia un exemplar din piesa aceasta
 
 390
 00:40:01,608 --> 00:40:04,608
-și să o pună la temelia clădirii, și oamenii care vor trăi peste o mie de ani vor afla
+și să o pună la temelia clădirii, și oamenii
+care vor trăi peste o mie de ani vor afla
 
 391
 00:40:06,694 --> 00:40:09,694
-câteva lucruri simple despre noi – și nu doar pacea de la Versailles
+câteva lucruri simple despre noi –
+și nu doar pacea de la Versailles
 
 392
 00:40:11,780 --> 00:40:14,780
-sau zborul transatlantic al lui Lindbergh. Î nțelegeți ce vreau să spun?
+sau zborul transatlantic al lui Lindbergh.
+Î
+nțelegeți ce vreau să spun?
 
 393
 00:40:16,866 --> 00:40:19,866
-Ei bine, oameni care vor trăi peste o mie de ani
+Ei bine, oameni care vor trăi
+peste o mie de ani
 
 394
 00:40:21,953 --> 00:40:24,953
-Așa eram, așa creșteam, așa ne căsătoream,
+Așa eram, așa creșteam,
+așa ne căsătoream,
 
 395
 00:40:27,039 --> 00:40:30,039
@@ -1580,11 +1990,13 @@ așa trăiam și așa muream.
 
 396
 00:40:37,211 --> 00:40:40,211
-Și acum, să revenim la ziua de azi din Grover’s Corners. E seară.
+Și acum, să revenim la ziua de azi
+din Grover’s Corners. E seară.
 
 397
 00:40:42,297 --> 00:40:45,297
-Se aude repetiția corului de la Biserica Congregată.
+Se aude repetiția corului
+de la Biserica Congregată.
 
 398
 00:40:52,469 --> 00:40:55,469
@@ -1596,11 +2008,15 @@ Ziua se scurge încet ca un ceas obosit.
 
 400
 00:41:12,814 --> 00:41:15,814
-Bine, s ă-ncepem de la capăt...
+Bine, s
+ă-ncepem de la capăt...
 
 401
 00:41:17,900 --> 00:41:20,900
-N u uitați: m uzica e menită să facă plăcere...
+N
+u uitați:
+m
+uzica e menită
 
 402
 00:41:28,072 --> 00:41:31,072
@@ -1608,11 +2024,14 @@ Să încercăm încă o dată!
 
 403
 00:41:38,244 --> 00:41:41,244
-Legătură sfințită ne unește în iubir e
+Legătură sfințită
+ne unește în iubir
+e
 
 404
 00:41:43,330 --> 00:41:46,330
-în Hristos e unită a gândurilor fire.
+în Hristos e unită
+a gândurilor fire.
 
 405
 00:41:53,503 --> 00:41:56,503
@@ -1620,7 +2039,8 @@ Mai încet! Mai încet!
 
 406
 00:41:58,589 --> 00:42:01,589
-Scoateti-vă din cap ideea că muzica e bună numai când e cântată cu glas foarte puternic.
+Scoateti-vă din cap ideea că muzica e bună
+numai când e cântată cu glas foarte puternic.
 
 407
 00:42:03,675 --> 00:42:06,675
@@ -1628,7 +2048,8 @@ Lăsați asta pe seama Metodiștilor.
 
 408
 00:42:08,761 --> 00:42:11,761
-Ei cântă cu glas tare și n-o să-i puteți întrece, oricât ați vrea.
+Ei cântă cu glas tare și n-o să-i puteți
+întrece, oricât ați vrea.
 
 409
 00:42:18,933 --> 00:42:21,933
@@ -1636,19 +2057,28 @@ Acum, încă o dată! Tenorii!
 
 410
 00:42:29,105 --> 00:42:32,105
-Legătură sfințită ne unește în iubire ...
+Legătură sfințită
+ne unește în iubire
+...
 
 411
 00:42:39,278 --> 00:42:42,278
-– Emily! – Hello!
+–
+
+Emily!
+–
 
 412
 00:42:44,364 --> 00:42:47,364
-Nu pot lucra deloc. Lumina asta a lunii e teribilă.
+Nu pot lucra deloc.
+Lumina asta a lunii e teribilă.
 
 413
 00:42:54,536 --> 00:42:57,536
-– Emily, ai rezolvat a treia problemă? – Care?
+–
+
+Emily, ai rezolvat a treia problemă?
+–
 
 414
 00:42:59,622 --> 00:43:02,622
@@ -1656,39 +2086,59 @@ A treia.
 
 415
 00:43:04,708 --> 00:43:07,708
-Desigur, George... e cea mai ușoară din toate.
+Desigur, George...
+e cea mai ușoară din toate.
 
 416
 00:43:09,794 --> 00:43:12,794
-Nu mi se pare. N -ai vrea să-mi dai vreo indicație?
+Nu mi se pare.
+N
+-ai vrea
+să-mi dai vreo indicație?
 
 417
 00:43:14,880 --> 00:43:17,880
-Pot să-ți spun un singur lucru: rezultatul trebuie să fie exprimat în yarzi.
+Pot să-ți spun un singur lucru: rezultatul
+trebuie să fie exprimat în yarzi.
 
 418
 00:43:19,966 --> 00:43:22,966
-– În yarzi!? Cum adică? – În yarzi pătrați.
+–
+
+În yarzi!? Cum adică?
+–
 
 419
 00:43:25,053 --> 00:43:28,053
-– Aha... în yarzi pătrați. – Da, îți dai seama...
+–
+
+Aha... în yarzi pătrați.
+–
 
 420
 00:43:30,139 --> 00:43:33,139
-– Mda. – În yarzi pătrați de tapet .
+–
+
+Mda.
+–
 
 421
 00:43:35,225 --> 00:43:38,225
-Tapet , aha, acum am înțeles. Îți mulțumesc foarte mult, Emily.
+Tapet
+, aha, acum am înțeles.
+Îți mulțumesc foarte mult, Emily.
 
 422
 00:43:40,311 --> 00:43:43,311
-N-ai de ce , George . Zi, nu e lumina lunii teribilă? Și corul acesta...
+N-ai de ce
+, George
+. Zi, nu e lumina lunii teribilă?
+Și corul acesta...
 
 423
 00:43:45,397 --> 00:43:48,397
-Cred că dacă-ți ții răsuflarea poți auzi trenul care merge tocmai spre Contoocook.
+Cred că dacă-ți ții răsuflarea poți auzi trenul care merge
+tocmai spre Contoocook.
 
 424
 00:43:55,569 --> 00:43:58,569
@@ -1700,15 +2150,22 @@ Mda. Câte știi tu!
 
 426
 00:44:15,914 --> 00:44:18,914
-Și-acum, o să mă apuc din nou să încerc să învăț .
+Și-acum, o să mă apuc din nou
+să încerc să
+învăț
+.
 
 427
 00:44:21,000 --> 00:44:24,000
-– Noapte bună, Emily. – Noapte bună, George.
+–
+
+Noapte bună, Emily.
+–
 
 428
 00:44:26,086 --> 00:44:29,086
-Frumos! Dar nu- i bun.
+Frumos! Dar nu-
+i
 
 429
 00:44:31,172 --> 00:44:34,172
@@ -1716,7 +2173,8 @@ Să nu uit, aș vrea să vă întreb:
 
 430
 00:44:36,258 --> 00:44:39,258
-câți puteți veni marți după-amiază ca să cântați la nunta lui Fred Hersey?
+câți puteți veni marți după-amiază
+ca să cântați la nunta lui Fred Hersey?
 
 431
 00:44:41,344 --> 00:44:44,344
@@ -1724,19 +2182,29 @@ Ridicați mâna.
 
 432
 00:44:46,430 --> 00:44:49,430
-O să cântăm ce am cântat acum trei s ăptămâni la nunta lui Jane Trowbridge.
+O să cântăm ce am cântat
+acum trei s
+ăptămâni
+la
 
 433
 00:44:56,602 --> 00:44:59,602
-“Ești obosită, ți-e dor de mine?” E o întrebare, să se vadă asta.
+“Ești obosită, ți-e dor de mine?”
+E o întrebare, să se vadă asta.
 
 434
 00:45:01,689 --> 00:45:04,689
-– George, poți veni jos pentru o clipă? – Da, tată.
+–
+
+George, poți veni jos pentru o clipă?
+–
 
 435
 00:45:06,775 --> 00:45:09,775
-Și nu uitați, duminică să cântați al doilea strof ă foarte încet .
+Și nu uitați, duminică să cântați
+al doilea
+strof
+ă
 
 436
 00:45:16,947 --> 00:45:19,947
@@ -1744,35 +2212,43 @@ Sunteți pregătiți?
 
 437
 00:45:27,119 --> 00:45:30,119
-Te țin numai un minut, George, așa că stai jos. George, câți ani ai?
+Te țin numai un minut, George,
+așa că stai jos. George, câți ani ai?
 
 438
 00:45:32,205 --> 00:45:35,205
-Eu? Șaisprezece, aproape șaptesprezece.
+Eu? Șaisprezece,
+aproape șaptesprezece.
 
 439
 00:45:37,291 --> 00:45:40,291
-Și ce vrei să faci după ce termini școala?
+Și ce vrei să faci după
+ce termini școala?
 
 440
 00:45:42,377 --> 00:45:45,377
-Vreau să lucrez la ferma unchiului Luke.
+Vreau să lucrez
+la ferma unchiului Luke.
 
 441
 00:45:47,464 --> 00:45:50,464
-Și ai să vrei tu să te scoli în zori, și să mulgi vacile, și să le dai de mâncare...
+Și ai să vrei tu să te scoli în zori,
+și să mulgi vacile, și să le dai de mâncare...
 
 442
 00:45:52,550 --> 00:45:55,550
-și ai să fii în stare să muncești la câmp, și să aduni fânul toată ziua?
+și ai să fii în stare să muncești
+la câmp, și să aduni fânul toată ziua?
 
 443
 00:45:57,636 --> 00:46:00,636
-Firește că am să fiu în stare. De fapt ce vrei să spui, tată?
+Firește că am să fiu în stare.
+De fapt ce vrei să spui, tată?
 
 444
 00:46:07,808 --> 00:46:10,808
-Uite ce e, George; astăzi, fiind în cabinet la mine,
+Uite ce e, George; astăzi, fiind
+în cabinet la mine,
 
 445
 00:46:12,894 --> 00:46:15,894
@@ -1784,47 +2260,62 @@ am auzit un zgomot ciudat...
 
 447
 00:46:28,152 --> 00:46:31,152
-Maica-ta . Tăia lemne.
+Maica-ta
+.
 
 448
 00:46:33,239 --> 00:46:36,239
-Acum tu o știi pe maica-ta: se scoală în zori,
+Acum tu o știi pe maica-ta:
+se scoală în zori,
 
 449
 00:46:38,325 --> 00:46:41,325
-face mâncare toată ziua, spală, călcat... și după toate astea
+face mâncare toată ziua,
+spală, călcat... și după toate astea
 
 450
 00:46:43,411 --> 00:46:46,411
-se mai și duce în spatele casei și taie lemne.
+se mai și duce în spatele casei
+și taie lemne.
 
 451
 00:46:48,497 --> 00:46:51,497
-Cred că a obosit tot rugându-te să faci tu treaba asta.
+Cred că a obosit tot rugându-te
+să faci tu treaba asta.
 
 452
 00:46:53,583 --> 00:46:56,583
-A renunțat să te mai roage și s-a gândit că e mai simplu s-o facă singură.
+A renunțat să te mai roage și
+s-a gândit că e mai simplu s-o facă singură.
 
 453
 00:46:58,669 --> 00:47:01,669
-Și tu mănânci mâncarea făcută de ea, te îmbraci cu hainele de care ea are grijă
+Și tu mănânci mâncarea făcută de ea,
+te îmbraci cu hainele de care ea are grijă
 
 454
 00:47:03,755 --> 00:47:06,755
-să fie curate și călcate, și apoi pleci și te duci să joci baseball —
+să fie curate și călcate, și apoi pleci
+și te duci să joci baseball —
 
 455
 00:47:08,841 --> 00:47:11,841
-de parcă maica-ta ar fi o servitoare pe care am angajat-o și o ținem lângă casă , dar n-o prea iubim .
+de parcă maica-ta ar fi o servitoare pe care am angajat-o
+și o ținem lângă casă
+, dar n-o prea iubim
+.
 
 456
 00:47:19,014 --> 00:47:22,014
-Știu... nu era nevoie decât să-ți atrag atenția... Ține o batistă, băiete.
+Știu... nu era nevoie decât să-ți
+atrag atenția... Ține o batistă, băiete.
 
 457
 00:47:24,100 --> 00:47:27,100
-A m hotărât să-ți dau ceva mai mult pentru cheltuielile tale personale , George.
+A
+m hotărât să-ți dau ceva
+mai mult pentru cheltuielile tale personale
+, George.
 
 458
 00:47:29,186 --> 00:47:32,186
@@ -1832,7 +2323,8 @@ A m hotărât să-ți dau ceva mai mult pentru cheltuielile tale personale , Geo
 
 459
 00:47:34,272 --> 00:47:37,272
-Desigur, nu pentru că o să tai lemne pentru maica-ta, asta e un dar
+Desigur, nu pentru că o să tai lemne
+pentru maica-ta, asta e un dar
 
 460
 00:47:39,358 --> 00:47:42,358
@@ -1840,7 +2332,8 @@ pe care i-l faci tu, ci fiindcă ești mare...
 
 461
 00:47:44,444 --> 00:47:47,444
-și-mi închipui că sunt o mulțime de lucruri pe care vrei să le faci cu banii ăștia.
+și-mi închipui că sunt o mulțime de lucruri
+pe care vrei să le faci cu banii ăștia.
 
 462
 00:47:49,530 --> 00:47:52,530
@@ -1848,19 +2341,23 @@ Mulțumesc, tată.
 
 463
 00:47:54,616 --> 00:47:57,616
-Așa... mâine e ziua ta de salariu. Poți să te bizui pe banii promiși.
+Așa... mâine e ziua ta de salariu.
+Poți să te bizui pe banii promiși.
 
 464
 00:47:59,702 --> 00:48:02,702
-Probabil că și Rebecca o să se simtă îndreptățită să capete și ea ceva mai mult.
+Probabil că și Rebecca o să se simtă îndreptățită
+să capete și ea ceva mai mult.
 
 465
 00:48:04,789 --> 00:48:07,789
-Oare ce s-o fi întâmplat cu maica-ta?
+Oare ce s-o fi
+întâmplat cu maica-ta?
 
 466
 00:48:09,875 --> 00:48:12,875
-Repetițiile la cor n-au ținut niciodată atât de târziu.
+Repetițiile la cor n-au ținut
+niciodată atât de târziu.
 
 467
 00:48:14,961 --> 00:48:17,961
@@ -1868,11 +2365,13 @@ E abia opt și jumătate, tată.
 
 468
 00:48:20,047 --> 00:48:23,047
-Nu știu de ce-o mai fi rămas în corul ăsta, că n-are voce nici cât o cioară bătrână...
+Nu știu de ce-o mai fi rămas în corul
+ăsta, că n-are voce nici cât o cioară bătrână...
 
 469
 00:48:25,133 --> 00:48:28,133
-Să hoinărești pe străzi seara, la ora asta... Ar fi timpul să te duci sus, nu crezi?
+Să hoinărești pe străzi seara, la ora asta...
+Ar fi timpul să te duci sus, nu crezi?
 
 470
 00:48:30,219 --> 00:48:33,219
@@ -1880,11 +2379,15 @@ Da, tată.
 
 471
 00:48:40,391 --> 00:48:43,391
-– Noapte bună, Martha. – Noapte bună , Mr. Foster.
+–
+Noapte bună, Martha.
+–
+Noapte bună
 
 472
 00:48:45,477 --> 00:48:48,477
-O să-i spun asta soțului meu; sigur o va pune în ziar!
+O să-i spun asta soțului meu;
+sigur o va pune în ziar!
 
 473
 00:48:55,650 --> 00:48:58,650
@@ -1896,7 +2399,10 @@ Noapte bună, Irma.
 
 475
 00:49:10,908 --> 00:49:13,908
-– Frumoasă repetiție a fost azi, nu-i așa? – Mda.
+–
+
+Frumoasă repetiție a fost azi, nu-i așa?
+–
 
 476
 00:49:21,080 --> 00:49:24,080
@@ -1904,19 +2410,25 @@ Myrtle Webb? Uite ce lună e!
 
 477
 00:49:31,252 --> 00:49:34,252
-Urmează o vreme bună pentru cultivarea cartofilor, asta e sigur!
+Urmează o vreme bună
+pentru cultivarea cartofilor, asta e sigur!
 
 478
 00:49:36,339 --> 00:49:39,339
-Firește că n-am vrut să zic un cuvânt în fața celorlalți, dar acum că suntem singure...
+Firește că n-am vrut să zic un cuvânt
+în fața celorlalți, dar acum că suntem singure...
 
 479
 00:49:41,425 --> 00:49:44,425
-asta-i cel mai mare scandal care a fost vreodată în orașul nostru!
+asta-i cel mai mare scandal care
+a fost vreodată în orașul nostru!
 
 480
 00:49:46,511 --> 00:49:49,511
-– Ce anume? – Simon Stimson!
+–
+
+Ce anume?
+–
 
 481
 00:49:51,597 --> 00:49:54,597
@@ -1924,7 +2436,8 @@ Asta-i acum, Louella.
 
 482
 00:49:56,683 --> 00:49:59,683
-Totuși, Julia... organistul unei biserici să bea și să fie un bețiv, de ani de zile.
+Totuși, Julia... organistul unei biserici
+să bea și să fie un bețiv, de ani de zile.
 
 483
 00:50:01,769 --> 00:50:04,769
@@ -1936,19 +2449,26 @@ Dar știi bine că și astă seară a fost beat.
 
 485
 00:50:11,941 --> 00:50:14,941
-Ascultă, Louella. Știm cu toții ce-i cu Mr. Stimson și prin câte a trecut .
+Ascultă, Louella. Știm cu toții ce-i
+cu
+Mr. Stimson
+și prin câte a trecut
 
 486
 00:50:17,027 --> 00:50:20,027
-Știe și Reverendul Ferguson, și dacă Reverendul Ferguson îl păstrează, înseamnă că
+Știe și Reverendul Ferguson, și dacă
+Reverendul Ferguson îl păstrează, înseamnă că
 
 487
 00:50:22,114 --> 00:50:25,114
-singurul lucrul pe care-l avem de făcut este să nu luăm în seamă toată povestea asta.
+singurul lucrul
+pe care-l avem de făcut este să
+nu luăm în seamă toată povestea asta.
 
 488
 00:50:32,286 --> 00:50:35,286
-Să nu luăm în seamă povestea asta! Dar din zi în zi e mai rău.
+Să nu luăm în seamă povestea asta!
+Dar din zi în zi e mai rău.
 
 489
 00:50:37,372 --> 00:50:40,372
@@ -1956,7 +2476,8 @@ Nu, Louella, nu-i așa.
 
 490
 00:50:42,458 --> 00:50:45,458
-Sunt în corul ăsta de mai multă vreme ca tine. Nu se mai întâmplă atât de des ca până acum.
+Sunt în corul ăsta de mai multă vreme ca tine.
+Nu se mai întâmplă atât de des ca până acum.
 
 491
 00:50:47,544 --> 00:50:50,544
@@ -1964,19 +2485,24 @@ Louella, vezi, ce frumoasă e luna?
 
 492
 00:50:52,630 --> 00:50:55,630
-Copiii ăia așteaptă de atâta vreme. Noapte bună, Louella.
+Copiii ăia așteaptă de atâta vreme.
+Noapte bună, Louella.
 
 493
 00:50:57,716 --> 00:51:00,716
-Noapte bună, Myrtle. Nu ți-e teamă să te duci singură acasă, Louella?
+Noapte bună, Myrtle. Nu ți-e teamă
+să te duci singură acasă, Louella?
 
 494
 00:51:07,889 --> 00:51:10,889
-E lumină ca ziua. Îi și văd pe soțul meu stând încruntat la fereastră.
+E lumină ca ziua. Îi și văd pe
+soțul meu
+stând încruntat la fereastră.
 
 495
 00:51:12,975 --> 00:51:15,975
-Ai zice că am fost undeva să dansăm, așa se poartă bărbații ăștia. Noapte bună, Julia!
+Ai zice că am fost undeva să dansăm,
+așa se poartă bărbații ăștia. Noapte bună, Julia!
 
 496
 00:51:18,061 --> 00:51:21,061
@@ -1984,7 +2510,10 @@ Noapte bună, Louella.
 
 497
 00:51:28,233 --> 00:51:31,233
-– Ne întâlnim duminică. – Da!
+–
+
+Ne întâlnim duminică.
+–
 
 498
 00:51:38,405 --> 00:51:41,405
@@ -2000,7 +2529,8 @@ Dar, Frank, nu e mai târziu ca de obicei.
 
 501
 00:51:53,664 --> 00:51:56,664
-Și te-ai mai și oprit încă la colț să palavragești cu gâștele alea.
+Și te-ai mai și oprit încă la colț
+să palavragești cu gâștele alea.
 
 502
 00:51:58,750 --> 00:52:01,750
@@ -2008,43 +2538,57 @@ Nu mai fi și tu așa de morocănos.
 
 503
 00:52:03,836 --> 00:52:06,836
-Hai să vezi cum miroase heliotropul în lumina lunii.
+Hai să vezi cum miroase
+heliotropul în lumina lunii.
 
 504
 00:52:08,922 --> 00:52:11,922
-Nu-i minunat? Ce-ai făcut cât am lipsit eu?
+Nu-i minunat?
+Ce-ai făcut cât am lipsit eu?
 
 505
 00:52:14,008 --> 00:52:17,008
-Am citit, ca de obicei. Despre ce-ați mai palavragit în seara asta?
+Am citit, ca de obicei. Despre ce-ați
+mai palavragit în seara asta?
 
 506
 00:52:19,094 --> 00:52:22,094
-– Știi, Frank, crede-mă... am avut totuși un motiv. –Simon Stimson era beat turta, nu?
+–
+
+Știi, Frank, crede-mă... am avut totuși un motiv.
+–Simon Stimson era beat turta, nu?
 
 507
 00:52:24,180 --> 00:52:27,180
-Mai rău decât oricând. Cum o să se termine asta, Frank?
+Mai rău decât oricând.
+Cum o să se termine asta, Frank?
 
 508
 00:52:29,266 --> 00:52:32,266
-Reverendul Ferguson nu-l poate ierta la nesfârșit.
+Reverendul Ferguson nu-l poate
+ierta la nesfârșit.
 
 509
 00:52:34,352 --> 00:52:37,352
-Cred că eu știu cel mai bine ce-i cu Simon Stimson.
+Cred că eu știu cel mai bine ce-i
+cu Simon Stimson.
 
 510
 00:52:39,439 --> 00:52:42,439
-Unii oameni nu sunt făcuți să trăiască în orașele din astea mici.
+Unii oameni nu sunt făcuți să trăiască
+în orașele din astea mici.
 
 511
 00:52:44,525 --> 00:52:47,525
-Nu știu cum o să se termine, trebuie să lăsăm lucrurile să meargă de la sine. Hai să ne întoarcem.
+Nu știu cum o să se termine,
+trebuie
+să lăsăm
+lucrurile
 
 512
 00:52:49,611 --> 00:52:52,611
-Nu, nu, nu încă... Frank, sunt necăjită din cauza ta.
+Nu, nu, nu încă...
+Frank, sunt necăjită din cauza ta.
 
 513
 00:52:54,697 --> 00:52:57,697
@@ -2052,7 +2596,8 @@ Ce te necăjește?
 
 514
 00:52:59,783 --> 00:53:02,783
-Cred că trebuie să ne gândim cum să te odihnești și tu odată ca lumea,
+Cred că trebuie să ne gândim cum
+să te odihnești și tu odată ca lumea,
 
 515
 00:53:04,869 --> 00:53:07,869
@@ -2060,47 +2605,62 @@ să mai schimbi și tu aerul.
 
 516
 00:53:09,955 --> 00:53:12,955
-Și dacă o să capăt moștenirea aia, să știi că nu mai scapi.
+Și dacă o să capăt moștenirea aia,
+să știi că nu mai scapi.
 
 517
 00:53:15,041 --> 00:53:18,041
-Ascultă, Julia, n-are rost să o luăm iarăși de la capăt.
+Ascultă, Julia, n-are rost să o luăm
+iarăși de la capăt.
 
 518
 00:53:20,127 --> 00:53:23,127
-Frank, ești irațional !
+Frank, ești
+irațional
 
 519
 00:53:25,214 --> 00:53:28,214
-Hai, Julia. Se face târziu... Și o să răcești.
+Hai, Julia. Se face târziu...
+Și o să răcești.
 
 520
 00:53:30,300 --> 00:53:33,300
-I -am spus lui George câteva lucruri . Sunt sigur că de aici înainte,
+I
+-am spus lui George
+câteva lucruri
+.
 
 521
 00:53:35,386 --> 00:53:38,386
-o să-ți taie iar lemnele. Nu, nu, hai sus.
+o să-ți taie iar lemnele.
+Nu, nu, hai sus.
 
 522
 00:53:40,472 --> 00:53:43,472
-O, Doamne! Sunt atât de multe lucruri de strâns pe aici întotdeauna.
+O, Doamne! Sunt atât de multe lucruri
+de strâns pe aici întotdeauna.
 
 523
 00:53:45,558 --> 00:53:48,558
-Știi, Frank, doamna Grover își încuie ușa de la intrare în fiecare noapte.
+Știi, Frank, doamna
+Grover
+
+își încuie ușa de la intrare în fiecare noapte.
 
 524
 00:53:50,644 --> 00:53:53,644
-Toți oamenii din partea de sus a orașului fac la fel.
+Toți oamenii din partea de sus
+a orașului fac la fel.
 
 525
 00:53:55,730 --> 00:53:58,730
-S-au orășenizat cu toții, asta e. N-au ce să li se fure și ei tot se încuie în casă.
+S-au orășenizat cu toții, asta e. N-au ce să
+li se fure și ei tot se încuie în casă.
 
 526
 00:54:05,902 --> 00:54:08,902
-Pleacă de-aici, Rebecca. La fereastra asta abia e loc pentru un singur om.
+Pleacă de-aici, Rebecca. La fereastra asta
+abia e loc pentru un singur om.
 
 527
 00:54:16,075 --> 00:54:19,075
@@ -2120,7 +2680,8 @@ George, știi tu la ce mă gândesc?
 
 531
 00:54:41,505 --> 00:54:44,505
-Mă gândesc că luna se apropie din ce în ce mai mult de noi,
+Mă gândesc că luna se apropie din
+ce în ce mai mult de noi,
 
 532
 00:54:46,591 --> 00:54:49,591
@@ -2128,19 +2689,25 @@ Mă gândesc că luna se apropie din ce în ce mai mult de noi,
 
 533
 00:54:51,677 --> 00:54:54,677
-Habar n-ai de nimic, Rebecca. Dacă luna s-ar apropia de noi,
+Habar n-ai de nimic, Rebecca.
+Dacă luna s-ar apropia de noi,
 
 534
 00:54:56,764 --> 00:54:59,764
-oamenii ăia care stau toată noaptea și se uită la ea cu telescoapele ar vedea
+oamenii ăia care stau toată noaptea
+și se uită la ea cu telescoapele ar vedea
 
 535
 00:55:01,850 --> 00:55:04,850
-treaba asta și ar spune-o, așa că s-ar scrie în toate ziarele.
+treaba asta și ar spune-o,
+așa că s-ar scrie în toate ziarele.
 
 536
 00:55:06,936 --> 00:55:09,936
-George, luna asta luminează și America de Sud ? Și Canada?
+George, luna asta luminează și
+America de
+Sud
+? Și Canada?
 
 537
 00:55:12,022 --> 00:55:15,022
@@ -2160,19 +2727,29 @@ Luminile s-au stins mai peste tot.
 
 541
 00:55:37,452 --> 00:55:40,452
-Și apoi îl avem pe Sergentul Warren, care verifică dacă magazinele de pe S trada Principală sunt închise.
+Și apoi îl avem pe
+Sergentul
+Warren, care verifică
+dacă magazinele de pe
 
 542
 00:55:42,539 --> 00:55:45,539
-Și este și domnul Webb, redactorul, care tocmai și-a terminat ziarul.
+Și este și domnul Webb, redactorul,
+care tocmai și-a terminat ziarul.
 
 543
 00:55:47,625 --> 00:55:50,625
-– Bună seara, Bill. – Bună seara, domnule Webb.
+–
+
+Bună seara, Bill.
+–
 
 544
 00:55:52,711 --> 00:55:55,711
-– E o lună! – Daaa.
+–
+
+E o lună!
+– Daaa.
 
 545
 00:55:57,797 --> 00:56:00,797
@@ -2180,11 +2757,13 @@ Totul e-n regulă?
 
 546
 00:56:02,883 --> 00:56:05,883
-Simon Stimson se tot învârte pe aici. Am văzut-o chiar înainte pe nevastă-sa
+Simon Stimson se tot învârte pe aici.
+Am văzut-o chiar înainte pe nevastă-sa
 
 547
 00:56:07,969 --> 00:56:10,969
-care ieșise să-l caute, așa că m-am făcut că nu o văd... iată-l că vine.
+care ieșise să-l caute, așa că
+m-am făcut că nu o văd... iată-l că vine.
 
 548
 00:56:18,141 --> 00:56:21,141
@@ -2192,11 +2771,13 @@ Bună seara, Simon!
 
 549
 00:56:23,227 --> 00:56:26,227
-După cât se pare, oamenii din oraș s-au cam retras pe la casele lor...
+După cât se pare, oamenii din oraș
+s-au cam retras pe la casele lor...
 
 550
 00:56:28,314 --> 00:56:31,314
-Da, mai toți oamenii din oraș s-au dus pe la casele lor, Simon.
+Da, mai toți oamenii din oraș
+s-au dus pe la casele lor, Simon.
 
 551
 00:56:38,486 --> 00:56:41,486
@@ -2212,7 +2793,8 @@ Noapte bună.
 
 554
 00:57:03,916 --> 00:57:06,916
-Nu știu cum o să se termine povestea asta, domnule Webb.
+Nu știu cum o să se termine povestea asta,
+domnule Webb.
 
 555
 00:57:09,002 --> 00:57:12,002
@@ -2224,15 +2806,18 @@ A, Bill, dacă-l vezi pe fiul meu fumând,
 
 557
 00:57:19,175 --> 00:57:22,175
-să-i spui o vorbă, două, da? Te respectă foarte mult.
+să-i spui o vorbă, două, da?
+Te respectă foarte mult.
 
 558
 00:57:24,261 --> 00:57:27,261
-Nu cred că băiatul fumează, domnule Webb. Cel mult două, trei țigări pe an!
+Nu cred că băiatul fumează, domnule Webb.
+Cel mult două, trei țigări pe an!
 
 559
 00:57:34,433 --> 00:57:37,433
-Hm... sper că nu... Ei, noapte bună, Bill.
+Hm... sper că nu...
+Ei, noapte bună, Bill.
 
 560
 00:57:39,519 --> 00:57:42,519
@@ -2240,7 +2825,10 @@ Noapte bună, domnule Webb.
 
 561
 00:57:49,691 --> 00:57:52,691
-– Tu ești, Myrtle? – Nu, eu sunt, tată.
+–
+
+Tu ești, Myrtle?
+–
 
 562
 00:57:54,777 --> 00:57:57,777
@@ -2248,15 +2836,18 @@ De ce nu te-ai culcat?
 
 563
 00:57:59,864 --> 00:58:02,864
-Nu pot să dorm, tată. Luna asta e atât de minunată.
+Nu pot să dorm, tată.
+Luna asta e atât de minunată.
 
 564
 00:58:04,950 --> 00:58:07,950
-Și mirosul de heliotrop din grădina doamnei Gibbs. Îl simți?
+Și mirosul de heliotrop din grădina
+doamnei Gibbs. Îl simți?
 
 565
 00:58:10,036 --> 00:58:13,036
-Hm... Da. N-ai cumva vreun necaz, Emily?
+Hm... Da. N-ai cumva
+vreun necaz, Emily?
 
 566
 00:58:15,122 --> 00:58:18,122
@@ -2264,7 +2855,8 @@ Necaz, tată? Nuuu!
 
 567
 00:58:20,208 --> 00:58:23,208
-Bine, atunci amuză-te, dar vezi să nu te prindă maică-ta. Noapte bună, Emily.
+Bine, atunci amuză-te, dar vezi să nu
+te prindă maică-ta. Noapte bună, Emily.
 
 568
 00:58:25,294 --> 00:58:28,294
@@ -2272,7 +2864,8 @@ Noapte bună, tată.
 
 569
 00:58:35,466 --> 00:58:38,466
-Nici nu ți-am spus ce scrisoare a primit Jane Crofut
+Nici nu ți-am spus ce scrisoare a primit
+Jane Crofut
 
 570
 00:58:40,552 --> 00:58:43,552
@@ -2284,11 +2877,13 @@ Pe plic a adresat-o astfel:
 
 572
 00:58:50,725 --> 00:58:53,725
-Jane Crofut; Ferma Crofut; Grover’s Corners; Comitatul Sutton;
+Jane Crofut; Ferma Crofut;
+Grover’s Corners; Comitatul Sutton;
 
 573
 00:58:55,811 --> 00:58:58,811
-New Hampshire; Statele Unite ale Americii.
+New Hampshire;
+Statele Unite ale Americii.
 
 574
 00:59:00,897 --> 00:59:03,897
@@ -2296,15 +2891,18 @@ Ei și? Ce e atât de ciudat?
 
 575
 00:59:05,983 --> 00:59:08,983
-Așteaptă, nu s-a terminat: Statele Unite ale Americii; Continentul Nord-American;
+Așteaptă, nu s-a terminat: Statele Unite
+ale Americii; Continentul Nord-American;
 
 576
 00:59:11,069 --> 00:59:14,069
-Emisfera Vestică; Pământ; Sistemul Solar;
+Emisfera Vestică; Pământ;
+Sistemul Solar;
 
 577
 00:59:16,155 --> 00:59:19,155
-În mintea lui Dumnezeu .
+În
+mintea
 
 578
 00:59:21,241 --> 00:59:24,241
@@ -2312,11 +2910,15 @@ Nu-mi spune!
 
 579
 00:59:26,327 --> 00:59:29,327
-– Poștașul tot a livrat-o scrisoarea. – Nu-mi spune!
+–
+
+Poștașul tot a
+livrat-o
 
 580
 00:59:36,500 --> 00:59:39,500
-Aici se încheie primul act .
+Aici se încheie primul act
+.
 
 581
 00:59:46,672 --> 00:59:49,672
@@ -2328,31 +2930,38 @@ Da, soarele a răsărit de peste o mie de ori.
 
 583
 01:00:01,930 --> 01:00:04,930
-Verile și iernile au mai cioplit din munți câte ceva și ploile au dus la vale țărâna
+Verile și iernile au mai cioplit din munți
+câte ceva și ploile au dus la vale țărâna
 
 584
 01:00:07,016 --> 01:00:10,016
-de pe coaste, și ploile multe au adus noroiul muntelui în vale.
+de pe coaste, și ploile multe au adus
+noroiul muntelui în vale.
 
 585
 01:00:12,102 --> 01:00:15,102
-Câțiva dintre copiii care nici nu se născuseră încă au început
+Câțiva dintre copiii care nici
+nu se născuseră încă au început
 
 586
 01:00:17,188 --> 01:00:20,188
-să vorbească și unii oameni care credeau că sunt încă tineri și vioi au observat
+să vorbească și unii oameni care credeau
+că sunt încă tineri și vioi au observat
 
 587
 01:00:22,275 --> 01:00:25,275
-că nu mai pot urca pe scări ca altădată, fără ca inima lor să nu bată ceva mai tare.
+că nu mai pot urca pe scări ca altădată,
+fără ca inima lor să nu bată ceva mai tare.
 
 588
 01:00:27,361 --> 01:00:30,361
-Toate aceste lucruri se pot întâmpla într-o mie de zile.
+Toate aceste lucruri se pot întâmpla
+într-o mie de zile.
 
 589
 01:00:32,447 --> 01:00:35,447
-Natura și-a continuat munca ei și în alte direcții:
+Natura și-a continuat munca ei și în
+alte direcții:
 
 590
 01:00:37,533 --> 01:00:40,533
@@ -2360,23 +2969,31 @@ câțiva tineri s-au îndrăgostit și s-au căsătorit.
 
 591
 01:00:42,619 --> 01:00:45,619
-Primul Act s-a numit Viața de fiecare zi. Actul acesta se numește Dragoste și Căsătorie .
+Primul Act s-a numit
+Viața de fiecare zi.
+Actul acesta se numește
+Dragoste și Căsătorie
 
 592
 01:00:52,791 --> 01:00:55,791
-Aproape toată lumea de pe pământul ăsta se căsătorește... înțelegeți ce vreau să spun ?
+Aproape toată lumea de pe pământul
+ăsta se căsătorește... înțelegeți ce vreau să spun
+?
 
 593
 01:01:02,963 --> 01:01:05,963
-În orașul nostru nu prea sunt excepții de la regula asta.
+În orașul nostru nu prea sunt excepții
+de la regula asta.
 
 594
 01:01:08,050 --> 01:01:11,050
-Mai toți oamenii pășesc în mormânt căsătoriți.
+Mai toți oamenii pășesc în mormânt
+căsătoriți.
 
 595
 01:01:18,222 --> 01:01:21,222
-Și așa: suntem trei ani mai târziu, în anul 1904. E 7 iulie.
+Și așa: suntem trei ani mai târziu,
+în anul 1904. E 7 iulie.
 
 596
 01:01:23,308 --> 01:01:26,308
@@ -2384,19 +3001,23 @@ La câteva zile după absolvirea liceului.
 
 597
 01:01:28,394 --> 01:01:31,394
-Aceasta e vremea în care cei mai mulți tineri de pe la noi se grăbesc să se căsătorească.
+Aceasta e vremea în care cei mai mulți tineri
+de pe la noi se grăbesc să se căsătorească.
 
 598
 01:01:33,480 --> 01:01:36,480
-De îndată ce și-au trecut ultimele examene la geometria în spațiu
+De îndată ce și-au trecut ultimele examene
+la geometria în spațiu
 
 599
 01:01:38,566 --> 01:01:41,566
-și la cuvântările lui Cicero, s-ar părea că se consideră buni de căsătorit.
+și la cuvântările lui Cicero, s-ar părea
+că se consideră buni de căsătorit.
 
 600
 01:01:48,738 --> 01:01:51,738
-E dimineața în zori. Numai că de data asta a plouat.
+E dimineața în zori.
+Numai că de data asta a plouat.
 
 601
 01:01:53,825 --> 01:01:56,825
@@ -2404,19 +3025,24 @@ A turnat cu găleata și a fulgerat întruna.
 
 602
 01:01:58,911 --> 01:02:01,911
-Grădina doamnei Gibbs și a doamnei Webb, iată-le – ude complet.
+Grădina doamnei Gibbs
+și a doamnei Webb, iată-le – ude complet.
 
 603
 01:02:03,997 --> 01:02:06,997
-Multă tulpină de fasole și păstăi de mazăre sunt pline de apă.
+Multă tulpină de fasole și păstăi
+de mazăre sunt pline de apă.
 
 604
 01:02:09,083 --> 01:02:12,083
-Strada Principală a fost ieri toată ziua ca și cum ar fi fost ascunsă de perdele de ploaie.
+Strada Principală a fost ieri toată ziua ca și cum
+ar fi fost ascunsă de perdele de ploaie.
 
 605
 01:02:14,169 --> 01:02:17,169
-Auziți? Hm, și în orice clipă poate începe din nou ploaia!
+Auziți?
+Hm, și în orice
+clipă poate începe din nou ploaia!
 
 606
 01:02:19,255 --> 01:02:22,255
@@ -2424,23 +3050,29 @@ Se aude trenul de Boston de la 5.45.
 
 607
 01:02:24,341 --> 01:02:27,341
-Și iată-le pe doamna Gibbs și pe doamna Webb coborând
+Și iată-le pe doamna Gibbs
+și pe doamna Webb coborând
 
 608
 01:02:29,427 --> 01:02:32,427
-să pregătească micul dejun , ca în oricare altă zi.
+să pregătească
+micul dejun
+, ca în oricare altă zi.
 
 609
 01:02:34,513 --> 01:02:37,513
-Nu trebuie să mai atrag atenția doamnelor din sală că doamnele acestea
+Nu trebuie să mai atrag atenția doamnelor
+din sală că doamnele acestea
 
 610
 01:02:39,600 --> 01:02:42,600
-pe care le văd pe scenă, amândouă aceste doamne au făcut mâncare de trei ori pe zi –
+pe care le văd pe scenă, amândouă aceste
+doamne au făcut mâncare de trei ori pe zi –
 
 611
 01:02:44,686 --> 01:02:47,686
-una vreme de douăzeci de ani, cealaltă vreme de patruzeci de ani...
+una vreme de douăzeci de ani,
+cealaltă vreme de patruzeci de ani...
 
 612
 01:02:49,772 --> 01:02:52,772
@@ -2448,7 +3080,8 @@ fără nicio vacanță vara.
 
 613
 01:02:54,858 --> 01:02:57,858
-Fiecare dintre ele au crescut câte doi copii, au spălat și au făcut curat în casă...
+Fiecare dintre ele au crescut câte
+doi copii, au spălat și au făcut curat în casă...
 
 614
 01:02:59,944 --> 01:03:02,944
@@ -2456,11 +3089,13 @@ Fiecare dintre ele au crescut câte doi copii, au spălat și au făcut curat î
 
 615
 01:03:05,030 --> 01:03:08,030
-Nici ele nu simt că soarta le-ar fi tratat nedrept. Așa cum a spus un poet din Midwest:
+Nici ele nu simt că soarta le-ar fi tratat nedrept.
+Așa cum a spus un poet din Midwest:
 
 616
 01:03:10,116 --> 01:03:13,116
-„Ca să trăiești, trebuie să iubești viața, și ca să iubești viața, trebuie să trăiești…”
+„Ca să trăiești, trebuie să iubești viața,
+și ca să iubești viața, trebuie să trăiești…”
 
 617
 01:03:15,202 --> 01:03:18,202
@@ -2468,11 +3103,14 @@ Nici ele nu simt că soarta le-ar fi tratat nedrept. Așa cum a spus un poet din
 
 618
 01:03:20,288 --> 01:03:23,288
-Thornton Wilder. Autorul acestei piese. Așa cum se spune – este un cerc vicios.
+Thornton Wilder. Autorul acestei piese.
+Așa cum se spune – este un cerc vicios.
 
 619
 01:03:30,461 --> 01:03:33,461
-Iată-l și pe Howie Newsome și pe Bessie distribuind laptele.
+Iată-l și pe Howie Newsome
+
+și pe Bessie
 
 620
 01:03:35,547 --> 01:03:38,547
@@ -2480,23 +3118,33 @@ Hai, Bessie!
 
 621
 01:03:40,633 --> 01:03:43,633
-Și iată-l și pe Si Crowell, care împarte ziarele, ca în orice altă zi.
+Și iată-l și pe
+Si
+Crowell,
+care împarte ziarele, ca în orice altă zi.
 
 622
 01:03:45,719 --> 01:03:48,719
-Bună dimineața , Howie.
+Bună dimineața
+, Howie.
 
 623
 01:03:50,805 --> 01:03:53,805
-Bună dimineața , Si ... Ceva nou prin ziar, ca să știu și eu?
+Bună dimineața
+,
+Si
+... Ceva nou prin ziar,
 
 624
 01:03:55,891 --> 01:03:58,891
-Mai nimic, afară de faptul că îl pierdem aproape pe cel mai bun jucător de baseball ,
+Mai nimic, afară de faptul că îl pierdem
+aproape pe cel mai bun jucător de baseball
+,
 
 625
 01:04:00,977 --> 01:04:03,977
-pe George Gibbs, pe care l-a avut vreodată Grover's Corners...
+pe
+George Gibbs, pe
 
 626
 01:04:06,063 --> 01:04:09,063
@@ -2508,15 +3156,20 @@ Acum o să arunce doar fân toată ziua.
 
 628
 01:04:16,236 --> 01:04:19,236
-Hei, Bessie! Pot să mă opresc puțin să stăm de vorbă, dacă mi-e poftă!
+Hei, Bessie! Pot să mă opresc puțin
+să stăm de vorbă, dacă mi-e poftă!
 
 629
 01:04:26,408 --> 01:04:29,408
-– George e ra bun și în apărare și la înaintare. – Ihi, ce mai, un jucător grozav.
+–
+George
+e
+ra bun și în apărare și la înaintare.
 
 630
 01:04:31,494 --> 01:04:34,494
-Nu pot să înțeleg cum a putut să renunțe la treaba asta numai ca să se însoare.
+Nu pot să înțeleg cum a putut să renunțe
+la treaba asta numai ca să se însoare.
 
 631
 01:04:36,580 --> 01:04:39,580
@@ -2524,7 +3177,9 @@ Tu ai face așa ceva, Howie?
 
 632
 01:04:41,666 --> 01:04:44,666
-Știu și eu, Si? N-am avut niciodată un talent din ăsta...
+Știu și eu,
+Si?
+N-am avut niciodată
 
 633
 01:04:46,752 --> 01:04:49,752
@@ -2532,11 +3187,13 @@ Bună dimineața, Howie!
 
 634
 01:04:51,838 --> 01:04:54,838
-Bună dimineața. Azi te-ai sculat mai devreme, Bill.
+Bună dimineața.
+Azi te-ai sculat mai devreme, Bill.
 
 635
 01:04:56,925 --> 01:04:59,925
-Vreau să văd dacă nu e ceva de făcut ca să evităm vreo inundație.
+Vreau să văd dacă nu e ceva de făcut
+ca să evităm vreo inundație.
 
 636
 01:05:07,097 --> 01:05:10,097
@@ -2544,11 +3201,14 @@ Apa râului a crescut toată noaptea.
 
 637
 01:05:12,183 --> 01:05:15,183
-Si Crowell e distrus cu totul din cauza că George Gibbs se retrage de baseball.
+Si Crowell
+e distrus cu totul din cauza că
+George Gibbs se retrage de baseball.
 
 638
 01:05:17,269 --> 01:05:20,269
-Da, da, așa-i viața. În ’84, aveam un jucător, ca nici George Gibbs nu-i putea întrece.
+Da, da, așa-i viața. În ’84, aveam un jucător,
+ca nici George Gibbs nu-i putea întrece.
 
 639
 01:05:22,355 --> 01:05:25,355
@@ -2556,7 +3216,10 @@ Da, da, așa-i viața. În ’84, aveam un jucător, ca nici George Gibbs nu-i p
 
 640
 01:05:27,441 --> 01:05:30,441
-Hank Todd! În ’84, aveam un jucător cu acest nume .
+Hank Todd!
+În ’84, aveam un jucător
+cu acest nume
+.
 
 641
 01:05:32,527 --> 01:05:35,527
@@ -2572,31 +3235,43 @@ Howie, cum ți se pare că o să fie vremea?
 
 644
 01:05:52,872 --> 01:05:55,872
-N u prea rea. Cred chiar că o să se însenineze de-a binelea.
+N
+u prea rea. Cred chiar că
+o să se însenineze de-a binelea.
 
 645
 01:05:57,958 --> 01:06:00,958
-– Bill. – Howie.
+–
+Bill.
 
 646
 01:06:08,130 --> 01:06:11,130
-– Bună dimineața, doamnă Gibbs. – Bună dimineața, Howie.
+–
+
+Bună dimineața, doamnă Gibbs.
+–
 
 647
 01:06:13,216 --> 01:06:16,216
-Păcat că s-a stricat vremea. A plouat atât încât cred că o să se însenineze.
+Păcat că s-a stricat vremea. A plouat atât
+încât cred că o să se însenineze.
 
 648
 01:06:18,302 --> 01:06:21,302
-– Aș vrea și eu să fie așa. – Cât lapte luați astăzi?
+–
+
+Aș vrea și eu să fie așa.
+– Cât lapte luați astăzi?
 
 649
 01:06:23,388 --> 01:06:26,388
-Aș zice să-mi dai trei de lapte și două de smântână, Howie.
+Aș zice să-mi dai trei de lapte
+și două de smântână, Howie.
 
 650
 01:06:28,475 --> 01:06:31,475
-T rei de lapte și două de smântână.
+T
+rei de lapte și două de smântână.
 
 651
 01:06:38,647 --> 01:06:41,647
@@ -2604,23 +3279,28 @@ Soția mi-a spus să vă transmit, doamna Gibbs,
 
 652
 01:06:43,733 --> 01:06:46,733
-că vă dorim să fiți foarte fericiți. Și sunt sigur că vor fi.
+că vă dorim să fiți foarte fericiți.
+Și sunt sigur că vor fi.
 
 653
 01:06:48,819 --> 01:06:51,819
-Îți mulțumesc foarte mult, Howie. Spune-i soției că sper să vină la nuntă.
+Îți mulțumesc foarte mult, Howie.
+Spune-i soției că sper să vină la nuntă.
 
 654
 01:06:53,905 --> 01:06:56,905
-O să vină dacă o să poată.
+O
+să vină dacă o să poată.
 
 655
 01:07:04,077 --> 01:07:07,077
-Bună dimineața , doamna Webb.
+Bună dimineața
+, doamna Webb.
 
 656
 01:07:09,163 --> 01:07:12,163
-O, bună dimineața, domnule Newsome. Ți-am spus să-mi aduci patru sticle,
+O, bună dimineața, domnule Newsome.
+Ți-am spus să-mi aduci patru sticle,
 
 657
 01:07:14,250 --> 01:07:17,250
@@ -2632,31 +3312,39 @@ Da, doamnă... și două de smântână.
 
 659
 01:07:29,508 --> 01:07:32,508
-Crezi că o să înceapă să plouă iar, Howie ?
+Crezi că o să înceapă să plouă iar,
+Howie
 
 660
 01:07:34,594 --> 01:07:37,594
-Mde. Tocmai îi spuneam doamnei Gibbs că s-ar putea să se însenineze.
+Mde. Tocmai îi spuneam doamnei Gibbs
+că s-ar putea să se însenineze.
 
 661
 01:07:39,680 --> 01:07:42,680
-Soția mea mi-a spus să vă transmit că vă dorim, doamnă Webb,
+Soția mea
+mi-a spus
+să vă transmit că vă dorim, doamnă Webb,
 
 662
 01:07:44,766 --> 01:07:47,766
-ca amândoi să fiți foarte fericiți. Și sunt sigur că vor fi.
+ca amândoi să fiți foarte fericiți.
+Și sunt sigur că vor fi.
 
 663
 01:07:49,852 --> 01:07:52,852
-Îți mulțumesc și îi mulțumesc și doamnei Newsome și sperăm să vă vedem la biserică.
+Îți mulțumesc și îi mulțumesc și doamnei Newsome
+și sperăm să vă vedem la biserică.
 
 664
 01:07:54,938 --> 01:07:57,938
-Da, doamnă Webb. Sper să venim. Nu se poate să lipsim. Hai, Bessie.
+Da, doamnă Webb. Sper să venim.
+Nu se poate să lipsim. Hai, Bessie.
 
 665
 01:08:05,111 --> 01:08:08,111
-Ei, mama, a venit și ziua aceea. Unul din pui te părăsește.
+Ei, mama, a venit și ziua aceea.
+Unul din pui te părăsește.
 
 666
 01:08:10,197 --> 01:08:13,197
@@ -2664,7 +3352,8 @@ Da.
 
 667
 01:08:15,283 --> 01:08:18,283
-Frank Gibbs, să taci din gură. Îmi vine într-una să plâng.
+Frank Gibbs, să taci din gură.
+Îmi vine într-una să plâng.
 
 668
 01:08:20,369 --> 01:08:23,369
@@ -2672,19 +3361,23 @@ Stai jos și bea-ți cafeaua.
 
 669
 01:08:30,541 --> 01:08:33,541
-Mirele e sus și se bărbierește... Numai că nu prea are ce să bărbierească.
+Mirele e sus și se bărbierește...
+Numai că nu prea are ce să bărbierească.
 
 670
 01:08:35,627 --> 01:08:38,627
-Fluieră și cântă, de parcă s-ar bucura că ne lasă...
+Fluieră și cântă, de parcă
+s-ar bucura că ne lasă...
 
 671
 01:08:40,713 --> 01:08:43,713
-Mereu se uită în oglindă și spune: da!, dar nu-mi pare prea convins.
+Mereu se uită în oglindă și spune:
+da!, dar nu-mi pare prea convins.
 
 672
 01:08:45,800 --> 01:08:48,800
-Zău, Frank, nu știu cum o să se descurce. I-am pregătit haine și am avut grijă
+Zău, Frank, nu știu cum o să se descurce.
+I-am pregătit haine și am avut grijă
 
 673
 01:08:50,886 --> 01:08:53,886
@@ -2692,11 +3385,13 @@ să-și pună și lucrurile mai călduroase...
 
 674
 01:08:55,972 --> 01:08:58,972
-Frank, sunt prea tineri! Emily n-o să se gândească la toate astea.
+Frank, sunt prea tineri!
+Emily n-o să se gândească la toate astea.
 
 675
 01:09:01,058 --> 01:09:04,058
-Și de-aici într-o săptămână George o să răcească tun.
+Și de-aici într-o săptămână
+George o să răcească tun.
 
 676
 01:09:06,144 --> 01:09:09,144
@@ -2704,11 +3399,13 @@ Mă gândeam la ziua când m-am însurat.
 
 677
 01:09:11,230 --> 01:09:14,230
-Acum nu-ncepe și tu, Fran k .
+Acum nu-ncepe și tu, Fran
+k
 
 678
 01:09:16,316 --> 01:09:19,316
-Eram cel mai speriat flăcău din tot statul New Hampshire.
+Eram cel mai speriat flăcău din
+tot statul New Hampshire.
 
 679
 01:09:21,402 --> 01:09:24,402
@@ -2716,27 +3413,35 @@ Eram cel mai speriat flăcău din tot statul New Hampshire.
 
 680
 01:09:26,488 --> 01:09:29,488
-Și când te-am văzut venind printre cele două șiruri de bănci, da,
+Și când te-am văzut venind printre
+cele două șiruri de bănci, da,
 
 681
 01:09:31,575 --> 01:09:34,575
-mi-am zis că ești cea mai frumoasă fată din câte-am văzut vreodată.
+mi-am zis că ești cea mai frumoasă fată
+din câte-am văzut vreodată.
 
 682
 01:09:36,661 --> 01:09:39,661
-Da, singura problemă era că nu te mai văzusem niciodată până atunci.
+Da,
+singura problemă
+era că
+nu te mai văzusem niciodată până atunci.
 
 683
 01:09:41,747 --> 01:09:44,747
-Și uite-așa, eram în Biserica Congregată și mă-nșuram cu o femeie total necunoscută.
+Și uite-așa, eram în Biserica Congregată
+și mă-nșuram cu o femeie total necunoscută.
 
 684
 01:09:51,919 --> 01:09:54,919
-Și cum vă închipuiți că mă simțeam eu? Frank, nunțile astea sunt ceva îngrozitor.
+Și cum vă închipuiți că mă simțeam eu?
+Frank, nunțile astea sunt ceva îngrozitor.
 
 685
 01:09:57,005 --> 01:10:00,005
-Niște farse, asta sunt! Uite, ți-am pregătit ceva special!
+Niște farse, asta sunt!
+Uite, ți-am pregătit ceva special!
 
 686
 01:10:02,091 --> 01:10:05,091
@@ -2744,11 +3449,15 @@ O, Julia Hersey... biscuiți franțuzești!
 
 687
 01:10:07,177 --> 01:10:10,177
-Nu mi-a fost greu să-i fac și trebuia să fac ceva.
+Nu mi-a fost greu să-i fac
+și trebuia să fac ceva.
 
 688
 01:10:12,263 --> 01:10:15,263
-– Cum ai dormit în noaptea asta, Julia? – Ei, am cam tot auzit ceasul bătând.
+–
+
+Cum ai dormit în noaptea asta, Julia?
+–
 
 689
 01:10:17,350 --> 01:10:20,350
@@ -2756,7 +3465,8 @@ Da!
 
 690
 01:10:22,436 --> 01:10:25,436
-Daaa. Și de fiecare dată mă înfioram gândindu-mă că George se apucă
+Daaa. Și de fiecare dată mă înfioram
+gândindu-mă că George se apucă
 
 691
 01:10:27,522 --> 01:10:30,522
@@ -2764,43 +3474,53 @@ să-și întemeieze o familie...
 
 692
 01:10:32,608 --> 01:10:35,608
-Nimic nu este mai îngrozitor decât un fiu.
+Nimic nu este
+mai îngrozitor decât un fiu.
 
 693
 01:10:37,694 --> 01:10:40,694
-Relația dintre tată și fiu e cea mai afurisită, cea mai complicată...
+Relația dintre tată și fiu e
+cea mai afurisită, cea mai complicată...
 
 694
 01:10:42,780 --> 01:10:45,780
-Lasă că nici relațiile dintre mamă și fiică nu-s o distracție…
+Lasă că nici relațiile dintre mamă
+și fiică nu-s o distracție…
 
 695
 01:10:47,866 --> 01:10:50,866
-Da, cred că sunt o mulțime de încurcături, dar asta nu e treaba noastră.
+Da, cred că sunt o mulțime de încurcături,
+dar asta nu e treaba noastră.
 
 696
 01:10:52,952 --> 01:10:55,952
-Fiecare are dreptul la propriile sale încurcături.
+Fiecare are dreptul la propriile
+sale încurcături.
 
 697
 01:10:58,038 --> 01:11:01,038
-Da... oamenii trec prin viață, doi câte doi. Nu-i firesc să rămâi singur.
+Da... oamenii trec prin viață, doi câte doi.
+Nu-i firesc să rămâi singur.
 
 698
 01:11:03,125 --> 01:11:06,125
-Julia, printre altele, când m-am însurat cu tine,
+Julia, printre altele,
+când m-am însurat cu tine,
 
 699
 01:11:08,211 --> 01:11:11,211
-mi-era teamă că n-o să avem ce vorbi decât vreo câteva săptămâni.
+mi-era teamă că n-o să avem ce vorbi
+decât vreo câteva săptămâni.
 
 700
 01:11:13,297 --> 01:11:16,297
-Mi-era teamă că o să plecăm de acolo și o să stăm la masă și o să tăcem.
+Mi-era teamă că o să plecăm de acolo
+și o să stăm la masă și o să tăcem.
 
 701
 01:11:18,383 --> 01:11:21,383
-Și, uite, de vreo douăzeci de ani, tot stăm de vorbă
+Și, uite, de vreo douăzeci de ani,
+tot stăm de vorbă
 
 702
 01:11:23,469 --> 01:11:26,469
@@ -2808,23 +3528,28 @@ Mi-era teamă că o să plecăm de acolo și o să stăm la masă și o să tăc
 
 703
 01:11:28,555 --> 01:11:31,555
-Ei... și pe vreme bună și pe vreme rea, eu am întotdeauna ceva de spus.
+Ei... și pe vreme bună și pe vreme rea,
+eu am întotdeauna ceva de spus.
 
 704
 01:11:33,641 --> 01:11:36,641
-Ai auzit-o cumva pe Rebecca învârtindu-se sus?
+Ai auzit-o cumva pe Rebecca
+învârtindu-se sus?
 
 705
 01:11:38,727 --> 01:11:41,727
-Nu, e singura zi când Rebecca nu se mai amestecă în treburile altora.
+Nu, e singura zi când Rebecca
+nu se mai amestecă în treburile altora.
 
 706
 01:11:43,813 --> 01:11:46,813
-Se ascunde în camera ei... am impresia că plânge.
+Se ascunde în camera ei...
+am impresia că plânge.
 
 707
 01:11:48,900 --> 01:11:51,900
-Pentru numele lui Dumnezeu! Povestea asta trebuie să înceteze.
+Pentru numele lui Dumnezeu!
+Povestea asta trebuie să înceteze.
 
 708
 01:11:53,986 --> 01:11:56,986
@@ -2832,27 +3557,35 @@ Rebecca! Vino la masă!
 
 709
 01:11:59,072 --> 01:12:02,072
-Bună dimineața la toată lumea. Mai am încă patru ore de trăit.
+Bună dimineața la toată lumea.
+Mai am încă patru ore de trăit.
 
 710
 01:12:09,244 --> 01:12:12,244
-– Unde te duci? – Trec dincolo să-mi văd mireasa ...
+–
+
+Unde te duci?
+–
 
 711
 01:12:14,330 --> 01:12:17,330
-Cum, George, țara să-ți pui galoșii? Plouă cu găleata.
+Cum, George, țara să-ți pui galoșii?
+Plouă cu găleata.
 
 712
 01:12:19,416 --> 01:12:22,416
-Nu poți să ieși din casă așa, fără să iei ceva pe tine.
+Nu poți să ieși din casă așa,
+fără să iei ceva pe tine.
 
 713
 01:12:24,502 --> 01:12:27,502
-Păi, mama, sunt numai doi pași până acolo!
+Păi, mama, sunt numai doi pași
+până acolo!
 
 714
 01:12:29,588 --> 01:12:32,588
-Ai să răcești tun și-ai să tușești tot timpul cât o să dureze slujba.
+Ai să răcești tun și-ai să tușești
+tot timpul cât o să dureze slujba.
 
 715
 01:12:34,674 --> 01:12:37,674
@@ -2860,15 +3593,19 @@ George, fă așa cum îți spune maică-ta!
 
 716
 01:12:39,761 --> 01:12:42,761
-De mâine încolo poți să mergi cum vrei pe orice vreme,
+De mâine încolo poți să mergi
+cum vrei pe orice vreme,
 
 717
 01:12:44,847 --> 01:12:47,847
-dar atâta timp cât ești încă în casa mea, o să te porți cum trebuie .
+dar atâta timp cât ești încă în casa mea,
+o să te porți cum trebuie
+.
 
 718
 01:12:55,019 --> 01:12:58,019
-S-ar putea ca dna Webb să nu fie obișnuită să primească vizite așa devreme...
+S-ar putea ca dna Webb să nu fie
+obișnuită să primească vizite așa devreme...
 
 719
 01:13:05,191 --> 01:13:08,191
@@ -2884,7 +3621,9 @@ Bună dimineața, mama Webb.
 
 722
 01:13:35,708 --> 01:13:38,708
-Dumnezeule! M-ai speriat! D ar știi că nu te pot primi în casă.
+Dumnezeule! M-ai speriat!
+D
+ar știi că nu te pot primi în casă.
 
 723
 01:13:40,794 --> 01:13:43,794
@@ -2892,7 +3631,8 @@ De ce nu?
 
 724
 01:13:45,880 --> 01:13:48,880
-Știi la fel de bine ca și mine: mirele nu-și poate vedea mireasa
+Știi la fel de bine ca și mine:
+mirele nu-și poate vedea mireasa
 
 725
 01:13:50,966 --> 01:13:53,966
@@ -2900,7 +3640,8 @@ De ce nu?
 
 726
 01:13:56,052 --> 01:13:59,052
-Ei... asta e o superstiție. Bună dimineața, domnule Webb.
+Ei... asta e o superstiție.
+Bună dimineața, domnule Webb.
 
 727
 01:14:01,138 --> 01:14:04,138
@@ -2908,19 +3649,23 @@ Bună dimineața, George.
 
 728
 01:14:06,224 --> 01:14:09,224
-Domnule Webb, nu-i așa că dumneata nu crezi în superstiția asta?
+Domnule Webb, nu-i așa că dumneata
+nu crezi în superstiția asta?
 
 729
 01:14:11,311 --> 01:14:14,311
-Există multă înțelepciune uneori în unele superstiții, George.
+Există multă înțelepciune
+uneori în unele superstiții, George.
 
 730
 01:14:21,483 --> 01:14:24,483
-Milioane de oameni le-au respectat, George,
+Milioane de oameni le-au respectat,
+George,
 
 731
 01:14:26,569 --> 01:14:29,569
-și nu cred că vrei să fii primul care nu ține seama de obiceiuri.
+și nu cred că vrei să fii primul
+care nu ține seama de obiceiuri.
 
 732
 01:14:36,741 --> 01:14:39,741
@@ -2936,19 +3681,23 @@ Emily doarme?
 
 735
 01:14:51,999 --> 01:14:54,999
-Nu-i de mirare. Am stat toată noaptea... Acum să-ți spun eu ce-i de făcut:
+Nu-i de mirare. Am stat toată noaptea...
+Acum să-ți spun eu ce-i de făcut:
 
 736
 01:14:57,086 --> 01:15:00,086
-o să stai jos o clipă cu domnul Webb și ai să bei o ceașcă de cafea,
+o să stai jos o clipă cu domnul Webb
+și ai să bei o ceașcă de cafea,
 
 737
 01:15:02,172 --> 01:15:05,172
-iar eu o să mă duc sus și o să văd să nu vină Emily jos, să dea peste voi.
+iar eu o să mă duc sus și o să văd
+să nu vină Emily jos, să dea peste voi.
 
 738
 01:15:07,258 --> 01:15:10,258
-E și ceva șuncă, dar nu o lungiți prea mult.
+E și ceva șuncă,
+dar nu o lungiți prea mult.
 
 739
 01:15:17,430 --> 01:15:20,430
@@ -2956,11 +3705,13 @@ Ei, George, și cum te mai simți?
 
 740
 01:15:22,516 --> 01:15:25,516
-O, foarte bine. Domnule Webb, ce sens are o superstiție ca asta?
+O, foarte bine. Domnule Webb,
+ce sens are o superstiție ca asta?
 
 741
 01:15:27,602 --> 01:15:30,602
-Vezi, George, în dimineața nunții, mintea unei fete poate fi preocupată
+Vezi, George, în dimineața nunții,
+mintea unei fete poate fi preocupată
 
 742
 01:15:32,688 --> 01:15:35,688
@@ -2976,19 +3727,25 @@ Daaa. Nu m-am gândit la asta niciodată.
 
 745
 01:15:47,947 --> 01:15:50,947
-O fată poate fi foarte emoționată în ziua nunții.
+O fată poate fi foarte emoționată
+în ziua nunții.
 
 746
 01:15:53,033 --> 01:15:56,033
-Tare-aș mai vrea să te poți căsători fără tot tărăboiul ăsta.
+Tare-aș mai vrea să te poți căsători
+fără tot tărăboiul ăsta.
 
 747
 01:15:58,119 --> 01:16:01,119
-Fiecare bărbat de pe lumea asta a dorit același lucru, George, dar n-a folosit la nimic.
+Fiecare
+bărbat
+de pe lumea asta a dorit același
+lucru, George, dar n-a folosit la nimic.
 
 748
 01:16:03,205 --> 01:16:06,205
-Femeile au inventat povestea asta cu nunta, băiete.
+Femeile au inventat povestea asta
+cu nunta, băiete.
 
 749
 01:16:08,291 --> 01:16:11,291
@@ -2996,11 +3753,13 @@ Femeile au inventat povestea asta cu nunta, băiete.
 
 750
 01:16:13,377 --> 01:16:16,377
-Bărbatul e un băiețaș foarte mic la nunta lui, George.
+Bărbatul e un băiețaș foarte
+mic la nunta lui, George.
 
 751
 01:16:18,463 --> 01:16:21,463
-Toate femeile acelea de treabă stau umăr la umăr ca să fie sigure
+Toate femeile acelea de treabă
+stau umăr la umăr ca să fie sigure
 
 752
 01:16:23,549 --> 01:16:26,549
@@ -3008,31 +3767,40 @@ că totul e așa cum trebuie.
 
 753
 01:16:28,636 --> 01:16:31,636
-Totuși... crezi în asta, nu-i așa, domnule Webb?
+Totuși... crezi în asta, nu-i așa,
+domnule Webb?
 
 754
 01:16:33,722 --> 01:16:36,722
-O, desigur, desigur. Să nu mă înțelegi greșit, băiete.
+O, desigur, desigur.
+Să nu mă înțelegi greșit, băiete.
 
 755
 01:16:38,808 --> 01:16:41,808
-Căsătoria e un lucru minunat... minunat. Să nu uiți asta, George.
+Căsătoria e un lucru minunat...
+minunat. Să nu uiți asta, George.
 
 756
 01:16:43,894 --> 01:16:46,894
-Nuu... Domnule Webb, câți ani ai avut când te-ai însurat?
+Nuu... Domnule Webb,
+câți ani ai avut când te-ai însurat?
 
 757
 01:16:48,980 --> 01:16:51,980
-Terminasem colegiul și mai trecuse o vreme ca să mă aranjez și eu.
+Terminasem colegiul și mai
+trecuse o vreme ca să mă aranjez și eu.
 
 758
 01:16:54,066 --> 01:16:57,066
-Dar so ția mea nu era mai mare ca Emily.
+Dar so
+ția mea
+nu era
+mai mare ca Emily.
 
 759
 01:16:59,152 --> 01:17:02,152
-Vârsta nu prea are importanță în treaba asta, George... în comparație cu...
+Vârsta nu prea are importanță în treaba
+asta, George... în comparație cu...
 
 760
 01:17:04,238 --> 01:17:07,238
@@ -3048,7 +3816,8 @@ A, știu și eu... Am vrut să spun ceva?
 
 763
 01:17:19,497 --> 01:17:22,497
-Mă gândeam în noaptea asta la sfaturile pe care mi le dăduse
+Mă gândeam în noaptea asta
+la sfaturile pe care mi le dăduse
 
 764
 01:17:24,583 --> 01:17:27,583
@@ -3056,23 +3825,28 @@ tatăl meu când m-am însurat.
 
 765
 01:17:29,669 --> 01:17:32,669
-Charles, așa îi zicea el, Charles, de la început trebuie să arăți cine-i stăpânul în casă, așa mi-a zis.
+Charles, așa îi zicea el, Charles, de la început
+trebuie să arăți cine-i stăpânul în casă, așa mi-a zis.
 
 766
 01:17:34,755 --> 01:17:37,755
-Cel mai bun lucru e să poruncești, chiar dacă nu-i nevoie, numai așa, ca s-o înveți să te asculte.
+Cel mai bun lucru e să poruncești, chiar dacă nu-i nevoie,
+numai așa, ca s-o înveți să te asculte.
 
 767
 01:17:39,841 --> 01:17:42,841
-Și-mi mai spunea: ‘’dacă vreun lucru te supără în purtarea nevestei tale,
+Și-mi mai spunea: ‘’dacă vreun lucru
+te supără în purtarea nevestei tale,
 
 768
 01:17:44,927 --> 01:17:47,927
-cum vorbește, sau altceva — ridică-te și pleacă de-acasă.
+cum vorbește, sau altceva —
+ridică-te și pleacă de-acasă.
 
 769
 01:17:50,013 --> 01:17:53,013
-Asta o să o învețe minte.’’ Și, a, da, zicea el, niciodată, dar niciodată nevasta
+Asta o să o învețe minte.’’ Și, a, da,
+zicea el, niciodată, dar niciodată nevasta
 
 770
 01:17:55,099 --> 01:17:58,099
@@ -3084,47 +3858,60 @@ Eu nu cred că aș putea...
 
 772
 01:18:05,272 --> 01:18:08,272
-Așa că am făcut exact contrariul a ceea ce m-a sfătuit tatăl meu
+Așa că am făcut exact contrariul
+a ceea ce m-a sfătuit tatăl meu
 
 773
 01:18:10,358 --> 01:18:13,358
-și am fost fericit. Și asta să fie o lecție și pentru tine, George,
+și am fost fericit. Și asta să fie o lecție
+și pentru tine, George,
 
 774
 01:18:15,444 --> 01:18:18,444
-în probleme personale să nu ceri sfatul nimănui...
+în probleme personale
+să nu ceri sfatul nimănui...
 
 775
 01:18:20,530 --> 01:18:23,530
-... o să creșteți păsări la ferma?
+...
+o să creșteți păsări la ferma?
 
 776
 01:18:25,616 --> 01:18:28,616
-– Poftim? – O să creșteți păsări la ferma voastră?
+–
+
+Poftim?
+–
 
 777
 01:18:30,702 --> 01:18:33,702
-Mi-a căzut în mână, fiind în cabinetul meu, o carte despre sistemul Philo de creștere a păsărilor.
+Mi-a căzut în mână, fiind în cabinetul meu,
+o carte despre sistemul Philo de creștere a păsărilor.
 
 778
 01:18:35,788 --> 01:18:38,788
-Aș vrea s-o citești și tu. Mă gândesc că la început să încerc treaba asta
+Aș vrea s-o citești și tu. Mă gândesc
+că la început să încerc treaba asta
 
 779
 01:18:40,874 --> 01:18:43,874
-în ogradă și apoi o să pun în pivniță un incubator...
+în ogradă și apoi o să pun în pivniță
+un incubator...
 
 780
 01:18:45,961 --> 01:18:48,961
-Charles, iar ai început cu povestea aia cu incubatorul?
+Charles, iar ai început cu povestea
+aia cu incubatorul?
 
 781
 01:18:51,047 --> 01:18:54,047
-Credeam că vorbești de alte lucruri despre care ar fi fost cazul să vorbești.
+Credeam că vorbești de alte lucruri
+despre care ar fi fost cazul să vorbești.
 
 782
 01:18:56,133 --> 01:18:59,133
-Bine, Myrtle, dacă vrei să-i dai băiatului câteva sfaturi mai bune,
+Bine, Myrtle, dacă vrei să-i dai băiatului
+câteva sfaturi mai bune,
 
 783
 01:19:01,219 --> 01:19:04,219
@@ -3132,19 +3919,23 @@ mă duc sus și te las singură cu el.
 
 784
 01:19:06,305 --> 01:19:09,305
-George, Emily o să coboare imediat să mănânce.
+George, Emily o să coboare
+imediat să mănânce.
 
 785
 01:19:11,391 --> 01:19:14,391
-Îți transmite multă dragoste, dar nu vrea să te vadă. La revedere, George.
+Îți transmite multă dragoste, dar nu vrea
+să te vadă. La revedere, George.
 
 786
 01:19:16,477 --> 01:19:19,477
-Myrtle, tare mi se pare că habar n-ai de acel vechi obicei...
+Myrtle, tare mi se pare că habar
+n-ai de acel vechi obicei...
 
 787
 01:19:21,563 --> 01:19:24,563
-Acela de pe vremea oamenilor din peșteri: nici un mire nu trebuie
+Acela de pe vremea oamenilor
+din peșteri: nici un mire nu trebuie
 
 788
 01:19:26,649 --> 01:19:29,649
@@ -3152,31 +3943,38 @@ să-și vadă socrul în ziua nunții.
 
 789
 01:19:31,736 --> 01:19:34,736
-Sau într-o zi apropiată. Să ții minte altă dată.
+Sau într-o zi apropiată.
+Să ții minte altă dată.
 
 790
 01:19:36,822 --> 01:19:39,822
-Acum sunt din nou nevoită să intervin. N-ați vrea să știți cum a început totul?
+Acum sunt din nou nevoită să intervin.
+N-ați vrea să știți cum a început totul?
 
 791
 01:19:41,908 --> 01:19:44,908
-Nunta, dorința aceasta de a trăi o viață întreagă împreună.
+Nunta, dorința aceasta de a trăi
+o viață întreagă împreună.
 
 792
 01:19:46,994 --> 01:19:49,994
-Mă interesează grozav cum încep lucruri importante ca acestea.
+Mă interesează grozav cum încep
+lucruri importante ca acestea.
 
 793
 01:19:52,080 --> 01:19:55,080
-Știți cum e: ai 21 sau 22 ani, iei unele hotărâri,
+Știți cum e: ai 21 sau 22 ani,
+iei unele hotărâri,
 
 794
 01:19:57,166 --> 01:20:00,166
-și apoi te trezești deodată la 70 de ani: ai fost avocat
+și apoi te trezești deodată
+la 70 de ani: ai fost avocat
 
 795
 01:20:02,252 --> 01:20:05,252
-vreme de cincizeci de ani și ai luat masa împreună cu doamna asta cu părul alb care
+vreme de cincizeci de ani și ai luat masa
+împreună cu doamna asta cu părul alb care
 
 796
 01:20:07,338 --> 01:20:10,338
@@ -3188,11 +3986,13 @@ Oare cum încep asemenea lucruri?
 
 798
 01:20:22,597 --> 01:20:25,597
-George și Emily o să ne arate cum s-a desfășurat discuția când și-au dat seama
+George și Emily o să ne arate cum
+s-a desfășurat discuția când și-au dat seama
 
 799
 01:20:27,683 --> 01:20:30,683
-pentru prima dată că... că... așa cum se zice
+pentru prima dată că... că...
+așa cum se zice
 
 800
 01:20:32,769 --> 01:20:35,769
@@ -3200,7 +4000,8 @@ pentru prima dată că... că... așa cum se zice
 
 801
 01:20:37,855 --> 01:20:40,855
-Dar înainte de a o face, aș vrea să încercați să vă amintiți
+Dar înainte de a o face, aș vrea
+să încercați să vă amintiți
 
 802
 01:20:42,941 --> 01:20:45,941
@@ -3208,11 +4009,13 @@ cum era când ați fost foarte tineri.
 
 803
 01:20:48,027 --> 01:20:51,027
-Și mai ales de zilele când v-ați îndrăgostit pentru prima dată;
+Și mai ales de zilele când v-ați îndrăgostit
+pentru prima dată;
 
 804
 01:20:53,113 --> 01:20:56,113
-când mergeați de parcă erați în transă și nici nu știați pe unde mergeți
+când mergeați de parcă erați în transă
+și nici nu știați pe unde mergeți
 
 805
 01:20:58,199 --> 01:21:01,199
@@ -3220,31 +4023,41 @@ când mergeați de parcă erați în transă și nici nu știați pe unde merge�
 
 806
 01:21:03,286 --> 01:21:06,286
-Erați chiar puțin cam năuci. Vă amintiți cumva de asta?
+Erați chiar puțin cam năuci.
+Vă amintiți cumva de asta?
 
 807
 01:21:08,372 --> 01:21:11,372
-E ora trei. Și acum copiii vor ieși de la liceu.
+E ora trei.
+Și acum
+copiii
+vor ieși de la liceu.
 
 808
 01:21:13,458 --> 01:21:16,458
-George a fost ales președinte la cursul superior ; fiind luna iunie,
+George a fost ales președinte
+la cursul superior
+; fiind luna iunie,
 
 809
 01:21:18,544 --> 01:21:21,544
-asta înseamnă că la anul viitor va fi președintele anului terminal.
+asta înseamnă că la anul viitor
+va fi președintele anului terminal.
 
 810
 01:21:28,716 --> 01:21:31,716
-Iar Emily a fost aleasă secretara și casiera clasei.
+Iar Emily a fost aleasă secretara
+și casiera clasei.
 
 811
 01:21:38,888 --> 01:21:41,888
-Mda, iată-i că vin pe Strada Princip ală .
+Mda, iată-i că vin pe Strada Princip
+ală
 
 812
 01:21:43,974 --> 01:21:46,974
-Nu se poate, Lois. Trebuie să mă întorc acasă.
+Nu se poate, Lois.
+Trebuie să mă întorc acasă.
 
 813
 01:21:49,061 --> 01:21:52,061
@@ -3252,11 +4065,13 @@ Pa! Ah, Ernestine, Ernestine!
 
 814
 01:21:54,147 --> 01:21:57,147
-Nu ai putea veni azi seară să învățăm latină?
+Nu ai putea veni azi seară
+să învățăm latină?
 
 815
 01:21:59,233 --> 01:22:02,233
-Cicero e teribil de greu! Spune-i mamei tale că trebuie neapărat.
+Cicero e teribil de greu! Spune-i mamei
+tale că trebuie neapărat.
 
 816
 01:22:09,405 --> 01:22:12,405
@@ -3264,19 +4079,23 @@ Pa, Helen. Pa, Fred.
 
 817
 01:22:14,491 --> 01:22:17,491
-Îmi dai voie, Emily, să-ți duc eu cărțile până acasă?
+Îmi dai voie, Emily, să-ți duc
+eu cărțile până acasă?
 
 818
 01:22:19,577 --> 01:22:22,577
-Dar... aaaa.... Mulțumesc. Nu stau prea departe.
+Dar... aaaa.... Mulțumesc.
+Nu stau prea departe.
 
 819
 01:22:24,663 --> 01:22:27,663
-Scuză-mă un moment, Emily. Hei, Bob, dacă aș întârzia puțin,
+Scuză-mă un moment, Emily.
+Hei, Bob, dacă aș întârzia puțin,
 
 820
 01:22:29,749 --> 01:22:32,749
-începeți antrenamentul fără mine. Și dă-i lui Herb mingi înalte, lungi.
+începeți antrenamentul fără mine.
+Și dă-i lui Herb mingi înalte, lungi.
 
 821
 01:22:34,836 --> 01:22:37,836
@@ -3288,7 +4107,8 @@ Salut, Lizzy.
 
 823
 01:22:50,094 --> 01:22:53,094
-Mă bucur grozav, Emily, că ai fost și tu aleasă.
+Mă bucur grozav, Emily,
+că ai fost și tu aleasă.
 
 824
 01:22:55,180 --> 01:22:58,180
@@ -3296,15 +4116,20 @@ Mulțumesc.
 
 825
 01:23:00,266 --> 01:23:03,266
-– Emily, de ce ești supărată pe mine? – Nu sunt supărată pe tine.
+–
+
+Emily, de ce ești supărată pe mine?
+–
 
 826
 01:23:05,352 --> 01:23:08,352
-În ultimul timp te porți cu mine foarte ciudat.
+În ultimul timp te porți
+cu mine foarte ciudat.
 
 827
 01:23:10,438 --> 01:23:13,438
-Uite ce e, fiindcă mă întrebi, atunci o să-ți spun totul chiar acum, George.
+Uite ce e, fiindcă mă întrebi, atunci o
+să-ți spun totul chiar acum, George.
 
 828
 01:23:15,524 --> 01:23:18,524
@@ -3320,7 +4145,8 @@ Ce... ce?
 
 831
 01:23:35,869 --> 01:23:38,869
-Nu-mi place deloc schimbarea care s-a petrecut în purtarea ta în ultimul an.
+Nu-mi place deloc schimbarea
+care s-a petrecut în purtarea ta în ultimul an.
 
 832
 01:23:40,955 --> 01:23:43,955
@@ -3328,7 +4154,8 @@ Schimbarea?
 
 833
 01:23:46,041 --> 01:23:49,041
-Îmi pare rău că trebuie să-ți rănesc sentimentele, dar trebuie... să-ți spun adevărul.
+Îmi pare rău că trebuie să-ți rănesc
+sentimentele, dar trebuie... să-ți spun adevărul.
 
 834
 01:23:56,213 --> 01:23:59,213
@@ -3336,27 +4163,34 @@ Cum adică?
 
 835
 01:24:01,299 --> 01:24:04,299
-Uite, până acum un an îmi plăceai foarte mult, și-mi plăcea să mă uit
+Uite, până acum un an îmi plăceai
+foarte mult, și-mi plăcea să mă uit
 
 836
 01:24:06,386 --> 01:24:09,386
-la tot ce faci fiindcă suntem prieteni de multă vreme...
+la tot ce faci fiindcă suntem prieteni
+de multă vreme...
 
 837
 01:24:11,472 --> 01:24:14,472
-Ș i deodată ai început să-ți pierzi tot timpul cu baseball-ul
+Ș
+i deodată ai început să-ți pierzi
+tot timpul cu baseball-ul
 
 838
 01:24:16,558 --> 01:24:19,558
-și nu mai stai deloc de vorbă cu nimeni și nici măcar cu cei din familia ta și,
+și nu mai stai deloc de vorbă cu nimeni
+și nici măcar cu cei din familia ta și,
 
 839
 01:24:21,644 --> 01:24:24,644
-George, asta e un fapt, ai devenit îngrozitor de încăpățânat
+George, asta e un fapt,
+ai devenit îngrozitor de încăpățânat
 
 840
 01:24:26,730 --> 01:24:29,730
-și de orgolios și toate fetele spun acest lucru,
+și de orgolios și toate fetele spun
+acest lucru,
 
 841
 01:24:31,816 --> 01:24:34,816
@@ -3364,11 +4198,13 @@ George, asta e un fapt, ai devenit îngrozitor de încăpățânat
 
 842
 01:24:36,902 --> 01:24:39,902
-deși au dreptate pentru că asta este adevărul.
+deși au dreptate
+pentru că asta este adevărul.
 
 843
 01:24:41,988 --> 01:24:44,988
-Doamne, Emily. Cred că-i foarte greu să nu se strecoare în firea cuiva
+Doamne, Emily. Cred că-i foarte greu
+să nu se strecoare în firea cuiva
 
 844
 01:24:47,074 --> 01:24:50,074
@@ -3376,15 +4212,18 @@ Doamne, Emily. Cred că-i foarte greu să nu se strecoare în firea cuiva
 
 845
 01:24:52,161 --> 01:24:55,161
-Eu mă aștept întotdeauna ca bărbatul să fie perfect și așa și trebuie să fie.
+Eu mă aștept întotdeauna ca bărbatul
+să fie perfect și așa și trebuie să fie.
 
 846
 01:24:57,247 --> 01:25:00,247
-O... eu nu cred, Emily, că se poate să fii perfect.
+O... eu nu cred, Emily,
+că se poate să fii perfect.
 
 847
 01:25:02,333 --> 01:25:05,333
-Uite ce e, tatăl meu e, și după câte știu, și tatăl tău e.
+Uite ce e, tatăl meu e,
+și după câte știu, și tatăl tău e.
 
 848
 01:25:07,419 --> 01:25:10,419
@@ -3392,23 +4231,31 @@ Nu văd niciun motiv să nu fii și tu.
 
 849
 01:25:12,505 --> 01:25:15,505
-Eu însă cred că lucrurile stau puțin mai altfel.
+Eu însă cred că lucrurile
+stau puțin mai altfel.
 
 850
 01:25:17,591 --> 01:25:20,591
-Că bărbații nu sunt buni de la natură, dar că fetele sunt.
+Că bărbații nu sunt buni de la natură,
+dar că fetele sunt.
 
 851
 01:25:22,677 --> 01:25:25,677
-Atunci află că eu nu sunt perfectă. Nu e deloc ușor pentru o fată să fie
+Atunci află că eu nu sunt perfectă.
+Nu e deloc ușor pentru o fată să fie
 
 852
 01:25:27,763 --> 01:25:30,763
-tot atât de perfectă ca un bărbat, pentru că noi fetele suntem mai... mai... mai emotive. ..
+tot atât de perfectă ca un bărbat, pentru că
+noi fetele suntem mai... mai... mai emotive.
+..
 
 853
 01:25:37,936 --> 01:25:40,936
-Acum îmi pare rău că am spus toate lucrurile acelea despre tine , George .
+Acum îmi pare rău că am spus toate
+lucrurile acelea despre tine
+, George
+.
 
 854
 01:25:43,022 --> 01:25:46,022
@@ -3420,15 +4267,17 @@ Emily...
 
 856
 01:25:53,194 --> 01:25:56,194
-Acum îmi dau seama că nu-i nimic adevărat din ce ți-am spus și așa,
+Acum îmi dau seama că nu-i nimic
+adevărat din ce ți-am spus și așa,
 
 857
 01:25:58,280 --> 01:26:01,280
-îmi dau seama că n-aveau nicio importanță.
+îmi dau seama că
 
 858
 01:26:08,452 --> 01:26:11,452
-Emily... n-ai vrea să mănânci o înghețată sau altceva, înainte de a ne duce acasă?
+Emily... n-ai vrea să mănânci o înghețată
+sau altceva, înainte de a ne duce acasă?
 
 859
 01:26:18,624 --> 01:26:21,624
@@ -3436,23 +4285,28 @@ Da, mulțumesc, aș vrea.
 
 860
 01:26:28,797 --> 01:26:31,797
-Salut, Stew... cum ești? Bună ziua, Mrs. Slocum.
+Salut, Stew... cum ești?
+Bună ziua, Mrs. Slocum.
 
 861
 01:26:33,883 --> 01:26:36,883
-Hello, George. Hello, Emily... Ce luați?
+Hello, George. Hello, Emily...
+Ce luați?
 
 862
 01:26:38,969 --> 01:26:41,969
-Dar ce-i asta, Emily Webb, de ce-ai plâns?
+Dar ce-i asta, Emily Webb,
+de ce-ai plâns?
 
 863
 01:26:44,055 --> 01:26:47,055
-S-a speriat, chiar acum o clipă, dle Morgan.
+S-a speriat, chiar acum o clipă,
+dle Morgan.
 
 864
 01:26:49,141 --> 01:26:52,141
-Era cât pe ce s-o calce camionul acela al magazinului de sticlărie.
+Era cât pe ce s-o calce camionul
+acela al magazinului de sticlărie.
 
 865
 01:26:54,227 --> 01:26:57,227
@@ -3460,19 +4314,26 @@ Tom Huckins conduce ca un nebun.
 
 866
 01:26:59,313 --> 01:27:02,313
-B ea puțină apă, Emily. Arăți foarte tulburată.
+B
+ea puțină apă, Emily.
+Arăți foarte tulburată.
 
 867
 01:27:09,485 --> 01:27:12,485
-Știi, în ultima vreme când vrei să traversezi pe Strada Principală ,
+Știi, în ultima vreme când vrei
+să traversezi pe Strada
+Principală
+,
 
 868
 01:27:14,572 --> 01:27:17,572
-trebuie să te uiți într-o parte și în alta. Ce luați?
+trebuie să te uiți într-o parte
+și în alta. Ce luați?
 
 869
 01:27:19,658 --> 01:27:22,658
-Eu o să iau o limonadă , mulțumesc, Mr. Morgan!
+Eu o să iau o limonadă
+,
 
 870
 01:27:24,744 --> 01:27:27,744
@@ -3480,15 +4341,19 @@ Nu, nu, Emily, ia ca mine o înghețată.
 
 871
 01:27:29,830 --> 01:27:32,830
-Două înghețate de ciocolată și fragi, domnule Morgan.
+Două înghețate de ciocolată și fragi,
+domnule Morgan.
 
 872
 01:27:34,916 --> 01:27:37,916
-Două înghețate de ciocolată și fragi, domnule Gibbs. Da, da…
+Două înghețate de ciocolată și fragi,
+domnule Gibbs. Da, da…
 
 873
 01:27:40,002 --> 01:27:43,002
-Ei bine, în acest moment sunt 125 de cai în Grover’s Corners.
+Ei bine, în acest moment sunt
+125
+de cai în Grover’s Corners.
 
 874
 01:27:45,088 --> 01:27:48,088
@@ -3496,7 +4361,8 @@ Ieri a venit inspectorul statului.
 
 875
 01:27:50,174 --> 01:27:53,174
-Și acum încep să aducă aceste a-u-to-mo-bi-le;
+Și acum încep să aducă aceste
+a-u-to-mo-bi-le;
 
 876
 01:27:55,260 --> 01:27:58,260
@@ -3504,15 +4370,21 @@ e mai deștept să nu ieși deloc din casă.
 
 877
 01:28:00,347 --> 01:28:03,347
-Eeei... îmi aduc aminte de vremea când un câine putea să se tolănească
+Eeei... îmi aduc aminte de vremea
+când un câine putea să se tolănească
 
 878
 01:28:05,433 --> 01:28:08,433
-în plină Strada Principala , să doarmă acolo toată ziua și nimic să nu-i clintească din loc.
+în plină Strada
+Principala
+, să doarmă acolo
+toată ziua și nimic să nu-i clintească din loc.
 
 879
 01:28:10,519 --> 01:28:13,519
-Poftim. Imediat, Mrs. Ellis.
+Poftim.
+
+Imediat, Mrs. Ellis.
 
 880
 01:28:20,691 --> 01:28:23,691
@@ -3520,7 +4392,10 @@ Sunt foarte scumpe.
 
 881
 01:28:25,777 --> 01:28:28,777
-Nu, nu te gândi la asta , Emily . Sărbătorim alegerea noastră la școala.
+Nu, nu te gândi la asta
+, Emily
+.
+Sărbătorim alegerea noastră la școala.
 
 882
 01:28:30,863 --> 01:28:33,863
@@ -3528,23 +4403,29 @@ Nu, nu te gândi la asta , Emily . Sărbătorim alegerea noastră la școala.
 
 883
 01:28:35,949 --> 01:28:38,949
-Sărbătoresc faptul că am căpătat un prieten care-mi spune totul în față.
+Sărbătoresc faptul că am căpătat
+un prieten care-mi spune totul în față.
 
 884
 01:28:41,035 --> 01:28:44,035
-George, te rog nu te mai gândi la povestea aceea.
+George, te rog nu te mai gândi
+la povestea aceea.
 
 885
 01:28:46,122 --> 01:28:49,122
-Nu știu de ce ți-am spus-o. Nu-i adevărat. Ești...
+Nu știu de ce ți-am spus-o.
+Nu-i adevărat. Ești...
 
 886
 01:28:51,208 --> 01:28:54,208
-Nu, Emily, ține-o tot așa. Mă bucur că mi-ai vorbit așa.
+Nu, Emily, ține-o tot așa.
+Mă bucur că mi-ai vorbit așa.
 
 887
 01:28:56,294 --> 01:28:59,294
-A m să mă schimb foarte repede... pariez c-o să mă schimb.
+A
+m să mă schimb foarte repede...
+pariez c-o să mă schimb.
 
 888
 01:29:06,466 --> 01:29:09,466
@@ -3556,7 +4437,9 @@ Ce anume?
 
 890
 01:29:16,638 --> 01:29:19,638
-D acă am să plec anul viitor la Facultatea de Agronomie,
+D
+acă am să plec anul viitor
+la Facultatea de Agronomie,
 
 891
 01:29:21,724 --> 01:29:24,724
@@ -3568,59 +4451,77 @@ Desigur că o să-ți scriu, George.
 
 893
 01:29:36,983 --> 01:29:39,983
-Desigur că, fiind plecat timp de trei ani din oraș,
+Desigur că, fiind plecat timp
+de trei ani din oraș,
 
 894
 01:29:42,069 --> 01:29:45,069
-o să ți se pară că n-o să mai ai nicio legătură cu multe lucruri de pe-aici.
+o să ți se pară că n-o să mai ai nicio
+legătură cu multe lucruri de pe-aici.
 
 895
 01:29:47,155 --> 01:29:50,155
-Poate că, după un timp, scrisorile din Grover's Corners nici n-o să te mai intereseze.
+Poate că, după un timp, scrisorile din Grover's Corners
+
+nici n-o să te mai intereseze.
 
 896
 01:29:57,327 --> 01:30:00,327
-Dacă stai să te gândești mai bine, Grover's Corners nu-i orașul cel mai interesant...
+Dacă stai să te gândești mai bine,
+Grover's Corners nu-i orașul cel mai interesant...
 
 897
 01:30:02,413 --> 01:30:05,413
-din New Hampshire. Dar totuși e un ora ș frumos.
+din New Hampshire.
+Dar
+totuși
+e un ora
 
 898
 01:30:07,499 --> 01:30:10,499
-Ziua aceea nu va veni niciodată când să nu-mi pese de tot
+Ziua aceea nu va veni niciodată
+când să nu-mi pese de tot
 
 899
 01:30:12,585 --> 01:30:15,585
-ce se întâmplă în orașul nostru. Știu că asta e adevărat, Emily...
+ce se întâmplă în orașul nostru.
+Știu că asta e adevărat, Emily...
 
 900
 01:30:17,672 --> 01:30:20,672
-Bine, atunci o să încerc să fac ca scrisorile mele să fie foarte interesante.
+Bine, atunci o să încerc să fac ca
+scrisorile mele să fie foarte interesante.
 
 901
 01:30:27,844 --> 01:30:30,844
-Emily, ori de câte ori stau de vorbă cu vreun fermier, îl întreb dacă i se pare
+Emily, ori de câte ori stau de vorbă
+cu vreun fermier, îl întreb dacă i se pare
 
 902
 01:30:32,930 --> 01:30:35,930
-necesar să faci școala de agricultur ă pentru asta.
+necesar să faci școala de agricultur
+ă
+pentru asta.
 
 903
 01:30:48,188 --> 01:30:51,188
-Mde, unii dintre ei spun chiar că-ți irosești vremea degeaba.
+Mde, unii dintre ei spun chiar
+că-ți irosești vremea degeaba.
 
 904
 01:30:53,274 --> 01:30:56,274
-Ce se predă acolo poți învăța și din caietele pe care guvernul
+Ce se predă acolo poți învăța
+și din caietele pe care guvernul
 
 905
 01:30:58,360 --> 01:31:01,360
-le trimite fermierilor. Unchiul Luke a îmbătrânit...
+le trimite fermierilor.
+Unchiul Luke a îmbătrânit...
 
 906
 01:31:03,447 --> 01:31:06,447
-și e gata să-mi dea ferma și mâine, dacă aș putea lucra acolo.
+și e gata să-mi dea ferma și mâine,
+dacă aș putea lucra acolo.
 
 907
 01:31:08,533 --> 01:31:11,533
@@ -3628,11 +4529,13 @@ Doamne!
 
 908
 01:31:13,619 --> 01:31:16,619
-Și, așa cum spui și tu... să fii plecat atâta vreme...
+Și, așa cum spui și tu...
+să fii plecat atâta vreme...
 
 909
 01:31:18,705 --> 01:31:21,705
-să cunoști alți oameni... eu cred că oamenii noi pe care i-aș întâlni
+să cunoști alți oameni... eu cred
+că oamenii noi pe care i-aș întâlni
 
 910
 01:31:23,791 --> 01:31:26,791
@@ -3640,19 +4543,23 @@ n-ar fi mai buni decât cei pe care-i știu.
 
 911
 01:31:28,877 --> 01:31:31,877
-De fapt, cred că tu ești cel mai bun prieten din câți aș putea să am.
+De fapt, cred că tu ești cel mai bun
+prieten din câți aș putea să am.
 
 912
 01:31:33,963 --> 01:31:36,963
-N-am nevoie să plec și să cunosc alți oameni din alte orașe.
+N-am nevoie să plec și să cunosc
+alți oameni din alte orașe.
 
 913
 01:31:39,049 --> 01:31:42,049
-Dar, George, poate că e foarte important să pleci și să înveți toate lucrurile astea...
+Dar, George, poate că e foarte important
+să pleci și să înveți toate lucrurile astea...
 
 914
 01:31:44,135 --> 01:31:47,135
-să crești vitele, să cunoști cum e pământul... și tot felul de lucruri din astea...
+să crești vitele, să cunoști cum e pământul...
+și tot felul de lucruri din astea...
 
 915
 01:31:49,222 --> 01:31:52,222
@@ -3660,11 +4567,13 @@ Desigur, eu nu știu ce să spun...
 
 916
 01:31:54,308 --> 01:31:57,308
-Emily, uite, m-am hotărât chiar acum. Nu mai plec. O să-i spun asta diseară tatei.
+Emily, uite, m-am hotărât chiar acum.
+Nu mai plec. O să-i spun asta diseară tatei.
 
 917
 01:31:59,394 --> 01:32:02,394
-Dar George, nu-nțeleg de ce trebuie să te hotărăști chiar în clipa asta.
+Dar George, nu-nțeleg de ce trebuie
+să te hotărăști chiar în clipa asta.
 
 918
 01:32:04,480 --> 01:32:07,480
@@ -3672,55 +4581,68 @@ Ai timp încă un an.
 
 919
 01:32:09,566 --> 01:32:12,566
-Emily, m ă bucur că mi-ai vorbit de defectele mele.
+Emily, m
+ă bucur că mi-ai vorbit de defectele mele.
 
 920
 01:32:14,652 --> 01:32:17,652
-Ce ai spus tu era adevărat, dar undeva totuși ai greșit,
+Ce ai spus tu era adevărat,
+dar undeva totuși ai greșit,
 
 921
 01:32:19,738 --> 01:32:22,738
-și anume că vreme de-un an eu n-am dat atenție nimănui, și...
+și anume că vreme de-un an
+eu n-am dat atenție nimănui, și...
 
 922
 01:32:24,824 --> 01:32:27,824
-tu, de pildă. Tu mi-ai spus că te uitai la mine, la tot ce făceam...
+tu, de pildă. Tu mi-ai spus că te uitai
+la mine, la tot ce făceam...
 
 923
 01:32:29,910 --> 01:32:32,910
-și eu făceam același lucru în ceea ce te privește.
+și eu făceam același lucru în ceea
+ce te privește.
 
 924
 01:32:34,997 --> 01:32:37,997
-Mă gândeam întotdeauna la tine ca la primul om la care trebuie să mă gândesc.
+Mă gândeam întotdeauna la tine
+ca la primul om la care trebuie să mă gândesc.
 
 925
 01:32:40,083 --> 01:32:43,083
-Mă uitam întotdeauna cu cine stai pe bancă. Și am vorbit mult la școală,
+Mă uitam întotdeauna cu cine stai pe bancă.
+Și am vorbit mult la școală,
 
 926
 01:32:45,169 --> 01:32:48,169
-iar asta a fost foarte important pentru mine.
+iar asta a fost foarte important
+pentru mine.
 
 927
 01:32:50,255 --> 01:32:53,255
-Desigur, nu a fost la fel de bine ca discuția pe care o avem acum.
+Desigur, nu a fost la fel de bine
+ca discuția pe care o avem acum.
 
 928
 01:32:55,341 --> 01:32:58,341
-Și apoi, recent, am început să observ că ești puțin ciudată cu mine,
+Și apoi, recent, am început să observ
+că ești puțin ciudată cu mine,
 
 929
 01:33:00,427 --> 01:33:03,427
-iar de trei luni încerc să te conduc acasă, dar mereu a intervenit ceva.
+iar de trei luni încerc să te conduc
+acasă, dar mereu a intervenit ceva.
 
 930
 01:33:05,513 --> 01:33:08,513
-Ieri te-am așteptat sprijinit de zidul școlii, și ai plecat acasă cu domnișoara Corcoran.
+Ieri te-am așteptat sprijinit de zidul școlii,
+și ai plecat acasă cu domnișoara Corcoran.
 
 931
 01:33:10,599 --> 01:33:13,599
-George! Viața e teribil de ciudată! De unde să fi știut?...
+George! Viața e teribil de ciudată!
+De unde să fi știut?...
 
 932
 01:33:15,685 --> 01:33:18,685
@@ -3728,23 +4650,30 @@ Cum, eu credeam că...
 
 933
 01:33:20,772 --> 01:33:23,772
-Ascultă, Emily. Îți spun de ce nu merg la Școala Agricolă.
+Ascultă, Emily.
+Îți spun de ce nu merg la Școala Agricolă.
 
 934
 01:33:25,858 --> 01:33:28,858
-Mă gândesc că, de vreme ce am găsit o flin ț ă la care țin foarte mult,
+Mă gândesc că, de vreme ce
+am găsit o flin
+ț
+ă la care țin foarte mult,
 
 935
 01:33:30,944 --> 01:33:33,944
-adică o flintă care ține și ea la mine și îi plac într-atât de mult încât să o intereseze caracterul meu...
+adică o flintă care ține și ea la mine și îi plac într-atât
+de mult încât să o intereseze caracterul meu...
 
 936
 01:33:36,030 --> 01:33:39,030
-ei bine, cred că lucrul ăsta e tot atât de important ca și facultatea,
+ei bine, cred că lucrul ăsta e tot atât
+de important ca și facultatea,
 
 937
 01:33:41,116 --> 01:33:44,116
-și chiar mai important ca ea. Asta-i părerea mea.
+și chiar mai important ca ea.
+Asta-i părerea mea.
 
 938
 01:33:46,202 --> 01:33:49,202
@@ -3752,19 +4681,25 @@ ei bine, cred că lucrul ăsta e tot atât de important ca și facultatea,
 
 939
 01:33:51,288 --> 01:33:54,288
-– Emily. – Ddda, George.
+–
+
+Emily.
+–
 
 940
 01:33:56,374 --> 01:33:59,374
-Emily, dacă devin mai bun și mă schimb cu totul... ai putea să...
+Emily, dacă devin mai bun și mă schimb
+cu totul... ai putea să...
 
 941
 01:34:01,460 --> 01:34:04,460
-Eu... și acum a ... dintotdeauna...
+Eu... și acum
+a
 
 942
 01:34:11,633 --> 01:34:14,633
-Atunci cred că discuția noastră a fost foarte importantă.
+Atunci cred că discuția noastră
+a fost foarte importantă.
 
 943
 01:34:16,719 --> 01:34:19,719
@@ -3772,27 +4707,33 @@ Da, da.
 
 944
 01:34:26,891 --> 01:34:29,891
-Așteaptă o clipă. Apoi te cond u c acas ă.
+Așteaptă o clipă.
+Apoi te
 
 945
 01:34:31,977 --> 01:34:34,977
-Domnule Morgan, trebuie să mă duc acasă să iau bani ca să-ți plătesc.
+Domnule Morgan, trebuie să mă duc acasă
+să iau bani ca să-ți plătesc.
 
 946
 01:34:37,063 --> 01:34:40,063
-Ce? George Gibbs, vrei să-mi spui că...
+Ce? George Gibbs,
+vrei să-mi spui că...
 
 947
 01:34:42,149 --> 01:34:45,149
-Ba da. Dar am avut motive importante, Mr. Morgan.
+Ba da. Dar am avut motive importante,
+Mr. Morgan.
 
 948
 01:34:47,235 --> 01:34:50,235
-Uitați, ceasul meu de aur, îl lăsați ca gaj până mă întorc cu banii.
+Uitați, ceasul meu de aur, îl lăsați
+ca gaj până mă întorc cu banii.
 
 949
 01:34:52,322 --> 01:34:55,322
-Bine. Ține-ți ceasul. Am încredere în tine.
+Bine. Ține-ți ceasul.
+Am încredere în tine.
 
 950
 01:34:57,408 --> 01:35:00,408
@@ -3800,15 +4741,18 @@ Mă întorc în cinci minute.
 
 951
 01:35:07,580 --> 01:35:10,580
-Îți acord un credit de zece ani, George – dar nu cu o zi mai mult!
+Îți acord un credit de zece ani, George –
+dar nu cu o zi mai mult!
 
 952
 01:35:12,666 --> 01:35:15,666
-Ei bine, Emily, ți-ai revenit după sperietură?
+Ei bine, Emily, ți-ai revenit
+după sperietură?
 
 953
 01:35:17,752 --> 01:35:20,752
-Oh, da, mulțumesc, Mr. Morgan. A fost o nimica toată.
+Oh, da, mulțumesc, Mr. Morgan.
+A fost o nimica toată.
 
 954
 01:35:22,838 --> 01:35:25,838
@@ -3824,19 +4768,23 @@ Multe lucruri se pot spune despre o nuntă;
 
 957
 01:35:43,183 --> 01:35:46,183
-în timpul unei nunți îți trec prin minte o mulțime de gânduri.
+în timpul unei nunți îți trec prin
+minte o mulțime de gânduri.
 
 958
 01:35:48,269 --> 01:35:51,269
-Nu le vom putea aminti pe toate cu prilejul unei singure nunți, firește,
+Nu le vom putea aminti pe toate
+cu prilejul unei singure nunți, firește,
 
 959
 01:35:53,355 --> 01:35:56,355
-și mai ales nu cu prilejul unei nunți din Grover’s Corners,
+și mai ales nu cu prilejul unei nunți
+din Grover’s Corners,
 
 960
 01:35:58,441 --> 01:36:01,441
-unde nunțile sunt îngrozitor de simple și scurte.
+unde nunțile sunt îngrozitor
+de simple și scurte.
 
 961
 01:36:08,613 --> 01:36:11,613
@@ -3844,39 +4792,50 @@ Astăzi eu joc rolul preotului.
 
 962
 01:36:13,699 --> 01:36:16,699
-Aceasta îmi oferă ocazia să spun câteva cuvinte mai multe despre asta.
+Aceasta îmi oferă ocazia să spun
+câteva cuvinte mai multe despre asta.
 
 963
 01:36:18,785 --> 01:36:21,785
-Pentru o vreme, această piesă devine foarte serioasă.
+Pentru o vreme, această piesă
+devine foarte serioasă.
 
 964
 01:36:23,872 --> 01:36:26,872
-Știu că unele biserici spun că e o sfântă taină, căsătoria.
+Știu că unele biserici spun
+că e o sfântă taină, căsătoria.
 
 965
 01:36:28,958 --> 01:36:31,958
-Nu prea știu ce vrea să însemne asta, dar îmi pot închipui.
+Nu prea știu ce vrea să însemne asta,
+dar îmi pot închipui.
 
 966
 01:36:34,044 --> 01:36:37,044
-Oamenii au fost creați să trăiască în perechi – C um zicea doamna Gibbs acum câteva minute .
+Oamenii au fost creați să trăiască în perechi
+–
+C
+um zicea doamna Gibbs acum câteva minute
 
 967
 01:36:39,130 --> 01:36:42,130
-Nunta e un lucru bun, dar chiar și la o asemenea nuntă
+Nunta e un lucru bun,
+dar chiar și la o asemenea nuntă
 
 968
 01:36:44,216 --> 01:36:47,216
-sunt o mulțime de lucruri încurcate, înrădăcinate în mințile oamenilor.
+sunt o mulțime de lucruri încurcate,
+înrădăcinate în mințile oamenilor.
 
 969
 01:36:49,302 --> 01:36:52,302
-Chiar a venit momentul să fac acest pas important?
+Chiar a venit momentul să fac
+acest pas important?
 
 970
 01:36:54,388 --> 01:36:57,388
-Acest om de lângă mine – este cu adevărat singurul pe care Dumnezeu
+Acest om de lângă mine – este
+cu adevărat singurul pe care Dumnezeu
 
 971
 01:36:59,474 --> 01:37:02,474
@@ -3884,23 +4843,28 @@ Acest om de lângă mine – este cu adevărat singurul pe care Dumnezeu
 
 972
 01:37:04,560 --> 01:37:07,560
-Dar, așa cum a spus un european: Fiecare copil născut
+Dar, așa cum a spus un european:
+Fiecare copil născut
 
 973
 01:37:09,647 --> 01:37:12,647
-este o nouă încercare a naturii de a crea omul perfect.
+este o nouă încercare a naturii
+de a crea omul perfect.
 
 974
 01:37:14,733 --> 01:37:17,733
-Ei bine, de ceva vreme vedem cum natura încearcă și se chinuie.
+Ei bine, de ceva vreme vedem cum natura
+încearcă și se chinuie.
 
 975
 01:37:19,819 --> 01:37:22,819
-Toți știm că îi pasă de cantitate — dar cred că și de calitate.
+Toți știm că îi pasă de cantitate —
+dar cred că și de calitate.
 
 976
 01:37:24,905 --> 01:37:27,905
-Poate că încearcă să creeze un nou guvernator bun pentru New Hampshire.
+Poate că încearcă să creeze
+un nou guvernator bun pentru New Hampshire.
 
 977
 01:37:29,991 --> 01:37:32,991
@@ -3908,23 +4872,32 @@ Cel puțin Emily speră asta.
 
 978
 01:37:40,163 --> 01:37:43,163
-Și în asta speră toți martorii nunții, și au sperat și strămoșii noștri.
+Și în asta speră toți martorii nunții,
+și au sperat și strămoșii noștri.
 
 979
 01:37:45,249 --> 01:37:48,249
-Milioane de strămoși - majoritatea lor au trăit și ei așa, doi câte doi.
+Milioane de strămoși - majoritatea lor
+au trăit și ei așa, doi câte doi.
 
 980
 01:37:55,422 --> 01:37:58,422
-Spera nța. A ceasta este credința mea. Dar aici mă opresc acum.
+Spera
+nța.
+
+A
 
 981
 01:38:05,594 --> 01:38:08,594
-Habar n-am de ce trebuie să plâng. Cred că n-am nici un motiv să plâng.
+Habar n-am de ce trebuie să plâng.
+Cred că n-am nici un motiv să plâng.
 
 982
 01:38:15,766 --> 01:38:18,766
-M-a apucat așa, deodată, azi dimineață, la micul dejun ; Emily mânca așa cum mănâncă
+M-a apucat așa, deodată, azi dimineață,
+la
+micul dejun
+; Emily mânca așa cum mănâncă
 
 983
 01:38:20,852 --> 01:38:23,852
@@ -3932,19 +4905,24 @@ M-a apucat așa, deodată, azi dimineață, la micul dejun ; Emily mânca așa c
 
 984
 01:38:25,938 --> 01:38:28,938
-și acum o să se ducă să mănânce dimineața în casa altcuiva.
+și acum o să se ducă să mănânce
+dimineața în casa altcuiva.
 
 985
 01:38:36,110 --> 01:38:39,110
-Cred că asta e motivul. Și Emily! Mi-a spus deodată „Nu mai pot mânca nimic”,
+Cred că asta e motivul. Și Emily! Mi-a spus
+deodată „Nu mai pot mânca nimic”,
 
 986
 01:38:41,197 --> 01:38:44,197
-și-a pus capul pe masă și a început să plângă.
+și-a pus capul pe masă
+și a început să plângă.
 
 987
 01:38:51,369 --> 01:38:54,369
-E totuși de-a dreptul o cruzime să ne lăsăm fetele
+E
+totuși de-a dreptul o cruzime
+să ne lăsăm fetele
 
 988
 01:38:56,455 --> 01:38:59,455
@@ -3952,19 +4930,23 @@ să se mărite în felul ăsta.
 
 989
 01:39:01,541 --> 01:39:04,541
-Sper că vreuna dintre prietenele ei să-i fi spus câte ceva.
+Sper că vreuna dintre prietenele ei
+să-i fi spus câte ceva.
 
 990
 01:39:06,627 --> 01:39:09,627
-E-o cruzime, o știu, dar nu m-am putut hotărî să-i vorbesc despre...
+E-o cruzime, o știu, dar nu m-am putut hotărî
+să-i vorbesc despre...
 
 991
 01:39:11,713 --> 01:39:14,713
-Eu însămi am intrat în căsătorie oarbă .
+Eu însămi am intrat în căsătorie oarbă
+.
 
 992
 01:39:21,885 --> 01:39:24,885
-Nimic nu-i așa cum trebuie să fie, asta-i tot.
+Nimic nu-i așa cum trebuie să fie,
+asta-i tot.
 
 993
 01:39:32,058 --> 01:39:35,058
@@ -3976,19 +4958,23 @@ Uitați-vă acolo – o să leșine de frică!
 
 995
 01:39:42,230 --> 01:39:45,230
-George! Hai, nu te uita așa inocent, vulpe bătrână.
+George! Hai, nu te uita așa inocent,
+vulpe bătrână.
 
 996
 01:39:47,316 --> 01:39:50,316
-Știm la ce te gândești. Nu aduce rușine echipei, bătrâne! Huuu!
+Știm la ce te gândești. Nu aduce rușine
+echipei, bătrâne! Huuu!
 
 997
 01:39:52,402 --> 01:39:55,402
-Bine, bine, ajunge! Ajunge cu asta.
+Bine, bine, ajunge!
+Ajunge cu asta.
 
 998
 01:39:57,488 --> 01:40:00,488
-Au fost multe de genul acesta la nunți în vremuri vechi —
+Au fost multe de genul acesta la nunți
+în vremuri vechi —
 
 999
 01:40:02,574 --> 01:40:05,574
@@ -4000,11 +4986,15 @@ George! Ce-i cu tine?
 
 1001
 01:40:17,833 --> 01:40:20,833
-Mamă, nu vreau să îmbătrânesc. De ce mă împinge toată lumea așa?
+Mamă, nu vreau să îmbătrânesc.
+De ce mă împinge toată lumea așa?
 
 1002
 01:40:22,919 --> 01:40:25,919
-– Dar, George, tu ai vrut-o. – Nu, ascultă-mă, mamă...
+–
+
+Dar, George, tu ai vrut-o.
+–
 
 1003
 01:40:28,005 --> 01:40:31,005
@@ -4012,11 +5002,13 @@ N-are rost, George, acum ești bărbat.
 
 1004
 01:40:33,091 --> 01:40:36,091
-Ascultă-mă, mamă, te rog pentru ultima oară... tot ce vreau e să fiu un om...
+Ascultă-mă, mamă, te rog pentru ultima
+oară... tot ce vreau e să fiu un om...
 
 1005
 01:40:38,177 --> 01:40:41,177
-George! Dacă te aude cineva! Termină! Să știi că mi-e rușine cu tine!
+George! Dacă te aude cineva! Termină!
+Să știi că mi-e rușine cu tine!
 
 1006
 01:40:43,263 --> 01:40:46,263
@@ -4036,27 +5028,37 @@ Lasă-mă să-mi revin o clipă.
 
 1010
 01:41:03,608 --> 01:41:06,608
-M amă, să ne rezervi serile de joi. .
+M
+amă, să ne rezervi serile de
 
 1011
 01:41:08,694 --> 01:41:11,694
-Emily și cu mine vom veni să luăm cina la voi în fiecare joi seara, ai să vezi...
+Emily și cu mine vom veni să luăm cina
+la voi în fiecare
+joi
+seara, ai să vezi...
 
 1012
 01:41:13,780 --> 01:41:16,780
-Mamă, de ce plângi? Hai, trebuie să fim gata de nuntă.
+Mamă, de ce plângi?
+Hai, trebuie să fim gata de nuntă.
 
 1013
 01:41:18,866 --> 01:41:21,866
-Niciodată în viața mea nu m-am simțit atât de singură.
+Niciodată în viața mea nu m-am simțit
+atât de singură.
 
 1014
 01:41:23,952 --> 01:41:26,952
-Uite-l pe George... cu figura asta... îl urăsc! Mai bine aș muri acum! Tată!
+Uite-l pe George... cu figura asta... îl urăsc!
+Mai bine aș muri acum! Tată!
 
 1015
 01:41:29,038 --> 01:41:32,038
-– Emily! Liniștește-te, ce-i cu tine? – Dar, tată, nu vreau să mă mărit!
+–
+
+Emily! Liniștește-te, ce-i cu tine?
+–
 
 1016
 01:41:34,124 --> 01:41:37,124
@@ -4064,7 +5066,8 @@ Uite-l pe George... cu figura asta... îl urăsc! Mai bine aș muri acum! Tată!
 
 1017
 01:41:39,210 --> 01:41:42,210
-De ce să nu mai rămân așa cum sunt acum? Hai să plecăm de aici...
+De ce să nu mai rămân așa cum
+sunt acum? Hai să plecăm de aici...
 
 1018
 01:41:44,296 --> 01:41:47,296
@@ -4072,19 +5075,23 @@ Nu, nu. Stai o clipă și reculege-te.
 
 1019
 01:41:49,383 --> 01:41:52,383
-Nu-ți amintești că-mi spuneai... mereu îmi spuneai, mereu, că sunt fata ta!
+Nu-ți amintești că-mi spuneai...
+mereu îmi spuneai, mereu, că sunt fata ta!
 
 1020
 01:41:54,469 --> 01:41:57,469
-Sunt o mulțime de locuri unde am putea merge.
+Sunt o mulțime de locuri unde
+am putea merge.
 
 1021
 01:41:59,555 --> 01:42:02,555
-Aș munci pentru tine. Aș putea ține casa.
+Aș munci pentru tine.
+Aș putea ține casa.
 
 1022
 01:42:04,641 --> 01:42:07,641
-Șșș... n-ar rost să te gândești la lucrurile astea. Ești pur și simplu emoționată, Emily.
+Șșș... n-ar rost să te gândești la lucrurile astea.
+Ești pur și simplu emoționată, Emily.
 
 1023
 01:42:14,813 --> 01:42:17,813
@@ -4092,15 +5099,19 @@ George! George! Vrei să vii o clipă?
 
 1024
 01:42:19,899 --> 01:42:22,899
-Doar te măriești cu cel mai bun băiat din lume. George e un băiat admirabil.
+Doar te măriești cu cel mai bun băiat
+din lume. George e un băiat admirabil.
 
 1025
 01:42:24,985 --> 01:42:27,985
-Ți-o dau pe fiica mea, George. Crezi că o să poți avea grijă de ea?
+Ți-o dau pe fiica mea, George.
+Crezi că o să poți avea grijă de ea?
 
 1026
 01:42:30,071 --> 01:42:33,071
-V reau să... o să încerc. Emily, o să fac totul pentru tine.
+V
+reau să... o să încerc.
+Emily, o să fac totul pentru tine.
 
 1027
 01:42:35,158 --> 01:42:38,158
@@ -4108,7 +5119,8 @@ Te iubesc, am nevoie de tine.
 
 1028
 01:42:40,244 --> 01:42:43,244
-Bine, dacă mă iubești, ajută-mă. Tot ce vreau e un om care să mă iubească.
+Bine, dacă mă iubești, ajută-mă.
+Tot ce vreau e un om care să mă iubească.
 
 1029
 01:42:45,330 --> 01:42:48,330
@@ -4116,11 +5128,15 @@ Te voi iubi. Emily, o să încerc.
 
 1030
 01:42:50,416 --> 01:42:53,416
-Și când spun asta, înțeleg pentru totdeauna. Auzi? P entru totdeauna .
+Și când spun asta, înțeleg pentru totdeauna. Auzi?
+P
+entru totdeauna
+.
 
 1031
 01:43:00,588 --> 01:43:03,588
-Haideți, oamenii ne așteaptă. Acum știți că totul va merge cum trebuie.
+Haideți, oamenii ne așteaptă. Acum știți
+că totul va merge cum trebuie.
 
 1032
 01:43:10,760 --> 01:43:13,760
@@ -4128,7 +5144,8 @@ Nu-i frumoasă mireasa?
 
 1033
 01:43:20,933 --> 01:43:23,933
-George, o iei pe această femeie, Emily, ca soție,
+George, o iei pe această femeie, Emily,
+ca soție,
 
 1034
 01:43:26,019 --> 01:43:29,019
@@ -4136,11 +5153,13 @@ ca din această zi să trăiești alături de ea,
 
 1035
 01:43:31,105 --> 01:43:34,105
-în boală și în sănătate, la bine și la greu, s-o iubești
+în boală și în sănătate,
+la bine și la greu, s-o iubești
 
 1036
 01:43:36,191 --> 01:43:39,191
-și s-o cinstești, până când moartea vă va despărți?
+și s-o cinstești, până când moartea
+vă va despărți?
 
 1037
 01:43:41,277 --> 01:43:44,277
@@ -4148,7 +5167,8 @@ Cea mai frumoasă nuntă din câte am văzut!
 
 1038
 01:43:46,363 --> 01:43:49,363
-Tare îmi plac nunțile frumoase, dumneavoastră nu? Nu-i frumoasă mireasa?
+Tare îmi plac nunțile frumoase,
+dumneavoastră nu? Nu-i frumoasă mireasa?
 
 1039
 01:43:51,449 --> 01:43:54,449
@@ -4156,23 +5176,28 @@ Da.
 
 1040
 01:43:56,535 --> 01:43:59,535
-Vrei, Emily, îl iei pe acest tânăr, George, ca soț al tău?
+Vrei, Emily, îl iei pe acest tânăr,
+George, ca soț al tău?
 
 1041
 01:44:01,621 --> 01:44:04,621
-Nu știu cum se întâmplă, dar când văd o nuntă atât de frumoasă,
+Nu știu cum se întâmplă, dar când văd
+o nuntă atât de frumoasă,
 
 1042
 01:44:06,708 --> 01:44:09,708
-mă apucă plânsul întotdeauna. Nu știu de ce, dar întotdeauna mă apucă plânsul.
+mă apucă plânsul întotdeauna. Nu știu de ce,
+dar întotdeauna mă apucă plânsul.
 
 1043
 01:44:11,794 --> 01:44:14,794
-Pur și simplu îmi place să văd tineri care sunt fericiți. O, tare-i frumos!
+Pur și simplu îmi place să văd tineri
+care sunt fericiți. O, tare-i frumos!
 
 1044
 01:44:16,880 --> 01:44:19,880
-…până când moartea vă va despărți?
+…până când moartea
+vă va despărți?
 
 1045
 01:44:21,966 --> 01:44:24,966
@@ -4184,27 +5209,35 @@ Inelul!
 
 1047
 01:44:37,224 --> 01:44:40,224
-Am căsătorit peste două sute de perechi la vremea mea.
+Am căsătorit peste două sute de perechi
+la vremea mea.
 
 1048
 01:44:42,310 --> 01:44:45,310
-Oare cred în povestea asta? Nu știu nici eu. X. se căsătorește cu Y...
+Oare cred în povestea asta?
+Nu știu nici eu. X. se căsătorește cu Y...
 
 1049
 01:44:52,483 --> 01:44:55,483
-Căsuța, căruciorul pentru copil, plimbările de sâmbătă după-amiază cu Fordul,
+Căsuța, căruciorul pentru copil,
+plimbările de sâmbătă după-amiază cu Fordul,
 
 1050
 01:44:57,569 --> 01:45:00,569
-Prim a criz ă de reumatism, nepoții, a doua criză de reumatism, clipa morții,
+Prim
+a criz
+ă
+de reumatism, nepoții,
 
 1051
 01:45:02,655 --> 01:45:05,655
-citirea testamentului. Doar o dată dintr-o mie de cazuri e interesant.
+citirea testamentului. Doar o dată dintr-o
+mie de cazuri e interesant.
 
 1052
 01:45:12,827 --> 01:45:15,827
-S ă auzim!
+S
+ă auzim!
 
 1053
 01:45:22,999 --> 01:45:25,999
@@ -4212,35 +5245,50 @@ Nu sunt o pereche drăguță?
 
 1054
 01:45:28,085 --> 01:45:31,085
-Ah, niciodată nu am mai fost la o nuntă atât de frumoasă.
+Ah, niciodată nu am mai fost
+la o nuntă atât de frumoasă.
 
 1055
 01:45:33,171 --> 01:45:36,171
-Sunt sigură că vor fi fericiți. Am spus întotdeauna: fericirea!
+Sunt sigură că vor fi fericiți.
+Am spus întotdeauna: fericirea!
 
 1056
 01:45:38,258 --> 01:45:41,258
-Aceasta e cel mai important! Important e să fii fericit.
+Aceasta e
+cel mai important!
+Important e să fii fericit.
 
 1057
 01:45:48,430 --> 01:45:51,430
-A cesta a fost actul doi. Hai de ți să luăm un pic de aer proaspăt .
+A
+cesta a fost actul doi.
+Hai
+de
 
 1058
 01:45:58,602 --> 01:46:01,602
-De data aceasta, prieteni, a u trecut nouă ani — suntem în vara lui 19 1 3
+De data aceasta, prieteni, a
+u
+trecut
+nouă ani — suntem în vara lui 19
 
 1059
 01:46:03,688 --> 01:46:06,688
-În Grover’s Corners s-au petrecut o seamă de schimbări.
+În Grover’s Corners s-au petrecut
+o seamă de schimbări.
 
 1060
 01:46:08,774 --> 01:46:11,774
-Caii au devenit mai rari. Fermierii vin în oraș în mașini Ford.
+Caii au devenit mai rari. Fermierii vin
+în oraș în mașini Ford.
 
 1061
 01:46:13,860 --> 01:46:16,860
-Toată lumea încuie ușile s e ara... în oraș încă nu s-au ivit hoți,
+Toată lumea încuie ușile s
+e
+ara...
+în oraș încă nu s-au ivit hoți,
 
 1062
 01:46:18,946 --> 01:46:21,946
@@ -4248,39 +5296,56 @@ dar toată lumea a auzit vorbindu-se despre ei.
 
 1063
 01:46:24,033 --> 01:46:27,033
-Veți fi surprinși, totuși, în general lucrurile nu s-au schimbat prea mult în Grover ’s Corners .
+Veți fi surprinși, totuși, în general lucrurile
+nu s-au schimbat prea mult
+în Grover
+’s Corners
 
 1064
 01:46:34,205 --> 01:46:37,205
-L ocul acesta este o parte importantă a orașului nostru.
+L
+ocul acesta este o parte importantă
+a orașului nostru.
 
 1065
 01:46:44,377 --> 01:46:47,377
-O creastă de deal bătută de viaturi — se vede cerul, s u nt nori,
+O creastă de deal bătută de viaturi —
+se vede cerul, s
+u
 
 1066
 01:46:49,463 --> 01:46:52,463
-adesea e foarte mult soare și se văd luna și stelele.
+adesea e foarte mult soare
+și se văd luna și stelele.
 
 1067
 01:46:54,549 --> 01:46:57,549
-Mă întreb de ce oamenilor le place să fie îngropați în Woodlawn și Brooklyn
+Mă întreb de ce oamenilor le place
+să fie îngropați în Woodlawn și Brooklyn
 
 1068
 01:46:59,635 --> 01:47:02,635
-când ar putea să-și petreacă același timp și aici.
+când ar putea să-și petreacă
+același timp și aici.
 
 1069
 01:47:09,808 --> 01:47:12,808
-Într-acolo s u nt pietrele acelea vechi de prin 1670, 1680.
+Într-acolo s
+u
+nt pietrele acelea vechi
+de prin 1670, 1680.
 
 1070
 01:47:14,894 --> 01:47:17,894
-Oameni h o t ă r âți , care au străbătut un drum foarte lung, numai pentru a fi independenți. .
+Oameni h
+o
+t
+ă
 
 1071
 01:47:25,066 --> 01:47:28,066
-Cei care vin vara se plimbă pe-aici râzând de cuvintele caraghioase
+Cei care vin vara se plimbă pe-aici râzând
+de cuvintele caraghioase
 
 1072
 01:47:30,152 --> 01:47:33,152
@@ -4288,7 +5353,8 @@ săpate pe pietrele de pe morminte.
 
 1073
 01:47:35,238 --> 01:47:38,238
-Dincoace s u nt câțiva veterani din Războiul civil.
+Dincoace s
+u
 
 1074
 01:47:40,324 --> 01:47:43,324
@@ -4296,19 +5362,23 @@ Pe mormintele lor lucesc fanioane de fier.
 
 1075
 01:47:45,410 --> 01:47:48,410
-Li se pare că Uniunea acestor state ar trebui să fie păstrată,
+Li se pare că Uniunea acestor state
+ar trebui să fie păstrată,
 
 1076
 01:47:50,496 --> 01:47:53,496
-deși n-au văzut niciodată mai mult de cincizeci de kilometri din ca.
+deși n-au văzut niciodată mai mult
+de cincizeci de kilometri din ca.
 
 1077
 01:47:55,583 --> 01:47:58,583
-Tot ce știu ei e numele : Statele Unite ale Americii.
+Tot ce știu ei e numele
+:
+Statele Unite ale Americii.
 
 1078
 01:48:00,669 --> 01:48:03,669
-Și toți acești oameni s-au dus și au murit pentru ea.
+Și toți acești oameni s-au dus
 
 1079
 01:48:10,841 --> 01:48:13,841
@@ -4316,19 +5386,23 @@ Aici e partea cea nouă a cimitirului.
 
 1080
 01:48:15,927 --> 01:48:18,927
-Aici stă prietena dumneavoastră, doamna Gibbs.
+Aici stă prietena dumneavoastră,
+doamna Gibbs.
 
 1081
 01:48:21,013 --> 01:48:24,013
-Și aici e domnul Stimson, organistul Bisericii Congregate.
+Și aici e domnul Stimson,
+organistul Bisericii Congregate.
 
 1082
 01:48:26,099 --> 01:48:29,099
-Și doamna Soames, căreia îi plăcuse nunta atât de mult... vă mai aduceți aminte?
+Și doamna Soames, căreia îi plăcuse
+nunta atât de mult... vă mai aduceți aminte?
 
 1083
 01:48:31,185 --> 01:48:34,185
-O, și mulți alții. Și Wally, care a făcut o infecție la apendice în timp
+O, și mulți alții. Și Wally, care a făcut
+o infecție la apendice în timp
 
 1084
 01:48:36,271 --> 01:48:39,271
@@ -4336,31 +5410,38 @@ ce era într-o excursie la Crawford Notch.
 
 1085
 01:48:41,358 --> 01:48:44,358
-Mr. Carter, Mrs. Grover, familia Cartwright ...
+Mr. Carter, Mrs. Grover,
+familia
 
 1086
 01:48:46,444 --> 01:48:49,444
-Da, o mulțime de necazuri îngrozitoare s-au cam liniștit aici.
+Da, o mulțime de necazuri îngrozitoare
+s-au cam liniștit aici.
 
 1087
 01:48:51,530 --> 01:48:54,530
-Oameni înnebuniți de durere și-au adus rudele aici sus pe deal.
+Oameni înnebuniți de durere și-au adus
+rudele aici sus pe deal.
 
 1088
 01:48:56,616 --> 01:48:59,616
-T rece timpul... și vin zile cu soare...
+T
+rece timpul... și vin zile cu soare...
 
 1089
 01:49:01,702 --> 01:49:04,702
-și zile ploioase... și zăpada... Știți cum este.
+și zile ploioase... și zăpada...
+Știți cum este.
 
 1090
 01:49:06,788 --> 01:49:09,788
-S-au adunat nenumărate mesaje aici, dar nu are cui să le transmită…
+S-au adunat nenumărate mesaje aici,
+dar nu are cui să le transmită…
 
 1091
 01:49:16,960 --> 01:49:19,960
-Știm cu toții că există ceva etern. Și nu-i vorba de case, de nume,
+Știm cu toții că există ceva etern.
+Și nu-i vorba de case, de nume,
 
 1092
 01:49:22,046 --> 01:49:25,046
@@ -4368,7 +5449,10 @@ de pământ și nici chiar de stele...
 
 1093
 01:49:27,133 --> 01:49:30,133
-toată lumea știe în adâncul lui că există ceva etern ,
+toată lumea
+știe în adâncul lui
+că există ceva etern
+,
 
 1094
 01:49:32,219 --> 01:49:35,219
@@ -4376,27 +5460,33 @@ toată lumea știe în adâncul lui că există ceva etern ,
 
 1095
 01:49:37,305 --> 01:49:40,305
-Toți oamenii mari care au trăit vreodată ne-au tot spus acest lucru de cinci mii de ani .
+Toți oamenii mari care au trăit vreodată
+ne-au tot spus acest lucru de cinci mii de ani
+.
 
 1096
 01:49:42,391 --> 01:49:45,391
-și totuși veți fi surprinși cât de ușor uită oamenii acest lucru.
+și totuși veți fi surprinși cât de ușor
+uită oamenii acest lucru.
 
 1097
 01:49:52,563 --> 01:49:55,563
-Există ceva etern în adâncul fiecărei făpturi omenești.
+Există ceva etern în adâncul fiecărei
+făpturi omenești.
 
 1098
 01:49:57,649 --> 01:50:00,649
-Știți că pe morți nu-i interesează cei vii prea multă vreme.
+Știți că pe morți nu-i interesează
+cei vii prea multă vreme.
 
 1099
 01:50:02,735 --> 01:50:05,735
-Treptat, treptat, se desprind de cei de pe pământ...
+Treptat, treptat, se desprind de cei
+de pe pământ...
 
 1100
 01:50:07,821 --> 01:50:10,821
-și de ambițiile și de plăcerile la care-au ținut...
+și de ambițiile
 
 1101
 01:50:12,908 --> 01:50:15,908
@@ -4404,39 +5494,50 @@ Treptat, treptat, se desprind de cei de pe pământ...
 
 1102
 01:50:17,994 --> 01:50:20,994
-Se satură de cei de pe pământ , s e despart, precum un sugar înțărcat de sânul mamei sale.
+Se satură de cei de pe pământ
+, s
+e despart, precum
+un sugar înțărcat de sânul mamei sale.
 
 1103
 01:50:23,080 --> 01:50:26,080
-Și stau aici atâta timp cât ceea ce e pământesc în ei se topește, piere,
+Și stau aici atâta timp cât ceea ce
+e pământesc în ei se topește, piere,
 
 1104
 01:50:28,166 --> 01:50:31,166
-și-n tot acest timp devin încetul cu încetul indiferenți față de ce se întâmplă în Grover’s Corners.
+și-n tot acest timp devin încetul cu încetul indiferenți
+față de ce se întâmplă în Grover’s Corners.
 
 1105
 01:50:33,252 --> 01:50:36,252
-Așteaptă. Ei așteaptă ceva ce știu că trebuie să vină.
+Așteaptă. Ei așteaptă ceva ce știu
+că trebuie să vină.
 
 1106
 01:50:38,338 --> 01:50:41,338
-Oare nu așteaptă ca acea parte eternă și curată din ei să iasă la iveală?
+Oare nu așteaptă ca acea parte eternă
+și curată din ei să iasă la iveală?
 
 1107
 01:50:43,424 --> 01:50:46,424
-Unele lucruri pe care le vor spune vor răni poate sentimentele dumneavoastră...
+Unele lucruri pe care le vor spune
+vor răni poate sentimentele dumneavoastră...
 
 1108
 01:50:48,510 --> 01:50:51,510
-dar așa stau lucrurile... mama și fiica... bărbatul și nevasta... dușmanul și prietenul...
+dar așa stau lucrurile... mama și fiica...
+bărbatul și nevasta... dușmanul și prietenul...
 
 1109
 01:50:53,596 --> 01:50:56,596
-bogatul și săracul... toate aceste lucruri teribil de importante cam pălesc pe-aici.
+bogatul și săracul... toate aceste lucruri
+teribil de importante cam pălesc pe-aici.
 
 1110
 01:50:58,683 --> 01:51:01,683
-Și ce mai rămâne când ți-a pierit memoria?
+Și ce mai rămâne când
+ți-a pierit memoria?
 
 1111
 01:51:03,769 --> 01:51:06,769
@@ -4444,19 +5545,24 @@ Așa! Iată și câțiva oameni vii.
 
 1112
 01:51:08,855 --> 01:51:11,855
-Iată-l pe Joe Stoddard , antreprenorul nostru de pompe funebre
+Iată-l pe Joe Stoddard
+,
 
 1113
 01:51:13,941 --> 01:51:16,941
-Și iată Sam Craig, un bărbat din Grover’s Corners, care a plecat din oraș ducându-se în Vest.
+Și iată
+Sam Craig,
+un bărbat din Grover’s Corners,
+care a plecat din oraș ducându-se în Vest.
 
 1114
 01:51:24,113 --> 01:51:27,113
-Bună ziua, Joe Stoddard. .
+Bună ziua, Joe Stoddard.
 
 1115
 01:51:29,199 --> 01:51:32,199
-Bună ziua, bună ziua. Ia stai puțin; nu cumva te cunosc?
+Bună ziua, bună ziua.
+Ia stai puțin; nu cumva te cunosc?
 
 1116
 01:51:39,371 --> 01:51:42,371
@@ -4464,7 +5570,8 @@ Sunt Sam Craig.
 
 1117
 01:51:44,458 --> 01:51:47,458
-Trebuia să-mi închipui că o să vii la înmormântare.
+Trebuia să-mi închipui că
+o să vii la înmormântare.
 
 1118
 01:51:49,544 --> 01:51:52,544
@@ -4472,19 +5579,23 @@ Ai lipsit multă vreme de pe-aici, Sam.
 
 1119
 01:51:54,630 --> 01:51:57,630
-Da, sunt plecat de doisprezece ani. Lucrez acuma tocmai în Buffalo, Joe.
+Da, sunt plecat de doisprezece ani.
+Lucrez acuma tocmai în Buffalo, Joe.
 
 1120
 01:51:59,716 --> 01:52:02,716
-Dar eram în Est când am aflat de moartea vărului meu, așa că m-am gândit
+Dar eram în Est când am aflat de moartea
+vărului meu, așa că m-am gândit
 
 1121
 01:52:04,802 --> 01:52:07,802
-să mă aranjez așa ca să pot veni să văd locurile natale. Arăți bine.
+să mă aranjez așa ca să pot veni să văd
+locurile natale. Arăți bine.
 
 1122
 01:52:14,974 --> 01:52:17,974
-Da, da, nu mă pot plânge. Foarte trist, drumul nostru de azi, Samuel.
+Da, da, nu mă pot plânge. Foarte trist,
+drumul nostru de azi, Samuel.
 
 1123
 01:52:20,060 --> 01:52:23,060
@@ -4492,19 +5603,27 @@ Da.
 
 1124
 01:52:25,146 --> 01:52:28,146
-Da, da. Întotdeauna zic că nu pot să suport să mă ocup de lucrurile astea
+Da, da. Întotdeauna zic că nu pot
+să suport să mă ocup de lucrurile astea
 
 1125
 01:52:30,233 --> 01:52:33,233
-când e vorba de-o persoan ă tânăr ă . În câteva minute o să fie aici.
+când e vorba de-o persoan
+ă
+tânăr
+ă
 
 1126
 01:52:35,319 --> 01:52:38,319
-Azi a trebuit să vin mai devreme... fiul meu are grijă de casă.
+Azi a trebuit să vin mai devreme...
+fiul meu are grijă de casă.
 
 1127
 01:52:45,491 --> 01:52:48,491
-Bătrâ nul fermier McCarty! L-am ajutat deseori la fermă, după școală.
+Bătrâ
+nul fermier McCarty!
+L-am ajutat
+deseori la fermă, după școală.
 
 1128
 01:52:50,577 --> 01:52:53,577
@@ -4512,15 +5631,20 @@ Avea lumbago.
 
 1129
 01:52:55,663 --> 01:52:58,663
-Da, l-am adus aici pe fermierul McCarty acum vreo câțiva ani.
+Da, l-am adus aici pe fermierul
+McCarty acum vreo câțiva ani.
 
 1130
 01:53:05,835 --> 01:53:08,835
-Păi, aici e mătușa mea Julia... Uitasem că... da...
+Păi, aici e mătușa mea Julia...
+Uitasem că... da...
 
 1131
 01:53:10,921 --> 01:53:13,921
-Da. D r. Gibbs și-a pierdut soția acum vreo doi, trei ani... cam în luna aceasta.
+Da. D
+r.
+Gibbs și-a pierdut soția acum
+vreo doi, trei ani... cam în luna aceasta.
 
 1132
 01:53:16,008 --> 01:53:19,008
@@ -4528,7 +5652,9 @@ Da. D r. Gibbs și-a pierdut soția acum vreo doi, trei ani... cam în luna acea
 
 1133
 01:53:26,180 --> 01:53:29,180
-Asta e băiatul sorei mele Carey. S am... Sam Craig.
+Asta e băiatul sorei mele Carey.
+S
+am... Sam Craig.
 
 1134
 01:53:31,266 --> 01:53:34,266
@@ -4536,11 +5662,15 @@ Niciodată nu mă simt bine când îi văd pe-aici.
 
 1135
 01:53:41,438 --> 01:53:44,438
-Fiecare își alege versetul c a r e- i place , Joe ?
+Fiecare își alege versetul c
+a
 
 1136
 01:53:46,524 --> 01:53:49,524
-Nu... nu prea. De cele mai multe ori cel l ăsați în urmă alege versetul.
+Nu... nu prea. De cele mai multe ori
+cel l
+ăsați în urmă
+alege versetul.
 
 1137
 01:53:51,610 --> 01:53:54,610
@@ -4548,27 +5678,36 @@ Nu prea arată cam cum ar fi vrut mătușa Julia.
 
 1138
 01:53:56,696 --> 01:53:59,696
-Nu mai s un t în viată multe din surorile Hersey.
+Nu mai s
+un
+t în viată multe
+din surorile Hersey.
 
 1139
 01:54:01,782 --> 01:54:04,782
-Voiam să mă uit la... mama și... la tata...
+Voiam să mă uit la...
+mama și... la tata...
 
 1140
 01:54:06,869 --> 01:54:09,869
-Dincolo, cu Craig-uri . Aleea F.
+Dincolo, cu
+Craig-uri
 
 1141
 01:54:17,041 --> 01:54:20,041
-Simon Stimson... Era organist la biserică, nu-i așa? și cam bea, așa ziceam noi.
+Simon Stimson...
+Era organist la biserică, nu-i așa?
+și cam bea, așa ziceam noi.
 
 1142
 01:54:22,127 --> 01:54:25,127
-Dar nimeni nu trebuia să lase să se vadă că știe. A trecut prin multe necazuri.
+Dar nimeni nu trebuia să lase să se vadă că știe.
+A trecut prin multe necazuri.
 
 1143
 01:54:27,213 --> 01:54:30,213
-S-a sinucis .
+S-a sinucis
+.
 
 1144
 01:54:32,299 --> 01:54:35,299
@@ -4576,31 +5715,43 @@ A, da?
 
 1145
 01:54:37,385 --> 01:54:40,385
-S-a sp â nzurat in pod. Au încercat ei să nu se afle, dar tot s-a știut.
+S-a sp
+â
+nzurat in pod. Au încercat ei
+să nu se afle, dar tot s-a știut.
 
 1146
 01:54:42,471 --> 01:54:45,471
-Și-a ales singur epitaful. Asta e. Nu-i chiar un verset.
+Și-a ales singur epitaful.
+Asta e. Nu-i chiar un verset.
 
 1147
 01:54:47,557 --> 01:54:50,557
-Păi, nu văd dec â t niște note, ce-i asta?
+Păi,
+nu
+văd dec
 
 1148
 01:54:52,644 --> 01:54:55,644
-Nu știu. La vremea aceea au scris ziarele din Boston despre chestia asta.
+Nu știu. La vremea aceea au scris ziarele
+din Boston despre chestia asta.
 
 1149
 01:55:02,816 --> 01:55:05,816
-– D ar ea de ce a murit? – Cine, ea?
+–
+D
+ar ea de ce a murit?
+–
 
 1150
 01:55:07,902 --> 01:55:10,902
-V ară -me u .
+V
+ară
 
 1151
 01:55:12,988 --> 01:55:15,988
-A, nu știi? A. avut niște complicații la o naștere. Deși era la al doilea copil.
+A, nu știi? A. avut niște complicații
+la o naștere. Deși era la al doilea copil.
 
 1152
 01:55:18,074 --> 01:55:21,074
@@ -4608,15 +5759,18 @@ A rămas un băiat de vreo patru ani.
 
 1153
 01:55:23,160 --> 01:55:26,160
-Asta e mormântul ei ?
+Asta e
+mormântul
 
 1154
 01:55:28,246 --> 01:55:31,246
-Da, nu prea mai. e mult loc aici printre Gibbși,
+Da, nu prea mai. e mult loc aici
+printre Gibbși,
 
 1155
 01:55:33,332 --> 01:55:36,332
-așa că se face un nou lut pentru Gibbși in aleea B.
+așa că se face un nou lut
+pentru Gibbși in aleea B.
 
 1156
 01:55:38,419 --> 01:55:41,419
@@ -4624,11 +5778,15 @@ Iartă-mă acuma, văd că vin.
 
 1157
 01:55:43,505 --> 01:55:46,505
-– Cine-i, Julia? – Nora-mea, Emily Webb.
+–
+
+Cine-i, Julia?
+–
 
 1158
 01:55:48,591 --> 01:55:51,591
-Ei, nu mai spune! Drumul încoa trebuie să fi fost teribil de noroios.
+Ei, nu mai spune! Drumul încoa trebuie
+să fi fost teribil de noroios.
 
 1159
 01:55:53,677 --> 01:55:56,677
@@ -4644,31 +5802,44 @@ La naștere. Uitasem-o de toate astea.
 
 1162
 01:56:08,935 --> 01:56:11,935
-Doamne, tare era groaznică viața asta și minunată!
+Doamne, tare era groaznică viața
+asta și minunată!
 
 1163
 01:56:14,021 --> 01:56:17,021
-– Chiar era minunată? – Simon! Te rog, adu-ți aminte.
+–
+
+Chiar era minunată?
+–
 
 1164
 01:56:19,107 --> 01:56:22,107
-Mi-aduc aminte de nunta lui Emily. Ce nuntă frumoasă a fost!
+Mi-aduc aminte de nunta lui Emily.
+Ce nuntă frumoasă a fost!
 
 1165
 01:56:24,194 --> 01:56:27,194
-Și-mi aduc aminte cum a citit poezia clasei ei la absolvire!
+Și-mi aduc aminte cum a citit poezia
+clasei ei la absolvire!
 
 1166
 01:56:29,280 --> 01:56:32,280
-Emily era una dintre cele mai inteligente fete din c â te au absolvit vreodată liceul.
+Emily era una dintre cele mai inteligente
+fete din c
+â
+te au absolvit vreodată liceul.
 
 1167
 01:56:34,366 --> 01:56:37,366
-L-am auzit mereu pe directorul Wilkins spun â nd lucrul ăsta.
+L-am auzit mereu pe directorul Wilkins
+spun
+â
+nd lucrul ăsta.
 
 1168
 01:56:39,452 --> 01:56:42,452
-Am fost la ei, la ferma lor cea nouă, puțin timp înainte să fi murit. O fermă grozav de frumoasă.
+Am fost la ei, la ferma lor cea nouă, puțin timp înainte
+să fi murit. O fermă grozav de frumoasă.
 
 1169
 01:56:44,538 --> 01:56:47,538
@@ -4680,7 +5851,10 @@ Da, da, frumoasă fermă.
 
 1171
 01:56:54,710 --> 01:56:57,710
-Întotdeauna m i -a plăcut cântecul ăsta. Așteptam să- i cânte.
+Întotdeauna m
+i
+-a plăcut
+cântecul
 
 1172
 01:57:04,882 --> 01:57:07,882
@@ -4688,55 +5862,78 @@ Bună ziua!
 
 1173
 01:57:15,055 --> 01:57:18,055
-– Bună ziua , Emily ! – Bună ziua, doamna Gibbs !
+–
+Bună ziua
+, Emily
+!
 
 1174
 01:57:25,227 --> 01:57:28,227
-– Bună ziua , mama Gibbs ! – Emily !
+–
+Bună ziua
+, mama Gibbs
+!
 
 1175
 01:57:35,399 --> 01:57:38,399
-Bună ziua .
+Bună ziua
+.
 
 1176
 01:57:40,485 --> 01:57:43,485
-Plouă !
+Plouă
+!
 
 1177
 01:57:45,571 --> 01:57:48,571
-Da... Vor pleca î n curând. Acuma stai și odihnește -te .
+Da... Vor pleca î
+n
+curând.
+Acuma stai și odihnește
 
 1178
 01:57:55,744 --> 01:57:58,744
-Mi se pare că au trecut mii și mii de ani de când era...
+Mi se pare că au trecut mii și mii
+de ani de când era...
 
 1179
 01:58:00,830 --> 01:58:03,830
-Tata și-a adus aminte că acesta e cântecul meu favorit.
+Tata și-a adus aminte că acesta
+e
+cântecul
 
 1180
 01:58:11,002 --> 01:58:14,002
-O, tare-aș vrea să fi fost aici de multă vreme. Nu-mi place să fiu nouă printre voi !
+O, tare-aș vrea să fi fost aici de multă vreme.
+Nu-mi place să fiu nouă printre voi
+!
 
 1181
 01:58:21,174 --> 01:58:24,174
-– Bună ziua , domnule Stimson ! – Bună ziua !
+–
+Bună ziua
+, domnule Stimson
+!
 
 1182
 01:58:26,260 --> 01:58:29,260
-Mamă Gibbs, George și cu mine ne-am stabilit eu ferma aceea
+Mamă Gibbs, George și cu mine
+ne-am stabilit eu ferma aceea
 
 1183
 01:58:31,346 --> 01:58:34,346
-în cel mai bun loc posibil. Ne-am gândit mereu la tine.
+în cel mai bun loc posibil.
+Ne-am gândit mereu la tine.
 
 1184
 01:58:36,432 --> 01:58:39,432
-Am vrut să-ti arătăm hambarul cel nou si fântâna aceea mare și frumoasă
+Am vrut să-ti arătăm hambarul
+cel nou si fântâna aceea mare și frumoasă
 
 1185
 01:58:41,519 --> 01:58:44,519
-din ciment pentru vite. Am făcut-o eu banii pe care ni i-ai lăsat.
+din ciment pentru vite. Am făcut-o
+eu banii pe care ni i-ai lăsat.
 
 1186
 01:58:46,605 --> 01:58:49,605
@@ -4744,11 +5941,13 @@ Eu?
 
 1187
 01:58:51,691 --> 01:58:54,691
-Nu-ți amintești, mamă Gibbs... moștenirea pe care ne-ai lăsat-o?
+Nu-ți amintești, mamă Gibbs... moștenirea
+pe care ne-ai lăsat-o?
 
 1188
 01:58:56,777 --> 01:58:59,777
-Cum, erau mai mult de trei sute si cincizeci de dolari!
+Cum, erau mai mult
+de trei sute si cincizeci de dolari!
 
 1189
 01:59:01,863 --> 01:59:04,863
@@ -4756,15 +5955,20 @@ Da, da, Emily.
 
 1190
 01:59:06,949 --> 01:59:09,949
-Și fântâna are un dispozitiv automat, așa că niciodată apa nu curge pe de lături.
+Și fântâna are un dispozitiv automat,
+așa că niciodată apa nu curge pe de lături.
 
 1191
 01:59:12,035 --> 01:59:15,035
-Și nu scade sub un anum it nivel. I nvenție minunată !
+Și nu scade sub un anum
+it
+nivel.
+I
 
 1192
 01:59:22,207 --> 01:59:25,207
-Lui George, n-o să mai fie la fel fără mine, dar ferma e foarte frumoasă.
+Lui George, n-o să mai fie la fel fără mine,
+dar ferma e foarte frumoasă.
 
 1193
 01:59:32,380 --> 01:59:35,380
@@ -4776,11 +5980,13 @@ Nu, draga mea... nu prea.
 
 1195
 01:59:47,638 --> 01:59:50,638
-Parc-ar fi închiși în niște cutii strâmte, nu?
+Parc-ar fi închiși în niște cutii strâmte,
+nu?
 
 1196
 01:59:52,724 --> 01:59:55,724
-Mă sunt de parcă i-aș fi cunoscut acum o mie de ani...
+Mă sunt de parcă i-aș fi cunoscut acum
+o mie de ani...
 
 1197
 01:59:57,810 --> 02:00:00,810
@@ -4788,7 +5994,8 @@ Băiatul meu stă la doamna Carter azi.
 
 1198
 02:00:02,896 --> 02:00:05,896
-O, domnule Carter, băiețelul meu o să stea azi la dumneavoastră.
+O, domnule Carter, băiețelul meu
+o să stea azi la dumneavoastră.
 
 1199
 02:00:07,982 --> 02:00:10,982
@@ -4796,11 +6003,15 @@ Da, îi place să stea acolo...
 
 1200
 02:00:13,069 --> 02:00:16,069
-Mamă Gibbs, avem și un Ford. Merge grozav.
+Mamă Gibbs,
+avem și un Ford. Merge grozav.
 
 1201
 02:00:18,155 --> 02:00:21,155
-Totuși, eu nu conduc. Mamă Gibbs, când te părăsește sentimentul acesta?
+Totuși,
+eu nu
+conduc. Mamă Gibbs,
+când
 
 1202
 02:00:23,241 --> 02:00:26,241
@@ -4820,7 +6031,8 @@ Așteaptă și ai răbdare.
 
 1206
 02:00:53,757 --> 02:00:56,757
-Uită-te, tata Gibbs îți aduce ție flori .
+Uită-te, tata Gibbs îți aduce ție
+flori
 
 1207
 02:00:58,844 --> 02:01:01,844
@@ -4828,15 +6040,20 @@ Seamănă cu George, nu-i așa?
 
 1208
 02:01:09,016 --> 02:01:12,016
-O, mamă Gibbs, nu mi-am dat seama niciodată p â nă acum cât de frăm â ntați și cât...
+O, mamă Gibbs, nu mi-am dat seama
+niciodată p
+â
+nă acum cât de frăm
 
 1209
 02:01:14,102 --> 02:01:17,102
-cât de nepricepută sunt oamenii vii! Uită-te la el. Îl iubeam atât de mult.
+cât de nepricepută sunt oamenii vii!
+Uită-te la el. Îl iubeam atât de mult.
 
 1210
 02:01:19,188 --> 02:01:22,188
-De dimineața până noaptea asta-i cu ei... mereu sunt frământați.
+De dimineața până noaptea asta-i cu ei...
+mereu sunt frământați.
 
 1211
 02:01:24,274 --> 02:01:27,274
@@ -4848,7 +6065,8 @@ Da, ploaia a mai răcorit puțin vremea.
 
 1213
 02:01:34,446 --> 02:01:37,446
-Vântul din nord-est face întotdeauna asta?
+Vântul din nord-est face
+întotdeauna asta?
 
 1214
 02:01:39,532 --> 02:01:42,532
@@ -4856,19 +6074,23 @@ Dacă nu plouă, atunci bate timp de trei zile...
 
 1215
 02:01:44,619 --> 02:01:47,619
-Dar, mama Gibbs, unii pot să se-ntoarcă... să se-ntoarcă înapoi acolo... să trăiască din nou.
+Dar, mama Gibbs, unii pot să se-ntoarcă...
+să se-ntoarcă înapoi acolo... să trăiască din nou.
 
 1216
 02:01:49,705 --> 02:01:52,705
-Simt că e așa. Știu!
+Simt că e așa.
+Știu!
 
 1217
 02:01:54,791 --> 02:01:57,791
-Știu că-i așa. Știi, așa mă gândisem o clipă la... la fermă...
+Știu că-i așa. Știi, așa mă gândisem
+o clipă la... la fermă...
 
 1218
 02:01:59,877 --> 02:02:02,877
-și pentru o clipă am fost acolo, și copilul îmi stătea în poală, cum stătea întotdeauna.
+și pentru o clipă am fost acolo, și copilul
+îmi stătea în poală, cum stătea întotdeauna.
 
 1219
 02:02:04,963 --> 02:02:07,963
@@ -4876,7 +6098,8 @@ Desigur că se poate.
 
 1220
 02:02:15,135 --> 02:02:18,135
-Mă pot întoarce acolo și să trăiesc din nou toate zilele acelea... și de ce nu?
+Mă pot întoarce acolo și să trăiesc
+din nou toate zilele acelea... și de ce nu?
 
 1221
 02:02:20,221 --> 02:02:23,221
@@ -4884,11 +6107,17 @@ Tot ce-ți pot spune, Emily, e să n-o faci.
 
 1222
 02:02:25,307 --> 02:02:28,307
-Dar e adevărat, nu-i așa? Po t pleca și trăi... iar... acolo... înapoi...
+Dar e adevărat, nu-i așa?
+Po
+t
+pleca și trăi... iar... acolo... înapoi...
 
 1223
 02:02:30,394 --> 02:02:33,394
-Da, unii au încercat , dar s-au întors repede.
+Da, unii au încercat
+,
+
+dar s-au întors repede.
 
 1224
 02:02:35,480 --> 02:02:38,480
@@ -4896,31 +6125,44 @@ Să nu faci una ca asta, Emily.
 
 1225
 02:02:40,566 --> 02:02:43,566
-Emily, s ă nu faci asta. Nu-i așa cum crezi că o să fie.
+Emily, s
+ă
+nu faci asta.
+Nu-i așa cum crezi că o să fie.
 
 1226
 02:02:45,652 --> 02:02:48,652
-Dar nu voi trăi iar o zi trist ă . O să aleg una fericită.
+Dar nu voi trăi iar o zi trist
+ă
+.
+O să aleg una fericită.
 
 1227
 02:02:50,738 --> 02:02:53,738
-O să aleg ziua în care mi-am dat seama pentru prima dată că iubesc pe George.
+O
+să aleg ziua în care mi-am dat seama
+pentru prima dată că iubesc pe George.
 
 1228
 02:02:55,824 --> 02:02:58,824
-C um ar putea fi dureros?
+C
+um ar putea fi dureros?
 
 1229
 02:03:00,910 --> 02:03:03,910
-Nu vei trăi doar, c i le vei privi trăind.
+Nu vei trăi doar,
+c
+i le vei privi trăind.
 
 1230
 02:03:05,996 --> 02:03:08,996
-Și când te privești, vezi lucrul pe care ei — acolo în lumea lor — nu văd niciodată...
+Și când te privești, vezi lucrul pe care ei —
+acolo în lumea lor — nu văd niciodată...
 
 1231
 02:03:11,082 --> 02:03:14,082
-Vezi viitorul. Știi ce urmează să se întâmple după aceea.
+Vezi viitorul. Știi ce urmează
+să se întâmple după aceea.
 
 1232
 02:03:16,169 --> 02:03:19,169
@@ -4928,31 +6170,43 @@ Vezi viitorul. Știi ce urmează să se întâmple după aceea.
 
 1233
 02:03:21,255 --> 02:03:24,255
-Ăsta nu-i singurul motiv pentru care n- ar trebui s-o faci, Emily.
+Ăsta nu-i singurul motiv pentru
+care
+n-
+ar trebui s-o faci, Emily.
 
 1234
 02:03:26,341 --> 02:03:29,341
-După ce vei fi aici mai multă vreme, vei vedea că viața noastră de aici
+După ce vei fi aici mai multă vreme,
+vei vedea că viața noastră de aici
 
 1235
 02:03:31,427 --> 02:03:34,427
-e să uităm toate astea și să ne gândim numai la ce ne așteaptă și să fim gata pentru ce ne așteaptă.
+e să uităm toate astea și să ne gândim numai la ce
+ne așteaptă și să fim gata pentru ce ne așteaptă.
 
 1236
 02:03:36,513 --> 02:03:39,513
-M amă Gibbs, cum voi putea vreodată să uit viața aceea?
+M
+amă Gibbs, cum voi putea
+vreodată să uit viața aceea?
 
 1237
 02:03:41,599 --> 02:03:44,599
-Asta-i tot ce știam. E tot ce-am avut !
+Asta-i tot ce știam. E tot ce-am avut
+!
 
 1238
 02:03:46,685 --> 02:03:49,685
-O, Emily ! Ce spui nu-i deloc un lucru înțelept. Zău, nu-i.
+O, Emily
+!
+Ce spui nu-i deloc
+un lucru înțelept. Zău, nu-i.
 
 1239
 02:03:51,771 --> 02:03:54,771
-Dar e un lucru pe c a re trebuie să-l aflu singură !
+Dar e un lucru pe c
+a
 
 1240
 02:03:56,857 --> 02:03:59,857
@@ -4960,7 +6214,10 @@ Am să aleg, în orice caz, o zi fericită.
 
 1241
 02:04:01,944 --> 02:04:04,944
-Nu! C el puțin alege o zi obisnuită. Alege cea mai puțin importantă zi din viața la.
+Nu! C
+el
+puțin alege o zi
+obisnuită.
 
 1242
 02:04:12,116 --> 02:04:15,116
@@ -4968,7 +6225,10 @@ Va fi de ajuns de importantă.
 
 1243
 02:04:22,288 --> 02:04:25,288
-Atunci nu poate fi una din zilele de când m-am măritat, sau de c â nd am născut băiatul meu.
+Atunci
+nu
+poate
+fi
 
 1244
 02:04:27,374 --> 02:04:30,374
@@ -4976,7 +6236,8 @@ Pot alege, cel puțin, o zi de naștere, nu?
 
 1245
 02:04:37,546 --> 02:04:40,546
-Ale g ziua când am împlinit doisprezece ani.
+Ale
+g
 
 1246
 02:04:47,719 --> 02:04:50,719
@@ -4992,27 +6253,37 @@ Vrei o anume oră a zilei?
 
 1249
 02:05:13,149 --> 02:05:16,149
-V reau toată ziua !
+V
+reau toată ziua
 
 1250
 02:05:23,321 --> 02:05:26,321
-Vom începe în zori. N insese într-una de câteva zile:
+Vom începe în zori.
+N
+insese într-una
+de câteva zile:
 
 1251
 02:05:28,407 --> 02:05:31,407
-dar se oprise cu o scară înainte și începuseră să curețe șoselele.
+dar se oprise cu o scară înainte
+și începuseră să curețe șoselele.
 
 1252
 02:05:33,494 --> 02:05:36,494
-R ăsare soarele .
+R
+ăsare
 
 1253
 02:05:43,666 --> 02:05:46,666
-Iată Strada Principală ... și uite, acolo e cofet ăria domnului Morgan înainte de a-l renova!
+Iată Strada
+Principală
+... și uite, acolo e
+cofet
 
 1254
 02:05:48,752 --> 02:05:51,752
-Da, suntem în 189 9 . Acum paisprezece ani.
+Da, suntem în 189
+9
 
 1255
 02:05:53,838 --> 02:05:56,838
@@ -5020,11 +6291,13 @@ Așa arăta orașul când eram mică.
 
 1256
 02:06:04,010 --> 02:06:07,010
-Uite, acolo e vechiul gard alb din jurul casei noastre.
+Uite, acolo e vechiul gard alb
+din jurul casei noastre.
 
 1257
 02:06:09,096 --> 02:06:12,096
-Nici nu-mi mai aminteam! Îl iubesc atât de mult!
+Nici nu-mi mai aminteam!
+Îl iubesc atât de mult!
 
 1258
 02:06:14,182 --> 02:06:17,182
@@ -5032,7 +6305,10 @@ Nici nu-mi mai aminteam! Îl iubesc atât de mult!
 
 1259
 02:06:19,269 --> 02:06:22,269
-Da, ma ma ta va coborâ intr-o clipă ca să pregătească micul dejun .
+Da, ma
+ma
+ta va coborâ intr-o clipă
+ca să pregătească
 
 1260
 02:06:24,355 --> 02:06:27,355
@@ -5040,7 +6316,8 @@ Daa?
 
 1261
 02:06:29,441 --> 02:06:32,441
-Și-ți amintești: tatăl tău fusese plecat câteva zile; se întorsese
+Și-ți amintești: tatăl tău fusese
+plecat câteva zile; se întorsese
 
 1262
 02:06:34,527 --> 02:06:37,527
@@ -5052,11 +6329,16 @@ Daa?
 
 1264
 02:06:44,699 --> 02:06:47,699
-Fusese la f acultatea unde învățase ca să țină o cuv â ntare... în New York-ul de vest, Ia Clinton.
+Fusese la
+f
+acultatea unde învățase ca să țină
+o cuv
 
 1265
 02:06:49,785 --> 02:06:52,785
-Uite! Iată-l și pe Howie Newsome. Și iată-l p e sergentul nostru. Dar e mort, el a murit.
+Uite! Iată-l și pe Howie Newsome.
+Și iată-l p
+e sergentul nostru. Dar e mort, el a murit.
 
 1266
 02:06:59,957 --> 02:07:02,957
@@ -5064,7 +6346,8 @@ Hei, Bessie!
 
 1267
 02:07:05,044 --> 02:07:08,044
-Bun ă dimineața , Bill.
+Bun
+ă dimineața
 
 1268
 02:07:10,130 --> 02:07:13,130
@@ -5076,11 +6359,13 @@ Te-ai sculat devreme.
 
 1270
 02:07:20,302 --> 02:07:23,302
-Am salvat uri om care înghețase, cât pe ce să moară, dincolo de linie,
+Am salvat uri om care înghețase,
+cât pe ce să moară, dincolo de linie,
 
 1271
 02:07:25,388 --> 02:07:28,388
-în cartierul polonezilor, se îmbătase și zăcea în zăpadă.
+în cartierul polonezilor,
+se îmbătase și zăcea în zăpadă.
 
 1272
 02:07:30,474 --> 02:07:33,474
@@ -5096,27 +6381,35 @@ Bună dimineața, Joe!
 
 1275
 02:07:45,732 --> 02:07:48,732
-Bună dimineața, domnule Warren. ’Mneața, Howie.
+Bună dimineața, domnule Warren.
+’Mneața, Howie.
 
 1276
 02:07:50,818 --> 02:07:53,818
-Hai, copii! Wally! Emily! E vremea să vă sculați!
+Hai, copii! Wally! Emily!
+E vremea să vă sculați!
 
 1277
 02:07:55,905 --> 02:07:58,905
-Mamă, s u nt aici! O, ce tânără arată ma m a!
+Mamă, s
+u
 
 1278
 02:08:00,991 --> 02:08:03,991
-Nici nu știam că mama a fost vreodată atât de tânără.
+Nici
+nu
+știam că mama a fost vreodată
+atât de tânără.
 
 1279
 02:08:06,077 --> 02:08:09,077
-Puteți veni să vă-mbrăcați aici, în bucătărie, că-i mai cald, dar grăbiți-vă.
+Puteți veni să vă-mbrăcați aici,
+în bucătărie, că-i mai cald, dar grăbiți-vă.
 
 1280
 02:08:11,163 --> 02:08:14,163
-Bună dimineața, domnule Newsome. Brrr... tare-i frig.
+Bună dimineața, domnule Newsome.
+Brrr... tare-i frig.
 
 1281
 02:08:16,249 --> 02:08:19,249
@@ -5132,11 +6425,13 @@ Hai, Bessie.
 
 1284
 02:08:31,507 --> 02:08:34,507
-Mamă, nu-mi găsesc panglica aceea albastră nicăieri.
+Mamă, nu-mi găsesc panglica
+aceea albastră nicăieri.
 
 1285
 02:08:41,680 --> 02:08:44,680
-Mai bine te-ai uita mai atent. Ți-am pregătit-o... pe dulap, acolo.
+Mai bine te-ai uita mai atent.
+Ți-am pregătit-o... pe dulap, acolo.
 
 1286
 02:08:46,766 --> 02:08:49,766
@@ -5144,7 +6439,8 @@ Dacă ar avea gură ar striga.
 
 1287
 02:08:51,852 --> 02:08:54,852
-Da, da ...
+Da, da
+...
 
 1288
 02:09:02,024 --> 02:09:05,024
@@ -5152,19 +6448,23 @@ Bună dimineața, Bill.
 
 1289
 02:09:07,110 --> 02:09:10,110
-Bună dimineața, domnule Webb. V-ați sculat devreme.
+Bună dimineața, domnule Webb.
+V-ați sculat devreme.
 
 1290
 02:09:12,196 --> 02:09:15,196
-Abia m-am întors de la vechea mea facultate din statul New York,
+Abia m-am întors de la vechea mea facultate
+din statul New York,
 
 1291
 02:09:17,282 --> 02:09:20,282
-S -a întâmplat ceva rău pe-aici?
+S
+-a întâmplat ceva rău pe-aici?
 
 1292
 02:09:22,368 --> 02:09:25,368
-Mm, am fost chemat azi dimineață să salvez un polonez...
+Mm, am fost chemat azi dimineață
+să salvez un polonez...
 
 1293
 02:09:27,455 --> 02:09:30,455
@@ -5180,31 +6480,40 @@ Cum a fost, Charles?
 
 1296
 02:09:47,799 --> 02:09:50,799
-Excelent, așa cred. Le-am spus câte ceva... Totul e-n regulă pe-aici?
+Excelent, așa cred. Le-am spus câte ceva...
+Totul e-n regulă pe-aici?
 
 1297
 02:09:52,885 --> 02:09:55,885
-Da, n-aș putea zice că s-a înt â mplat ceva mai deosebit. A fost tare frig.
+Da, n-aș putea zice că s-a înt
+â
+mplat
+ceva mai deosebit. A fost tare frig.
 
 1298
 02:09:57,971 --> 02:10:00,971
-Howie Newsome spune că-s minus zece.
+Howie Newsome spune
+că-s minus zece.
 
 1299
 02:10:03,057 --> 02:10:06,057
-La colegiul din Hamilton e mai frig. Urechile studenților au degerat.
+La colegiul din Hamilton e mai frig.
+Urechile studenților au degerat.
 
 1300
 02:10:08,143 --> 02:10:11,143
-Nu-i o treabă omenească... Ziarul a avut ceva greșeli?
+Nu-i o treabă omenească...
+Ziarul a avut ceva greșeli?
 
 1301
 02:10:13,230 --> 02:10:16,230
-N-am observat să fi avut vreuna. Cafeaua e gata și o poți bea când vrei.
+N-am observat să fi avut vreuna.
+Cafeaua e gata și o poți bea când vrei.
 
 1302
 02:10:18,316 --> 02:10:21,316
-Charles! Nu uita, azi e ziua lui Emily. Ți-ai amintit să-i aduci ceva?
+Charles! Nu uita, azi e ziua lui Emily.
+Ți-ai amintit să-i aduci ceva?
 
 1303
 02:10:23,402 --> 02:10:26,402
@@ -5216,27 +6525,39 @@ Unde-i fata mea?
 
 1305
 02:10:43,746 --> 02:10:46,746
-Las-o acuma, Charles. Ai s-o vezi la micul dejun .
+Las-o acuma, Charles.
+Ai s-o vezi la
+micul dejun
+.
 
 1306
 02:10:48,832 --> 02:10:51,832
-Și așa e destul de lent ă .
+Și așa e
+destul de lent
 
 1307
 02:10:53,918 --> 02:10:56,918
-Grăbiți-vă, copii! E șapte. N-are rost să vă tot chem mereu.
+Grăbiți-vă, copii! E șapte.
+N-are rost să vă tot chem mereu.
 
 1308
 02:10:59,005 --> 02:11:02,005
-N u mai pot indura. S u nt atât de tineri și de frumoși.
+N
+u mai pot indura.
+S
+u
 
 1309
 02:11:04,091 --> 02:11:07,091
-De ce au trebuit să îmbătrânească? Mama, sunt aici. Sunt mare.
+De ce au trebuit să îmbătrânească?
+Mama, sunt aici. Sunt mare.
 
 1310
 02:11:09,177 --> 02:11:12,177
-Vă iubesc pe toți și totul. Nu mă pot uita la toate acestea ș i să rămân indiferentă.
+Vă iubesc pe toți și totul. Nu mă pot uita
+la toate acestea
+ș
+i să rămân indiferentă.
 
 1311
 02:11:19,349 --> 02:11:22,349
@@ -5244,47 +6565,61 @@ Bună dimineața, mamă.
 
 1312
 02:11:24,435 --> 02:11:27,435
-Bună dimineața, mamă , bună dimineața, tata .
+Bună dimineața, mamă
+, bună dimineața, tata
 
 1313
 02:11:29,521 --> 02:11:32,521
-Așa, draga mea, îți doresc multă fericire de ziua ta, fata mea.
+Așa, draga mea, îți doresc multă fericire
+de ziua ta, fata mea.
 
 1314
 02:11:34,607 --> 02:11:37,607
-Pe masa din bucătărie te așteaptă câteva daruri.
+Pe masa din bucătărie te așteaptă
+câteva daruri.
 
 1315
 02:11:44,780 --> 02:11:47,780
-O, mamă, n-ar fi trebuit să... Nu pot, nu pot...
+O, mamă, n-ar fi trebuit să...
+Nu pot, nu pot...
 
 1316
 02:11:49,866 --> 02:11:52,866
-Dar ziua ta sau nu, trebuie să-ți mănânci micul dejun tot fără să te grăbești.
+Dar ziua ta sau nu, trebuie să-ți mănânci
+micul dejun
+tot fără să te grăbești.
 
 1317
 02:11:54,952 --> 02:11:57,952
-Vreau să crești mare și să fii o fată voinică și sănătoasă.
+Vreau să crești mare și să fii o fată voinică
+și sănătoasă.
 
 1318
 02:12:00,038 --> 02:12:03,038
-Pachetul acesta în hârtie albastră e de la mătușa ta, Carrie;
+Pachetul acesta în hârtie albastră
+e de la mătușa ta, Carrie;
 
 1319
 02:12:05,124 --> 02:12:08,124
-și-mi închipui că știi cine ți-a adus albumul de fotografii.
+și-mi închipui că știi cine ți-a adus albumul
+de fotografii.
 
 1320
 02:12:10,210 --> 02:12:13,210
-L-am găsit în prag, când a m luat laptele...
+L-am găsit în prag,
+când a
+m
+luat laptele...
 
 1321
 02:12:15,296 --> 02:12:18,296
-George Gibbs trebuie să fi venit dimineața în zori pe frigul ăsta...
+George Gibbs trebuie să fi venit dimineața
+în zori pe frigul ăsta...
 
 1322
 02:12:20,382 --> 02:12:23,382
-George, u itasem asta...
+George, u
+itasem asta...
 
 1323
 02:12:25,468 --> 02:12:28,468
@@ -5296,27 +6631,35 @@ O să-ți țină de cald într-o zi friguroasă ca asta.
 
 1325
 02:12:35,641 --> 02:12:38,641
-M amă … uită-te o dată la mine, ca și cum m-ai vedea cu adevărat.
+M
+amă
+…
+uită-te o dată la mine, ca și
 
 1326
 02:12:40,727 --> 02:12:43,727
-Mamă, au trecut de-atunci paisprezece ani. Eu am murit. Tu ești bunică, mamă.
+Mamă, au trecut de-atunci paisprezece ani.
+Eu am murit. Tu ești bunică, mamă.
 
 1327
 02:12:45,813 --> 02:12:48,813
-M-am măritat cu George Gibbs, mamă. Și Wally a murit.
+M-am măritat cu George Gibbs, mamă.
+Și Wally a murit.
 
 1328
 02:12:50,899 --> 02:12:53,899
-A avut o infecție la apendice în timpul unei excursii.
+A avut o infecție la apendice în timpul
+unei excursii.
 
 1329
 02:12:55,985 --> 02:12:58,985
-Ne-a fost tare greu atunci, nu-ți aduci aminte?
+Ne-a fost tare greu atunci,
+nu-ți aduci aminte?
 
 1330
 02:13:01,071 --> 02:13:04,071
-Dar pentru o clipă suntem cu toții împreună. Mamă, doar pentru o clipă suntem fericiți.
+Dar pentru o clipă suntem cu toții împreună.
+Mamă, doar pentru o clipă suntem fericiți.
 
 1331
 02:13:06,157 --> 02:13:09,157
@@ -5324,7 +6667,10 @@ Hai să ne uităm una la cealaltă!
 
 1332
 02:13:11,243 --> 02:13:14,243
-Pachetul acela în h â rtie galbenă e un lucru pe care l-am găsit în pod
+Pachetul acela în h
+â
+rtie galbenă
+e un lucru pe care l-am găsit în pod
 
 1333
 02:13:16,330 --> 02:13:19,330
@@ -5332,35 +6678,51 @@ printre lucrurile bunicii tale.
 
 1334
 02:13:21,416 --> 02:13:24,416
-Ești de ajuns de mare ca să-i porti și m-am g â ndit că o să-ți placă.
+Ești de ajuns de mare ca să-i porti
+și m-am g
+â
+ndit că o să-ți placă.
 
 1335
 02:13:26,502 --> 02:13:29,502
-Și asta-i de la tine. O, mamă, ce frumos e și tocmai ce mi-am dorit!
+Și asta-i de la tine. O, mamă, ce frumos
+e și tocmai ce mi-am dorit!
 
 1336
 02:13:31,588 --> 02:13:34,588
-Mătușa ta, Norah, n-a putut să-l găsească în Conc o rd, așa că a trebuit să trimit după el
+Mătușa ta, Norah, n-a putut să-l găsească
+în Conc
+o
+rd, așa că a trebuit să trimit după el
 
 1337
 02:13:36,674 --> 02:13:39,674
-tocmai la Boston . Wally ți-a pregătit ceva.
+tocmai la Boston
+.
+
+Wally ți-a pregătit ceva.
 
 1338
 02:13:41,760 --> 02:13:44,760
-L-a făcut în timpul orelor de lucru manual ia scoală și-i foarte mândru.
+L-a făcut în timpul orelor de lucru manual
+ia scoală și-i foarte mândru.
 
 1339
 02:13:46,846 --> 02:13:49,846
-Și ai grijă să-i pretuiești darul cum trebuie. Tatăl tău are o surpriză pentru tine;
+Și ai grijă să-i pretuiești darul cum trebuie.
+Tatăl tău are o surpriză pentru tine;
 
 1340
 02:13:51,932 --> 02:13:54,932
-nu știu nici eu ce-o fi. Șș t... uite- l că vine.
+nu știu nici eu ce-o fi.
+Șș
+t... uite-
+l
 
 1341
 02:14:02,105 --> 02:14:05,105
-Unde e fata mea? La mulți ani fericiți, Emily!
+Unde e fata mea?
+La mulți ani fericiți, Emily!
 
 1342
 02:14:07,191 --> 02:14:10,191
@@ -5368,11 +6730,13 @@ Mulți ani trăiască...
 
 1343
 02:14:12,277 --> 02:14:15,277
-Nu pot, nu mai pot continua. Totul merge atât de repede.
+Nu pot, nu mai pot continua.
+Totul merge atât de repede.
 
 1344
 02:14:17,363 --> 02:14:20,363
-Nici n-avem vreme să ne uităm unul la celălalt.
+Nici n-avem vreme
+să ne uităm unul la celălalt.
 
 1345
 02:14:22,449 --> 02:14:25,449
@@ -5380,19 +6744,25 @@ Nu mi-am dat seama.
 
 1346
 02:14:27,535 --> 02:14:30,535
-Va să zică așa se întâmplau toate și niciodată nu mi-am dat seama că e așa.
+Va să zică așa se întâmplau toate
+și niciodată nu mi-am dat seama că e așa.
 
 1347
 02:14:37,707 --> 02:14:40,707
-Ia-mă înapoi... acolo sus pe deal... la morm â ntul meu.
+Ia-mă înapoi... acolo sus pe deal...
+la morm
+â
+ntul meu.
 
 1348
 02:14:47,880 --> 02:14:50,880
-Nu. A șteaptă pu țin !
+Nu. A
+șteaptă
 
 1349
 02:14:58,052 --> 02:15:01,052
-Î ncă o privire.
+Î
+ncă o privire.
 
 1350
 02:15:08,224 --> 02:15:11,224
@@ -5408,11 +6778,13 @@ mamă și tată...
 
 1353
 02:15:23,482 --> 02:15:26,482
-Adio, tic ăit de ceas...
+Adio,
+tic
 
 1354
 02:15:28,568 --> 02:15:31,568
-dragul meu nuc și floarea-soarelui din grădina mamei... mâncare și cafea...
+dragul meu nuc și floarea-soarelui
+din grădina mamei... mâncare și cafea...
 
 1355
 02:15:33,655 --> 02:15:36,655
@@ -5428,15 +6800,20 @@ dragul meu nuc și floarea-soarelui din grădina mamei... mâncare și cafea...
 
 1358
 02:15:48,913 --> 02:15:51,913
-O, lume… ești mult prea minunată ca oamenii să-și poată da seama de asta vreodată.
+O, lume… ești mult prea minunată ca oamenii
+să-și poată da seama de asta vreodată.
 
 1359
 02:15:59,085 --> 02:16:02,085
-Există oare vreo ființă omenească care să-și fi dat seama vreodată ce înseamnâ viața,
+Există oare vreo ființă omenească care
+să-și fi dat seama vreodată ce
+înseamnâ
+viața,
 
 1360
 02:16:04,171 --> 02:16:07,171
-atâta vreme cât o trăiește... ce înseamnă fiecare, fiecare minut?
+atâta vreme cât o trăiește...
+ce înseamnă fiecare, fiecare minut?
 
 1361
 02:16:09,257 --> 02:16:12,257
@@ -5444,47 +6821,67 @@ Nu. Sfinții și poeții, poate... Uneori.
 
 1362
 02:16:19,430 --> 02:16:22,430
-Putem să mergem .
+Putem să mergem
+.
 
 1363
 02:16:29,602 --> 02:16:32,602
-Ai fost fericită , Emily ?
+Ai fost fericită
 
 1364
 02:16:39,774 --> 02:16:42,774
-Nu... ar fi trebuit să te ascult , Mamă Gibbs . Așa sunt toți oamenii! Orbi.
+Nu... ar fi trebuit să te ascult
+, Mamă Gibbs
+.
+Așa sunt toți oamenii! Orbi.
 
 1365
 02:16:49,946 --> 02:16:52,946
-Uite, se înseninează. Au apărut stelele.
+Uite, se înseninează.
+Au apărut stelele.
 
 1366
 02:16:55,032 --> 02:16:58,032
-D omnule Stimson, aș f i trebuit să-i ascult.
+D
+omnule Stimson,
+aș
+f
 
 1367
 02:17:00,118 --> 02:17:03,118
-A cuma ști e . Acuma ști e ! A st a însemna să fii în viață.
+A
+cuma ști
+e
+. Acuma ști
 
 1368
 02:17:05,205 --> 02:17:08,205
-Să te miști învăluit într-un nor de ignoranță; să te miști de colo până colo,
+Să te miști învăluit într-un nor de ignoranță;
+să te miști de colo până colo,
 
 1369
 02:17:10,291 --> 02:17:13,291
-călc â nd în picioare sentimentele celor din jurul tău.
+călc
+â
+nd în picioare sentimentele
+celor
 
 1370
 02:17:15,377 --> 02:17:18,377
-Să-ți pierzi și să-ți irosești timpul de parcă ai fi avut milioane de ani la dispoziție.
+Să-ți pierzi și să-ți irosești timpul
+de parcă ai fi avut milioane de ani la dispoziție.
 
 1371
 02:17:25,549 --> 02:17:28,549
-Să fii întotdeauna supus unei pasiuni egoiste.
+Să fii întotdeauna supus
+unei pasiuni egoiste.
 
 1372
 02:17:30,635 --> 02:17:33,635
-A ceasta e fericita existență în care voia i să ste înto arc i . Acum ști i ...
+A
+ceasta e fericita existență
+în care voia
+i
 
 1373
 02:17:35,721 --> 02:17:38,721
@@ -5492,23 +6889,28 @@ Ignoranță și orbire.
 
 1374
 02:17:45,893 --> 02:17:48,893
-Simon Stimson, ăsta nu-i tot adevărul, și o știi prea bine.
+Simon Stimson, ăsta nu-i tot adevărul,
+și o știi prea bine.
 
 1375
 02:17:50,980 --> 02:17:53,980
-Emily, uită-te la steaua aceea de sus. Am uitat cum îi spune.
+Emily, uită-te la steaua aceea de sus.
+Am uitat cum îi spune.
 
 1376
 02:18:01,152 --> 02:18:04,152
-Băiatul meu, Joel, era marinar... le știa pe toate...
+Băiatul meu, Joel, era marinar...
+le știa pe toate...
 
 1377
 02:18:06,238 --> 02:18:09,238
-Stătea seara în prag și spunea cum se numește fiecare din ele. Într-adevăr, a fost minunat.
+Stătea seara în prag și spunea cum se numește
+fiecare din ele.
+Într-adevăr, a fost minunat.
 
 1378
 02:18:11,324 --> 02:18:14,324
-O stea e o foarte bună tovărășie.
+O stea
 
 1379
 02:18:16,410 --> 02:18:19,410
@@ -5516,11 +6918,13 @@ Da, așa e.
 
 1380
 02:18:21,496 --> 02:18:24,496
-Iat ă, v ine unul dintre ei.
+Iat
+ă, v
 
 1381
 02:18:26,582 --> 02:18:29,582
-Ciudat. Acuma nu-i timpul ca vreunul din ei să vină aici. Dumnezeule!
+Ciudat. Acuma nu-i timpul ca vreunul
+din ei să vină aici. Dumnezeule!
 
 1382
 02:18:31,668 --> 02:18:34,668
@@ -5536,19 +6940,23 @@ E George.
 
 1385
 02:18:46,927 --> 02:18:49,927
-Și băiatul meu, Joel, care știa numele tuturor stelelor... îmi zicea că i-a trebuit
+Și băiatul meu, Joel, care știa numele
+tuturor stelelor... îmi zicea că i-a trebuit
 
 1386
 02:18:52,013 --> 02:18:55,013
-licăririi aceleia de lumină milioane de ani ca să ajungă până la noi.
+licăririi aceleia de lumină milioane de ani
+ca să ajungă până la noi.
 
 1387
 02:18:57,099 --> 02:19:00,099
-A șa spunea el... milioane de ani.
+A
+șa spunea el... milioane de ani.
 
 1388
 02:19:02,185 --> 02:19:05,185
-Dumnezeule! Asta nu-i o purtare de om în toată firea.
+Dumnezeule! Asta nu-i o purtare
+de om în toată firea.
 
 1389
 02:19:07,271 --> 02:19:10,271
@@ -5556,11 +6964,16 @@ Acuma ar trebui să fie acasă.
 
 1390
 02:19:12,357 --> 02:19:15,357
-– Mamă Gibbs? – Da, Emily?
+–
+Mamă Gibbs?
+– Da, Emily?
 
 1391
 02:19:17,443 --> 02:19:20,443
-– Ei nu pot î nțelege, mei așa? – Nu, draga mea. Ei nu pot înțelege.
+–
+
+Ei nu pot
+î
 
 1392
 02:19:27,616 --> 02:19:30,616
@@ -5572,23 +6985,36 @@ Au rămas aprinse câteva lumini:
 
 1394
 02:19:42,874 --> 02:19:45,874
-la depou, Shorty Hawkins, care s-a uitat cum trece trenul d in Boston .
+la depou, Shorty Hawkins, care s-a uitat
+cum trece trenul d
+in Boston
+.
 
 1395
 02:19:47,960 --> 02:19:50,960
-Din hambarul lui Ellerey Greenough se aud voci .
+Din
+hambarul
+lui Ellerey Greenough
+se aud
 
 1396
 02:19:53,046 --> 02:19:56,046
-Da, se înseninează. S-au ivit stelele... făc â ndu-și drumul lor,
+Da, se înseninează. S-au ivit stelele...
+făc
+â
+ndu-și drumul lor,
 
 1397
 02:19:58,132 --> 02:20:01,132
-străvechiul lor drum pe bolta cerului. Savanții nu s-au lămurit încă,
+străvechiul lor drum pe bolta cerului.
+Savanții nu s-au lămurit încă,
 
 1398
 02:20:03,218 --> 02:20:06,218
-dar după c â t se pare pe aceste stele nu există ființe vii.
+dar după c
+â
+t se pare pe aceste stele
+nu există ființe vii.
 
 1399
 02:20:08,305 --> 02:20:11,305
@@ -5596,21 +7022,30 @@ Numai roci... sau foc.
 
 1400
 02:20:18,477 --> 02:20:21,477
-Numai steaua aceasta se străduie mereu, mergând mereu mai departe, pentru a realiza ceva.
+Numai steaua aceasta se străduie mereu,
+mergând mereu mai departe, pentru a realiza ceva.
 
 1401
 02:20:23,563 --> 02:20:26,563
-Și strădania ei e at â t de intensă, încât la fiecare șaisprezece ore se culcă și doarme.
+Și strădania ei e at
+â
+t de intensă, încât
+la fiecare șaisprezece ore se culcă și doarme.
 
 1402
 02:20:33,735 --> 02:20:36,735
-E ora unsprezece în Grover's Corners. Toată lumea merge la culcare.
+E ora unsprezece
+
+în Grover's Corners.
+Toată lumea merge la culcare.
 
 1403
 02:20:38,821 --> 02:20:41,821
-M âine începe o nouă zi.
+M
+âine începe o nouă zi.
 
 1404
 02:20:43,907 --> 02:20:46,907
-Duceți-vă și dumneavoastră să vă odihniți: Noapte bună.
+Duceți-vă și dumneavoastră să vă odihniți:
+Noapte bună.
 
