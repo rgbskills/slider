@@ -5,9 +5,7 @@
   "type": "module",
   "main": "program/pptx-to-srt.mjs",
   "scripts": {
-    "convert": "node program/convert-all.mjs",
-    "convert:fast": "node program/convert-all.mjs 2",
-    "convert:slow": "node program/convert-all.mjs 5"
+    "convert": "node program/convert-all.mjs"
   },
   "keywords": ["pptx", "srt", "subtitles", "davinci-resolve", "powerpoint"],
   "author": "",

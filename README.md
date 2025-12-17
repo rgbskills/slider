@@ -16,17 +16,13 @@ Converts PowerPoint presentations with colored text to DaVinci Resolve subtitle 
 
 ```bash
 # Basic conversion (3 seconds per subtitle)
-npm run convert
+npm run convert -- -f file.pptx
 
 # Custom interval (5 seconds per subtitle)
-npm run convert -- 5
+npm run convert -- -f file.pptx 5
 
 # Spread subtitles between timecodes
-npm run convert -- -s 00:02:43:18 -e 02:20:54:02
-
-# Presets
-npm run convert:fast    # 2 seconds
-npm run convert:slow    # 5 seconds
+npm run convert -- -f file.pptx -s 00:02:43:18 -e 02:20:54:02
 ```
 
 ## How It Works

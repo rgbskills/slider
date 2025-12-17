@@ -58,19 +58,30 @@ async function main() {
   // Parse command line arguments
   const args = process.argv.slice(2);
   const options = {
+    filename: null,
     interval: null,
     startTimecode: null,
     endTimecode: null
   };
   
   for (let i = 0; i < args.length; i++) {
-    if (args[i] === '-s' || args[i] === '--start') {
+    if (args[i] === '-f' || args[i] === '--file') {
+      options.filename = args[++i];
+    } else if (args[i] === '-s' || args[i] === '--start') {
       options.startTimecode = args[++i];
     } else if (args[i] === '-e' || args[i] === '--end') {
       options.endTimecode = args[++i];
     } else if (!args[i].startsWith('-')) {
       options.interval = args[i];
     }
+  }
+  
+  if (!options.filename) {
+    console.error('Error: Filename required. Use -f or --file to specify the file to convert.');
+    console.log('\nUsage:');
+    console.log('  npm run convert -- -f filename.pptx -s 00:02:43:18 -e 02:20:54:02');
+    console.log('  npm run convert -- -f filename.pptx 5  (5 second interval)');
+    process.exit(1);
   }
   
   try {
@@ -86,28 +97,26 @@ async function main() {
     // Ensure converted directory exists
     await fs.mkdir(CONVERTED_DIR, { recursive: true });
     
-    // Read all files from input directory
-    const files = await fs.readdir(INPUT_DIR);
-    
-    // Filter for PPTX files
-    const pptxFiles = files.filter(file => 
-      file.toLowerCase().endsWith('.pptx') || file.toLowerCase().endsWith('.ppt')
-    );
-    
-    if (pptxFiles.length === 0) {
-      console.log(`No PPTX files found in '${INPUT_DIR}' directory.`);
-      console.log(`\nPlace your PowerPoint files (.pptx or .ppt) in the '${INPUT_DIR}' folder.`);
-      process.exit(0);
+    // Check if file exists
+    const filePath = path.join(INPUT_DIR, options.filename);
+    try {
+      await fs.access(filePath);
+    } catch (e) {
+      console.error(`Error: File '${options.filename}' not found in input/ folder.`);
+      console.log('\nAvailable files:');
+      const files = await fs.readdir(INPUT_DIR);
+      const pptxFiles = files.filter(f => 
+        f.toLowerCase().endsWith('.pptx') || f.toLowerCase().endsWith('.ppt')
+      );
+      pptxFiles.forEach(f => console.log(`  - ${f}`));
+      process.exit(1);
     }
     
-    console.log(`Found ${pptxFiles.length} file(s) to convert:\n`);
-    pptxFiles.forEach((file, i) => {
-      console.log(`  ${i + 1}. ${file}`);
-    });
+    console.log(`Converting: ${options.filename}\n`);
     
-    // Convert each file
-    for (const file of pptxFiles) {
-      const filePath = path.join(INPUT_DIR, file);
+    // Convert the file
+    const file = options.filename;
+    try {
       
       // Check if it's a .ppt file and convert it first
       if (file.toLowerCase().endsWith('.ppt')) {
@@ -141,14 +150,18 @@ async function main() {
         } catch (e) {
           console.error(`Failed to convert ${file}: ${e.message}`);
           console.log('See CONVERSION.md for manual conversion options.');
+          process.exit(1);
         }
       } else {
         await convertFile(filePath, options);
       }
+    } catch (error) {
+      console.error(`Error converting file: ${error.message}`);
+      process.exit(1);
     }
     
     console.log(`\n${'='.repeat(60)}`);
-    console.log('✓ All conversions complete!');
+    console.log('✓ Conversion complete!');
     console.log(`Check the '${CONVERTED_DIR}' folder for your subtitle files.`);
     console.log('='.repeat(60));
     
