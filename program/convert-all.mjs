@@ -14,15 +14,29 @@ const PROJECT_ROOT = path.join(__dirname, '..');
 const INPUT_DIR = path.join(PROJECT_ROOT, 'input');
 const CONVERTED_DIR = path.join(PROJECT_ROOT, 'converted');
 
-async function convertFile(filePath, interval) {
+// Parse timecode (HH:MM:SS:FF) to milliseconds (assuming 25 fps)
+function timecodeToMs(timecode, fps = 25) {
+  const parts = timecode.split(':').map(Number);
+  if (parts.length !== 4) {
+    throw new Error(`Invalid timecode format: ${timecode}. Use HH:MM:SS:FF`);
+  }
+  const [hours, minutes, seconds, frames] = parts;
+  return (hours * 3600 + minutes * 60 + seconds) * 1000 + (frames / fps) * 1000;
+}
+
+async function convertFile(filePath, options) {
   return new Promise((resolve, reject) => {
     console.log(`\n${'='.repeat(60)}`);
     console.log(`Converting: ${path.basename(filePath)}`);
     console.log('='.repeat(60));
     
     const args = [path.join(__dirname, 'pptx-to-srt.mjs'), filePath];
-    if (interval) {
-      args.push('-d', interval);
+    
+    if (options.startTimecode && options.endTimecode) {
+      args.push('--start-timecode', options.startTimecode);
+      args.push('--end-timecode', options.endTimecode);
+    } else if (options.interval) {
+      args.push('-d', options.interval);
     }
     
     const process = spawn('node', args, {
@@ -41,8 +55,23 @@ async function convertFile(filePath, interval) {
 }
 
 async function main() {
-  // Get interval from command line argument (optional)
-  const interval = process.argv[2];
+  // Parse command line arguments
+  const args = process.argv.slice(2);
+  const options = {
+    interval: null,
+    startTimecode: null,
+    endTimecode: null
+  };
+  
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '-s' || args[i] === '--start') {
+      options.startTimecode = args[++i];
+    } else if (args[i] === '-e' || args[i] === '--end') {
+      options.endTimecode = args[++i];
+    } else if (!args[i].startsWith('-')) {
+      options.interval = args[i];
+    }
+  }
   
   try {
     // Check if input directory exists
@@ -108,13 +137,13 @@ async function main() {
           });
           
           // Now convert the PPTX file
-          await convertFile(pptxPath, interval);
+          await convertFile(pptxPath, options);
         } catch (e) {
           console.error(`Failed to convert ${file}: ${e.message}`);
           console.log('See CONVERSION.md for manual conversion options.');
         }
       } else {
-        await convertFile(filePath, interval);
+        await convertFile(filePath, options);
       }
     }
     

@@ -18,7 +18,9 @@ function parseArgs() {
     lang2: 'en',
     output: 'separate', // 'separate' or 'bilingual'
     debug: false,
-    outputDir: 'converted' // Output directory
+    outputDir: 'converted', // Output directory
+    startTimecode: null,
+    endTimecode: null
   };
 
   for (let i = 0; i < args.length; i++) {
@@ -41,6 +43,10 @@ function parseArgs() {
       config.lang2 = args[++i];
     } else if (arg === '--output') {
       config.output = args[++i];
+    } else if (arg === '--start-timecode') {
+      config.startTimecode = args[++i];
+    } else if (arg === '--end-timecode') {
+      config.endTimecode = args[++i];
     } else if (arg === '--debug') {
       config.debug = true;
     } else if (!arg.startsWith('-')) {
@@ -88,6 +94,16 @@ const xmlParser = new XMLParser({
   trimValues: true,
   removeNSPrefix: true
 });
+
+// Parse timecode (HH:MM:SS:FF) to milliseconds (assuming 25 fps)
+function timecodeToMs(timecode, fps = 25) {
+  const parts = timecode.split(':').map(Number);
+  if (parts.length !== 4) {
+    throw new Error(`Invalid timecode format: ${timecode}. Use HH:MM:SS:FF`);
+  }
+  const [hours, minutes, seconds, frames] = parts;
+  return (hours * 3600 + minutes * 60 + seconds) * 1000 + (frames / fps) * 1000;
+}
 
 // Color matching helpers
 function normalizeColor(color) {
@@ -301,6 +317,21 @@ async function main() {
   }
   
   const slideIdArray = Array.isArray(slideIds) ? slideIds : [slideIds];
+  
+  // Calculate duration per slide if timecodes are provided
+  let calculatedDuration = config.defaultDuration;
+  if (config.startTimecode && config.endTimecode) {
+    const startMs = timecodeToMs(config.startTimecode);
+    const endMs = timecodeToMs(config.endTimecode);
+    const totalDuration = endMs - startMs;
+    calculatedDuration = totalDuration / slideIdArray.length;
+    
+    console.log(`Spreading ${slideIdArray.length} slides from ${config.startTimecode} to ${config.endTimecode}`);
+    console.log(`Duration per slide: ${(calculatedDuration / 1000).toFixed(2)}s\n`);
+    
+    config.startOffset = startMs;
+    config.defaultDuration = calculatedDuration;
+  }
   
   // Read relationships to map slide IDs to file names
   const relsXml = await zip.file('ppt/_rels/presentation.xml.rels')?.async('string');
