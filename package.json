@@ -1,0 +1,17 @@
+{
+  "name": "pptx-to-srt",
+  "version": "1.0.0",
+  "description": "Convert PowerPoint slides with bilingual subtitles to DaVinci Resolve SRT format",
+  "type": "module",
+  "main": "pptx-to-srt.mjs",
+  "scripts": {
+    "convert": "node pptx-to-srt.mjs"
+  },
+  "keywords": ["pptx", "srt", "subtitles", "davinci-resolve", "powerpoint"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jszip": "^3.10.1",
+    "fast-xml-parser": "^4.3.3"
+  }
+}
