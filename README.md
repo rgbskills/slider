@@ -1,185 +1,147 @@
 # PPTX to SRT Converter
 
-Convert PowerPoint presentations with bilingual subtitles to DaVinci Resolve SRT subtitle format.
+Convert PowerPoint presentations with bilingual subtitles (Romanian/English) to DaVinci Resolve SRT subtitle format.
 
-## Features
+## Quick Start
 
-- ✅ Extracts subtitles from PPTX slides based on text color
-- ✅ Supports Romanian (white text) and English (yellow text) by default
-- ✅ Reads slide timing from PPTX when available
-- ✅ Configurable default duration for slides without timing
-- ✅ Two output modes: separate SRT files or bilingual SRT
-- ✅ Handles large presentations efficiently
-- ✅ Debug mode for troubleshooting
-
-## Installation
+### 1. Install Dependencies
 
 ```bash
 npm install
 ```
 
-This installs:
-- `jszip` - for reading PPTX files
-- `fast-xml-parser` - for parsing PowerPoint XML
+### 2. Add Your Files
 
-## Usage
+Place your PowerPoint files in the `input/` folder:
 
-### Basic Usage
+```
+slider/
+├── input/              ← Put your .pptx or .ppt files here
+│   ├── fasz.pptx
+│   ├── movie.ppt
+│   └── presentation.pptx
+└── converted/          ← Converted SRT files appear here
+```
+
+### 3. Convert
 
 ```bash
-node pptx-to-srt.mjs file.pptx
+npm run convert              # Default: 3 seconds per subtitle
+npm run convert -- 5         # Custom: 5 seconds per subtitle
+npm run convert:fast         # Fast: 2 seconds per subtitle
+npm run convert:slow         # Slow: 5 seconds per subtitle
 ```
 
-This creates:
-- `subtitles.ro.srt` (white/Romanian text)
-- `subtitles.en.srt` (yellow/English text)
+### 4. Get Your Subtitles
 
-### With Options
+Files are saved in `converted/` with the original filename:
+
+```
+converted/
+├── fasz.en.srt         ← English subtitles (yellow text)
+├── fasz.ro.srt         ← Romanian subtitles (white text)
+├── movie.en.srt
+└── movie.ro.srt
+```
+
+## How It Works
+
+- **White text** (#FFFFFF) → Romanian subtitles (`.ro.srt`)
+- **Yellow text** (#FFFF00) → English subtitles (`.en.srt`)
+- **Default duration**: 3 seconds per slide
+- **Auto-conversion**: `.ppt` files are automatically converted to `.pptx`
+
+## Single File Conversion
 
 ```bash
-node pptx-to-srt.mjs file.pptx --out output --default-duration 5 --output separate
+node program/pptx-to-srt.mjs input/fasz.pptx           # Default: 3 seconds
+node program/pptx-to-srt.mjs input/fasz.pptx -d 5      # Custom: 5 seconds
 ```
 
-### Bilingual Mode
+## Advanced Options
 
 ```bash
-node pptx-to-srt.mjs file.pptx --output bilingual
+# Custom duration (5 seconds per slide)
+node program/pptx-to-srt.mjs input/fasz.pptx -d 5
+node program/pptx-to-srt.mjs input/fasz.pptx --interval 5
+
+# With start offset (2 seconds)
+node program/pptx-to-srt.mjs input/fasz.pptx -d 3 --start-offset-ms 2000
+
+# Debug mode (see extraction details)
+node program/pptx-to-srt.mjs input/fasz.pptx --debug
+
+# Bilingual mode (both languages in one file)
+node program/pptx-to-srt.mjs input/fasz.pptx --output bilingual
+
+# Custom output directory
+node program/pptx-to-srt.mjs input/fasz.pptx --out mysubtitles
 ```
 
-Creates a single SRT file with both languages:
-```
-1
-00:00:00,000 --> 00:00:04,000
-English subtitle text
-Romanian subtitle text
-```
-
-### Full Example
-
-```bash
-node pptx-to-srt.mjs presentation.pptx \
-  --out subtitles \
-  --default-duration 4 \
-  --start-offset-ms 1000 \
-  --min-duration-ms 500 \
-  --lang1 ro \
-  --lang2 en \
-  --output separate \
-  --debug
-```
-
-## CLI Options
+### All Options
 
 | Option | Description | Default |
 |--------|-------------|---------|
 | `--out, -o <name>` | Output base name | `subtitles` |
-| `--default-duration <seconds>` | Default duration per slide | `4` |
-| `--start-offset-ms <ms>` | Global start offset in milliseconds | `0` |
-| `--min-duration-ms <ms>` | Minimum duration per slide | `500` |
-| `--lang1 <code>` | Language code for white text | `ro` |
-| `--lang2 <code>` | Language code for yellow text | `en` |
-| `--output <mode>` | Output mode: `separate` or `bilingual` | `separate` |
-| `--debug` | Print debug information | `false` |
-| `--help, -h` | Show help message | - |
-
-## How It Works
-
-1. **Reads PPTX structure**: Opens the PPTX file as a ZIP archive
-2. **Gets slide order**: Reads `presentation.xml` for correct slide sequence
-3. **Parses each slide**: Extracts text runs and their colors from slide XML
-4. **Color detection**: 
-   - White text (`#FFFFFF`) → Language 1 (Romanian)
-   - Yellow text (`#FFFF00`, `#FFC000`, etc.) → Language 2 (English)
-5. **Timing**: Uses slide timing from PPTX or default duration
-6. **Generates SRT**: Creates properly formatted subtitle files
-
-## Color Detection
-
-The tool reads color information from PPTX XML in this order:
-
-1. `a:rPr/a:solidFill/a:srgbClr/@val` - Direct RGB color
-2. `a:rPr/a:solidFill/a:schemeClr` - Theme colors (fallback)
-
-Supported colors:
-- **White**: `#FFFFFF` (Romanian)
-- **Yellow**: `#FFFF00`, `#FFC000`, `#FFD700` (English)
+| `--default-duration <seconds>` | Duration per slide | `3` |
+| `--start-offset-ms <ms>` | Global start offset | `0` |
+| `--min-duration-ms <ms>` | Minimum slide duration | `500` |
+| `--lang1 <code>` | Language for white text | `ro` |
+| `--lang2 <code>` | Language for yellow text | `en` |
+| `--output <mode>` | `separate` or `bilingual` | `separate` |
+| `--debug` | Show extraction details | `false` |
 
 ## Requirements
 
-- Node.js 14+ (uses ES modules)
-- Valid PPTX file with colored text runs
+- Node.js 14+
+- PPTX files with colored text (white for Romanian, yellow for English)
 
-## Working with .ppt Files
+## PowerPoint Setup
 
-This tool requires the modern `.pptx` format (Office Open XML). If you have an older `.ppt` file:
+Your slides should have:
+- **White text** (#FFFFFF) for Romanian
+- **Yellow text** (#FFFF00, #FFC000) for English
+- Text can be in any position on the slide
+- Multiple text boxes per slide are supported
 
-### Option 1: Convert with PowerPoint (macOS)
+## Import to DaVinci Resolve
 
-Use the included conversion script:
-
-```bash
-./convert-ppt.sh file.ppt
-```
-
-This uses AppleScript to automate Microsoft PowerPoint on macOS.
-
-### Option 2: Manual Conversion
-
-1. Open the `.ppt` file in PowerPoint
-2. File → Save As
-3. Choose format: "PowerPoint Presentation (.pptx)"
-4. Save
-
-### Option 3: Use LibreOffice (Free)
-
-```bash
-# Install LibreOffice first: brew install libreoffice
-soffice --headless --convert-to pptx file.ppt
-```
-
-## Output Format
-
-Standard SRT format compatible with DaVinci Resolve:
-
-```srt
-1
-00:00:00,000 --> 00:00:04,000
-First subtitle text
-
-2
-00:00:04,000 --> 00:00:08,000
-Second subtitle text
-```
+1. Open DaVinci Resolve
+2. Right-click timeline → **Subtitles** → **Import Subtitle**
+3. Select your `.srt` file
+4. Adjust styling in Inspector panel
 
 ## Troubleshooting
 
 ### No text extracted
+- Run with `--debug`: `node program/pptx-to-srt.mjs input/file.pptx --debug`
+- Check text colors in PowerPoint (select text → Font Color)
+- Ensure colors are exactly #FFFFFF (white) and #FFFF00 (yellow)
 
-Use `--debug` flag to see what's being detected:
+### Wrong file format
+- If you have a `.ppt` file, it will be auto-converted to `.pptx`
+- Manual conversion: Open in PowerPoint → Save As → PowerPoint Presentation (.pptx)
 
-```bash
-node pptx-to-srt.mjs file.pptx --debug
-```
+### Old subtitles in root folder
+- The tool now saves to `converted/` folder
+- Old files in root can be deleted
 
-This shows:
-- Slide numbers
-- Extracted text for each language
-- Colors detected
-- Duration used
+## Documentation
 
-### Wrong language assignment
+- [Usage Guide](docs/USAGE.md) - Detailed usage instructions
+- [PowerPoint Structure](docs/STRUCTURE.md) - Slide setup requirements
+- [Examples](docs/EXAMPLES.md) - SRT output examples
+- [Full Documentation](docs/INDEX.md) - Complete documentation index
 
-Check the actual text colors in PowerPoint:
-1. Select the text
-2. Check Font Color in the ribbon
-3. Ensure white text is `#FFFFFF` and yellow is `#FFFF00` or `#FFC000`
+## Features
 
-### Missing slides
-
-The tool processes slides in presentation order. If slides are missing:
-- Check that the PPTX file isn't corrupted
-- Verify slides contain text with the expected colors
-- Run with `--debug` to see which slides are processed
+✅ Color-based text extraction (white/yellow)  
+✅ Automatic .ppt to .pptx conversion  
+✅ Batch processing of multiple files  
+✅ Configurable timing and duration  
+✅ Bilingual or separate subtitle modes  
+✅ Debug mode for troubleshooting  
+✅ Memory efficient for large presentations  
 
 ## License
 
